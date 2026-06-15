@@ -2,12 +2,12 @@ version: "1.0"
 description: "Prompts for the TCC project"
 created_at: "2026-05-29"
 templates:
-  qwen3.5-4B:
+  qwen35-4B:
     description: "Prompt template for summarizing documents."
     system: | 
-      "Use APENAS o contexto abaixo para responder.
+      Use APENAS o contexto abaixo para responder.
       Se não houver informação suficiente, diga:
-      "Não encontrei essa informação no documento." "
+      Não encontrei essa informação no documento.
     template: |
       CONTEXTO:
       {context}
@@ -16,4 +16,4 @@ templates:
       {query}
 
       RESPOSTA:
-      {response}
+    
