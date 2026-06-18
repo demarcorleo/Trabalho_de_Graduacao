@@ -1,0 +1,16 @@
+faiss-cpu==1.14.3
+
+torch==2.x.x
+transformers==4.x.x
+sentence_transformers==5.6.0
+
+langchain-core==0.x.x
+langchain_community==0.4.3
+langchain-text-splitters==0.x.x
+
+llama-cpp-python==0.3.30
+
+pymupdf4llm==1.27.2.3
+
+python-dotenv==1.x.x
+PyYAML==6.x.x
