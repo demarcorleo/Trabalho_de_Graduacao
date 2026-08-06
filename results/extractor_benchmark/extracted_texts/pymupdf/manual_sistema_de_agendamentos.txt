@@ -1,0 +1,252 @@
+Sumário
+
+Introdução .................................................................................................................................... 4
+1.
+Acesso .................................................................................................................................. 5
+2.
+Tela Inicial ............................................................................................................................ 7
+3.
+Menu “Ações” ...................................................................................................................... 9
+3.1
+Conflitos ....................................................................................................................... 9
+3.2
+Grade ............................................................................................................................ 9
+3.2.1 Filtros ........................................................................................................................ 10
+3.3
+Novo Agendamento.................................................................................................. 11
+3.4
+Meus Agendamentos ............................................................................................... 14
+4.
+Considerações Finais ...................................................................................................... 14
+
+
+
+
+
+
+Índice de Imagens
+
+Figura 1 – Tela de acesso .................................................................................. 5
+Figura 2 - Recuperação de Senha ..................................................................... 6
+Figura 3 - Tela Inicial .......................................................................................... 7
+Figura 4 - Tela Inicial com identificação de usuário logado e logout. ................. 7
+Figura 5 - Ações disponíveis aos usuários. ........................................................ 8
+Figura 6 - Filtros de Pesquisa ............................................................................. 8
+Figura 7 - Tela de Listagem dos Conflitos .......................................................... 9
+Figura 8- Tela Grade ........................................................................................ 10
+Figura 9 - Tela Grade – Filtros ......................................................................... 11
+Figura 10 - Tela de Inserção de Reservas ....................................................... 11
+Figura 11 - Repetir Agendamento .................................................................... 12
+Figura 12 - Agendamento Adicionado .............................................................. 13
+Figura 13 - Meus Agendamentos ..................................................................... 14
+
+
+
+
+
+Introdução
+
+
+O Sistema de Agendamento de Salas foi desenvolvido com o objetivo de
+auxiliar docentes e técnicos no uso dos laboratórios e salas do instituto,
+visando uma melhor organização e praticidade no agendamento dos mesmos.
+
+Este manual foi construído de maneira a orientar na utilização do
+sistema, demonstrando passo-a-passo todas as suas funcionalidades.
+
+
+
+
+1. Acesso
+
+O acesso ao Sistema de Agendamentos de Salas é feito através do
+endereço www.agendamentos.c3.furg.br, onde é solicitado um usuário e senha,
+como demonstrado na imagem abaixo:
+
+
+Figura 1 – Tela de acesso
+
+
+O acesso por usuário e senha possibilita um melhor controle no sentido
+de diferenciar cada docente/técnico e seus respectivos agendamentos dos
+demais. O usuário é representado pelo login previamente cadastrado no
+sistema gerenciador de sites. Caso você ainda não tenha feito o seu cadastro,
+entre em contato com a equipe de técnicos.
+
+Para uma possível recuperação da senha, é necessário acessar o
+endereço www.c3.furg.br/admin. O mesmo é utilizado para administrar os sites
+do instituto. Através dele é possível recuperar a sua senha, preenchendo o seu
+login ou e-mail e clicando no link “Recuperar Senha”, como demonstrado na
+imagem a seguir:
+
+
+
+
+Figura 2 - Recuperação de Senha
+
+
+Após efetuado esse processo, você receberá um e-mail com as
+instruções para alteração da sua senha, tornando novamente disponível o
+acesso ao sistema.
+
+
+
+
+2. Tela Inicial
+
+Após feito o login, o sistema redirecionará para a tela inicial, que representa
+a grade de calendário, juntamente com alguns filtros para facilitar a
+visualização de agendamentos:
+
+Figura 3 - Tela Inicial
+
+Na parte superior, abaixo do banner de apresentação, podemos ver o
+usuário logado, juntamente com a opção de logout:
+
+Figura 4 - Tela Inicial com identificação de usuário logado e logout.
+
+
+
+Ao lado esquerdo da tela é possível visualizar o menu de ações
+disponíveis aos usuários, que incluem: Conflitos, Grade, Novo Agendamento e
+Meus Agendamentos.
+
+Figura 5 - Ações disponíveis aos usuários.
+
+
+Mais abaixo, próximo ao rodapé da página, estão disponíveis alguns filtros
+de pesquisa, que serão descritos mais detalhadamente a seguir:
+
+Figura 6 - Filtros de Pesquisa
+
+
+
+3. Menu “Ações”
+
+No menu “Ações” estão disponíveis os principais acessos ao sistema de
+agendamentos. Serão listados abaixo cada um deles com as suas respectivas
+funções:
+
+3.1 Conflitos
+Ao acessar o link “Conflitos” é possível visualizar todos os conflitos
+relacionados ao usuário logado.
+
+Figura 7 - Tela de Listagem dos Conflitos
+
+
+Entre as informações disponíveis nesta visualização, encontram-se: o
+dia e horário do agendamento, sala agendada, o professor com quem ocorreu
+o conflito e uma opção de deletar a reserva caso seja do interesse abrir mão do
+agendamento. Os mesmos conflitos são enviados para o e-mail do usuário.
+Também estão disponíveis duas opções de relatório para aqueles que tem
+interesse em manter um registro. As opões são de relatório “Geral” e “Mensal”.
+
+3.2 Grade
+No link “Grade”, que também representa a tela inicial após efetuado o
+login, temos disponível o calendário, onde é possível visualizar e efetuar as
+
+
+reservas em uma interface mais amigável, facilitando o processo de
+agendamento.
+
+
+Figura 8- Tela Grade
+
+Cada reserva aparecerá em sua respectiva posição no calendário,
+respeitando o dia e horário agendado. Cada laboratório é vinculado a uma cor:
+2104 (verde), 2106 (vermelho), 2111 (azul) e o laboratório do prédio novo
+(amarelo).
+
+3.2.1 Filtros
+
+Na parte inferior, estão disponíveis os filtros, que incluem as opções de
+selecionar a semana atual, através das setas azuis (podendo ser visualizada
+no calendário), o relatório (onde é possível gerar um relatório em PDF do
+período selecionado), e filtrar (para selecionar somente o laboratório desejado
+para visualizar os agendamentos).
+
+
+
+Figura 9 - Tela Grade – Filtros
+
+
+Estes filtros são muito úteis no sentido de facilitar o uso do sistema, seja
+em consultas ou controles por relatórios.
+
+3.3 Novo Agendamento
+O link “Novo Agendamento” resultará na tela abaixo, onde são
+especificadas as informações necessárias para uma reserva:
+
+Figura 10 - Tela de Inserção de Reservas
+
+
+
+• Data: Representa o dia da reserva. Caso a mesma seja repetida por
+várias semanas até o final do mês, esse será o dia inicial.
+• Horário Inicial: Horário pretendido para iniciar a reserva.
+• Horário Final: Horário pretendido para finalizar a reserva.
+• Sala: Laboratório pretendido para efetuar a reserva.
+• Descrição: Local para informar detalhes da reserva. Destinado a
+descrever o nome da disciplina ou curso ministrado e observações
+relevantes.
+• Repetir Agendamento: Para repetir o agendamento basca clicar no box
+ao lado da opção “Repetir Agendamento?”. Logo após aparecerá um
+formulário complementar, onde existem as opções de dias da semana
+para repetir a reserva (no caso, o mesmo dia que foi efetuada na data
+incial), e data final, representada pela opção “Termina em”.
+• Aviso prévio de conflitos: Informa se no horário e sala selecionada
+ocorre conflitos por já existir um agendamentos marcado.
+
+
+Figura 11 - Repetir Agendamento
+
+
+
+Figura 12 – Aviso prévio de conflitos
+
+
+
+
+
+
+Após o agendamento ser adicionado, o usuário será redirecionado para
+a tela da grade, onde aparecerá todos os agendamentos daquela semana,
+respeitando os dias, horários e laboratórios solicitados por cada usuário.
+
+Figura 13 - Agendamento Adicionado
+
+Em cada agendamento, estão disponíveis 4 (quatro) opções de controle:
+•
+: utilizado para vizualizar detalhes do agendamento;
+•
+: utilizado para excluir um agendamento específico;
+•
+: utilizado para excluir todos os agendamentos da série;
+•
+: utilizado para excluir o agendamento atual e todos relacionados ao
+mesmo dia.
+
+
+
+3.4 Meus Agendamentos
+No link “Meus Agendamentos” é possível visualizar uma lista com todas
+as reservas efetuadas pelo usuário. Entre as informações encontradas, estão:
+data, horário e laboratório.
+
+
+Figura 14 - Meus Agendamentos
+
+
+
+
+
+
+
+
+4. Considerações Finais
+
+Da maneira mais simples possível, foram demonstrados aqui as
+ferramentas disponíveis no Sistema de Agendamento de Salas, de forma a
+facilitar o processo de reservas.
+Para qualquer dúvida sobre a utilização do sistema, entre em contato com a
+equipe de técnicos ou através do e-mail: suporte.c3furg@gmail.com.

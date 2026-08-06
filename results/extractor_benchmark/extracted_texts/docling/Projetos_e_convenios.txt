@@ -1,0 +1,82 @@
+SERVIÇO PÚBLICO FEDERAL MINISTÉRIO DA EDUCAÇÃO UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+
+CENTRO DE CIÊNCIAS COMPUTACIONAIS
+
+Av. Itália, km 8, Prédio C3 - Campus Carreiros - Rio Grande/RS - (53)3233.6623 - c3.secretaria@furg.br
+
+NORMA COMPLEMENTAR C3 Nº 1/2021
+
+Aprovação e acompanhamento de projetos
+
+Em consonância com a  Instrução Normativa 003/2017 que trata sobre Fluxo dos Processos de Contratos, a Instrução Normativa Conjunta 001/2020 que dispõe sobre o cadastro e acompanhamento de projetos, o Centro  de  Ciências  Computacionais  estabelece  a  presente  norma  complementar  a  fim  de  detalhar  e otimizar o  fluxo de aprovação de projetos na unidade acadêmica.
+
+O fluxo de processos de aprovação de projetos pode ocorrer em duas situações:
+
+Cadastro de Projetos na Unidade Acadêmica; Alterações em Projetos.
+
+Todos os projetos que são submetidos na Universidade devem ser realizados por meio de cadastro no sistema específico, o SISPROJ. Segundo a PROPESP, ele  consiste de um sistema unificado de cadastro de Programas e Projetos de Ensino, Pesquisa e Inovação, Extensão e Cultura com os objetivos de auxiliar na gestão e viabilizar o mapeamento e acompanhamento interno e externo dos programas e projetos. Este sistema permite que os projetos, de natureza indissociável entre ensino, pesquisa e extensão, possam ser cadastrados uma única vez.
+
+Para o cadastro de novos projetos no SISPROJ, os seguintes passos são necessários:
+
+1. Coordenador insere projeto no SISPROJ e libera para aprovação  da Unidade,  ou, no caso de projetos que envolvam a fundação de apoio,  aprovação da FAURG;
+2. Após  o cadastro, ou aprovação da FAURG, quando se aplicar, o coordenador salva uma versão do Plano de  Trabalho  e  envia  por  email    para  a  direção  solicitando  a  inclusão  na  pauta  do  próxima  reunião  de conselho, indicando nome completo do projeto e número do SISPROJ;
+3. Se houver urgência em algum assunto, este pode ser enviado para a direção diretamente para aprovação, via ad referendum ;
+4. Na reunião de conselho é apresentado o plano de trabalho emitido no SISPROJ pelo coordenador;
+5. Se aprovado, o mesmo é inserido pela secretaria na Ata da reunião com o respectivo nr do SISPROJ e nome completo;
+6. A  direção  aprova  os  projetos  no  SISPROJ,  anexando  o  arquivo  contendo  a  Ata  de  Aprovação  do Conselho da Unidade.
+
+As alterações no projeto que demandam aprovação na unidade de origem, constantes na   IN Nº. 01/2020, são as seguintes:
+
+Alterações de bolsistas na equipe para o caso de servidores da FURG;
+
+Alterações em rubricas, vigências, cronogramas, servidores e coordenação do projeto, cfe segue:
+
+Art. 7º. As alterações de bolsistas na equipe de trabalho e a inclusão de  documentos poderão ocorrer ao longo da execução da proposta, sem que haja  necessidade de nova submissão ao conselho da unidade de origem.
+
+Parágrafo Único: a inclusão de servidores da FURG requer aprovação  da unidade de lotação, para ciência e concordância quanto às atividades e  carga horária atribuída.
+
+Art. 8º. Alterações em rubricas, vigências, cronogramas, inclusão de servidores  e na coordenação do projeto  deverão  ser  realizadas  mediante  devolução  do    projeto  para  ajustes  e  nova  submissão  ao
+
+Chave de Autenticidade: 9996.0F04.071A.21A3
+
+
+
+
+
+conselho da unidade de origem. (INSTRUÇÃO NORMATIVA CONJUNTA PROGRAD/PROEXC/PROPESP Nº. 01/2020 )
+
+Para esses casos, o seguinte fluxo para alteração de projetos deve ser seguido:
+
+- 1 - Coordenador do projeto procede a devolução do projeto no SISPROJ e executa a alteração no mesmo. Após concluir as alterações, libera para aprovação da direção.
+- 2 - Coordenador do projeto envia documento (email) para a direção, solicitando a aprovação do projeto, indicando claramente quais foram os pontos alterados. Em caso de urgência, a direção pode proceder à aprovação via ad referendum .
+- 3  -  Na  reunião  do  conselho  é  apresentado  o  documento  que  solicita  a  alteração  e  o  plano  de  trabalho modificado (versão SISPROJ).
+- 4 - Se aprovado, o mesmo é inserido pela secretaria na Ata da reunião com o respectivo nr do SISPROJ e nome completo.
+- 5  -  A  direção  aprova  os  projetos  no  SISPROJ,  anexando  o  arquivo  contendo  a  Ata  de  Aprovação  do Conselho da Unidade.
+
+Fluxo de Aprovação de Projetos
+
+
+
+
+
+Referências
+
+INSTRUÇÃO NORMATIVA CONJUNTA PROGRAD/PROEXC/PROPESP Nº. 01/2020: Dispõe sobre  o  cadastro  e  acompanhamento  de  projetos  de    ensino,  pesquisa,  extensão,  cultura  e desenvolvimento  institucional no âmbito interno da FURG.
+
+https://conselhos.furg.br/arquivos/instrucoes-
+
+normativas/propesp/2020/INSTRUO_NORMATIVA_CONJUNTA_01-2020.pdf
+
+IN Nº 003/2017 Fluxo dos Processos de Contratos: Dispõe sobre a regulamentação, no âmbito interno  da  FURG,  do  fluxo  dos  processos  de  contratos  em  que  a  Universidade  atue  como contratada, de convênios, e demais instrumentos congêneres.
+
+Chave de Autenticidade: 9996.0F04.071A.21A3
+
+
+
+
+
+Cadastro  de  Projetos  de  Pesquisa:  Orientações  dadas  pela  PROPESP  para  cadastro  de projetos no sistema. https://propesp.furg.br/pt/pesquisa/projetos-depesquisa/informacoes/2457-esclarecimentos-sobre-o-cadastro-de-projetos-de-pesquisa-2 Manual dos passos básicos do SISPROJ: https://propesp.furg.br/images/arquivos_propesp/DIPESQ/Cadastro-no-SisProj-Responsveispelo-projeto-.pdf
+
+Fonte: PROPESP
+
+Chave de Autenticidade: 9996.0F04.071A.21A3

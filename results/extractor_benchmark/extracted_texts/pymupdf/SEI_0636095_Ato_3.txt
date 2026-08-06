@@ -1,0 +1,311 @@
+SERVIÇO PÚBLICO FEDERAL
+MINISTÉRIO DA EDUCAÇÃO
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+COORD CUR DE PG EM ENGENHARIA DE COMPUTAÇÃO
+
+ATO N° 3, DE 08 DE JULHO DE 2026
+
+
+Dispõe sobre as normas gerais do Programa de Pós-
+Graduação em Computação (PPGComp) da FURG.
+
+O Coordenador do Programa de Pós-graduação em Computação (PPGComp), considerando o Regimento
+Geral da FURG, o Regimento Geral dos Programas de Pós-Graduação Stricto Sensu da FURG, o
+Regimento do Centro de Ciências Computacionais, a Resolução COEPEA/3ª CÂMARA/FURG N° 14, de
+16 de dezembro de 2024, e a Resolução COEPEA/FURG N° 228, de 20 de dezembro de 2024,
+
+RESOLVE:
+
+CAPÍTULO I
+DOS OBJETIVOS, DAS LINHAS DE PESQUISA E DA ORGANIZAÇÃO
+
+Art. 1º O Programa de Pós-Graduação em Computação - PPGComp tem como unidade acadêmica de
+vínculo o Centro de Ciências Computacionais - C3 da Universidade Federal do Rio Grande - FURG.
+
+Art. 2º O PPGComp tem por objetivo formar para a pesquisa, o ensino, o desenvolvimento científico-
+tecnológico e a inovação, assim como para outras atividades profissionais, na área da Computação.
+Parágrafo único. Para instrumentalizar seus objetivos, o Programa de Pós-Graduação em Computação
+mantém, como cursos regulares de pós-graduação stricto sensu, Mestrado e Doutorado em Engenharia de
+Computação.
+
+Art. 3º O PPGComp tem como área de concentração a Computação, compreendida como a área do
+conhecimento em que teorias, modelos, métodos, técnicas e sistemas computacionais constituem objeto de
+estudo e de desenvolvimento, bem como instrumento para a solução de problemas científicos, tecnológicos
+e de engenharia.
+§ 1º As atividades de ensino, pesquisa, extensão, desenvolvimento e inovação do Programa, voltadas à
+concepção, implementação, avaliação e aplicação de soluções computacionais para problemas complexos,
+organizam-se nas seguintes linhas de pesquisa:
+I – Fundamentos e Aplicações de Inteligência Artificial e Computacional;
+II – Robótica, Automação Inteligente e Sistemas de Computação.
+§ 2º As descrições e os objetivos da área de concentração e das linhas de pesquisa constam do Projeto
+Pedagógico do Curso e das normas institucionais aplicáveis.
+
+Ato 3 (0636095)         SEI 23116.009147/2026-19 / pg. 1
+
+
+Art. 4º O Programa de Pós-Graduação em Computação é composto por Coordenação, Corpo Docente,
+Corpo Discente, Secretaria e Comissões Assessoras.
+
+CAPÍTULO II
+DO CORPO DOCENTE
+
+Art. 5º O Corpo Docente do Programa de Pós-Graduação é formado por docentes das seguintes categorias:
+I - docentes permanentes, constituindo o núcleo estruturante de docentes do programa;
+II - docentes colaboradores;
+III - docentes visitantes.
+Parágrafo único. Para enquadramento em cada uma das categorias, serão observados os pré-requisitos
+estabelecidos pela Coordenação de Aperfeiçoamento de Pessoal de Nível Superior - CAPES, conforme
+Portaria CAPES nº 81/2016, ou outra que venha a substituí-la, e demais normativas vigentes.
+
+Art. 6º São atribuições de todos os docentes do Programa de Pós-Graduação em Computação:
+I – ministrar disciplinas;
+II – orientar alunos;
+III – coordenar projetos de pesquisa;
+IV – publicar regularmente;
+V – integrar, no mínimo, uma Comissão e uma linha de pesquisa do Programa.
+
+Art. 7º São atribuições exclusivas dos docentes permanentes do Programa de Pós-Graduação em
+Computação:
+I – auxiliar a Coordenação na formulação e execução de atividades de ensino, pesquisa, extensão e
+inovação do Programa;
+II – propor alteração nas normas de funcionamento do Programa, a ser encaminhada para posterior
+homologação pelo Conselho do Centro de Ciências Computacionais;
+III – avaliar a criação e exclusão de disciplinas do Programa, a serem aprovadas pela Coordenação e
+encaminhadas para posterior homologação pelo Conselho do Centro de Ciências Computacionais;
+IV – pronunciar-se, sempre que convocados, sobre matéria de interesse do Programa.
+Parágrafo único. A proposta de alteração elaborada pelo corpo docente permanente deverá ser aprovada
+por, no mínimo, ⅔ (dois terços) de seus membros.
+
+Art. 8º A Coordenação do Programa de Pós-Graduação em Computação convocará e presidirá as reuniões
+do corpo docente permanente do PPGComp.
+§ 1º O corpo docente permanente do PPGComp será representado pela Coordenação do Programa de Pós-
+Graduação.
+§ 2º A convocatória será realizada pela Coordenação ou mediante solicitação de pelo menos ⅓ (um terço)
+do total de membros do corpo docente permanente.
+
+Art. 9º Para fins de credenciamento e recredenciamento de docentes permanentes e colaboradores no
+programa, será utilizada a produção acadêmica avaliada com base na regra da Comissão de Avaliação da
+CAPES na área Ciência da Computação (CA-CC), conforme o documento de área.
+Ato 3 (0636095)         SEI 23116.009147/2026-19 / pg. 2
+
+
+Parágrafo único. Os demais critérios deverão ser estabelecidos em edital.
+
+Art. 10 A distribuição de orientandos aos docentes permanentes e colaboradores do programa será
+realizada conforme norma específica.
+Parágrafo único. Poderão orientar alunos de Doutorado os docentes que possuírem bolsa de produtividade
+do CNPq ou tiverem, pelo menos, 5 (cinco) anos de conclusão do doutoramento e 1 (uma) orientação de
+Mestrado concluída.
+
+CAPÍTULO III
+DO CORPO DISCENTE
+
+Art. 11 O Corpo Discente do Programa de Pós-Graduação em Computação é constituído pelos estudantes
+regularmente matriculados nos cursos de Mestrado e Doutorado, bem como pelos alunos especiais
+admitidos em edital específico nos termos das normas institucionais.
+
+Art. 12 Os direitos e deveres dos discentes são aqueles previstos no Regimento Geral da Universidade, no
+Regimento Geral dos Programas de Pós-Graduação Stricto Sensu da FURG e demais normas
+institucionais aplicáveis.
+
+Art. 13 Os discentes do Programa poderão eleger representantes para atuação nos órgãos colegiados em
+que houver previsão de participação discente.
+Parágrafo único. A representação discente compreenderá, entre outras previstas na legislação e nas normas
+institucionais, a participação na Comissão de Bolsas do Programa e no Conselho do Centro de Ciências
+Computacionais.
+
+CAPÍTULO IV
+DA SECRETARIA
+
+Art. 14. A Secretaria do Programa de Pós-Graduação em Computação é responsável pelo suporte
+administrativo e acadêmico necessário ao seu funcionamento.
+Parágrafo único. As atribuições e os procedimentos da Secretaria são definidos por normas institucionais e
+por atos administrativos da Universidade, do Centro de Ciências Computacionais e da Coordenação do
+Programa, observada a legislação vigente.
+
+
+CAPÍTULO V
+DAS COMISSÕES ASSESSORAS
+
+Art. 15 O PPGComp é composto por 5 (cinco) Comissões Assessoras, formadas por docentes do
+PPGComp, indicados pela Coordenação: Comissão de Autoavaliação, Comissão de Bolsas, Comissão
+Científica, Comissão de Seleção e Comissão de preenchimento do relatório anual do Sucupira.
+§ 1º As Comissões Assessoras possuem caráter exclusivamente consultivo e de assessoramento, não lhes
+cabendo competência deliberativa, e têm suas atribuições definidas pela Coordenação do Programa,
+competindo-lhes analisar matérias específicas, emitir pareceres, elaborar estudos e apresentar
+recomendações para subsidiar as decisões da Coordenação.
+Ato 3 (0636095)         SEI 23116.009147/2026-19 / pg. 3
+
+
+§ 2º A Comissão de Bolsas possui composição específica e competências estabelecidas no Regimento
+Geral dos Programas de Pós-Graduação Stricto Sensu da FURG.
+§ 3º Compete à Comissão de Seleção analisar e emitir recomendação à Coordenação quanto à inclusão,
+nos editais de seleção, de reserva de vagas para ações de qualificação de servidores Técnico-
+Administrativos em Educação da FURG, observados o Regimento Geral dos Programas de Pós-Graduação
+Stricto Sensu da FURG e as normas complementares do Programa.
+§ 4º A critério da Coordenação, poderão ser extintas as atuais ou criadas novas Comissões Assessoras, de
+caráter permanente ou temporário.
+
+CAPÍTULO VI
+DAS DISCIPLINAS E DOS CRÉDITOS
+
+Art. 16. O aluno regular deverá integralizar, no mínimo, 24 (vinte e quatro) créditos no curso de Mestrado
+e 36 (trinta e seis) créditos no curso de Doutorado.
+Parágrafo único. Os créditos poderão ser obtidos por meio de disciplinas, mobilidade acadêmica, estágio
+supervisionado, atividades de extensão e outras atividades previstas neste Regimento.
+
+Art. 17 Quando houver ingresso ou reingresso como aluno regular, o interessado poderá solicitar o
+aproveitamento das disciplinas cursadas no PPGComp, conforme procedimento estabelecido pela
+Coordenação.
+Parágrafo único. O aluno estará dispensado de cursar as disciplinas nas quais já obteve aprovação.
+
+Art. 18 Quando tiver cursado disciplinas em outro programa de pós-graduação, o aluno regular poderá
+solicitar o aproveitamento dos créditos cursados.
+§ 1º É atribuição da Coordenação do Programa analisar o pedido.
+§ 2º Quando aprovado, o Coordenador poderá decidir pela equivalência de disciplinas, ou seja, a dispensa
+de cursar disciplina integrante do QSL do PPGComp, ou pelo cômputo dos créditos cursados na carga
+horária de disciplinas optativas exigida pelo programa.
+
+Art. 19 Para fins de aproveitamento, serão consideradas as disciplinas cursadas em qualquer programa de
+pós-graduação até 10 (dez) anos antes do ingresso do aluno no PPGComp.
+
+Art. 20 O Programa poderá ofertar componentes curriculares em formato híbrido, observado o disposto na
+Resolução COEPEA nº 327/2026, ou outra norma institucional vigente que venha a substituí-la.
+§ 1º Consideram-se componentes híbridos aqueles que combinam atividades presenciais e atividades
+remotas síncronas mediadas por tecnologias digitais.
+§ 2º Somente poderão ser ofertadas disciplinas híbridas que contem com participação de docente de outro
+Campus ou Instituição de Ensino Superior.
+
+Art. 21 O aluno regular poderá obter créditos por participação em atividades de extensão universitária em
+qualquer área do conhecimento, conforme o disposto na Resolução COEPEA nº 370/2026, ou outra norma
+institucional vigente que venha a substituí-la.
+§ 1º É atribuição da Coordenação do Programa analisar o pedido.
+§ 2º Será atribuído 1 (um) crédito para cada 60 (sessenta) horas de atividades de extensão comprovadas.
+§ 3º Poderão ser integralizados, no máximo, 2 (dois) créditos em atividades de extensão.
+Ato 3 (0636095)         SEI 23116.009147/2026-19 / pg. 4
+
+
+
+Art. 22 O aluno regular poderá integralizar créditos decorrentes de atividades de mobilidade acadêmica
+nacional ou internacional relacionadas ao seu projeto de pesquisa.
+§ 1º Poderá ser atribuído até 1 (um) crédito para mobilidade nacional e até 2 (dois) créditos para
+mobilidade internacional.
+§ 2º A atribuição dos créditos observará os requisitos e procedimentos estabelecidos pela Instrução
+Normativa PROPESP nº 2/2022 ou outra norma institucional vigente que venha a substituí-la.
+
+Art. 23 O aluno regular poderá obter créditos por produção científica decorrente das atividades de pesquisa
+desenvolvidas no âmbito do PPGComp.
+§ 1º Será concedido o equivalente a 2 (dois) créditos por artigo científico aceito para publicação ou
+publicado em periódico ou evento científico que atenda aos critérios de produção científica estabelecidos
+na norma interna do Programa para agendamento de defesa.
+§ 2º O aproveitamento de créditos de que trata o caput fica limitado a 2 (dois) créditos para o curso de
+Mestrado e a 4 (quatro) créditos para o curso de Doutorado.
+§ 3º Somente serão considerados artigos relacionados ao tema da dissertação ou da tese, desenvolvidos
+durante o período de vínculo do discente com o Programa.
+§ 4º A concessão dos créditos dependerá de requerimento do discente, anuência do orientador e
+homologação pela Coordenação do Programa.
+
+Art. 24 O aluno regular poderá solicitar dispensa da realização do Estágio de Docência mediante
+comprovação de estágio ou formação supervisionada em instituição pública, organização da sociedade
+civil ou empresa, desde que a atividade seja compatível com as linhas de pesquisa do PPGComp.
+Parágrafo único. O pedido será apreciado pela Coordenação do Programa, observadas as disposições da
+Resolução COEPEA nº 340/2026, ou outra norma institucional vigente que venha a substituí-la.
+
+Art. 25 Não há número mínimo ou máximo de créditos em que um aluno especial poderá se matricular no
+âmbito do PPGComp.
+Parágrafo único: A matrícula do aluno especial fica condicionada à aprovação em uma ou mais disciplinas
+oferecidas em edital de seleção específico.
+
+CAPÍTULO VII
+DO TRANCAMENTO
+
+Art. 26 É permitido ao discente solicitar trancamento de curso ou de disciplina, desde que obedeça ao
+calendário anual do Programa de Pós-Graduação em Computação e conte com a anuência do orientador,
+observado o disposto no Regimento dos Cursos de Pós-Graduação Stricto Sensu da Universidade.
+
+CAPÍTULO VIII
+DA QUALIFICAÇÃO E DA DEFESA
+
+Art. 27 O prazo regular para a defesa é regulamentado pelo Regimento da Pós-Graduação da
+Universidade, sendo de 24 meses para o Mestrado e de 48 meses para o Doutorado, podendo ambos ser
+prorrogados excepcionalmente por até 6 meses.
+Ato 3 (0636095)         SEI 23116.009147/2026-19 / pg. 5
+
+
+Art. 28 O aluno deverá observar o prazo mínimo de seis meses, para o Mestrado, e de doze meses, para o
+Doutorado, de intervalo entre a realização do exame de qualificação e a defesa.
+Parágrafo único. Além do disposto no caput, aplicam-se aos discentes bolsistas CAPES Demanda Social
+os prazos definidos em norma específica.
+Art. 29 O discente poderá solicitar a prorrogação do prazo para defesa, devidamente justificada, conforme
+procedimento estabelecido pelo Programa.
+§ 1º Para que seja válido o novo prazo solicitado, o pedido deverá ser aprovado pelo orientador e pela
+Coordenação do Programa.
+§ 2º O pedido realizado será de seis meses, observado o prazo máximo estabelecido pelo programa.
+
+Art. 30 Para solicitar o agendamento da defesa, o aluno deverá atender aos requisitos estabelecidos pela
+Coordenação do Programa, sendo eles:
+I - aprovação no exame de qualificação;
+II - composição da banca examinadora de acordo com o estabelecido no Regimento dos Cursos de Pós-
+Graduação Stricto Sensu da Universidade;
+III - ter produção científica relacionada ao tema da dissertação ou tese durante o curso de Mestrado ou
+Doutorado, conforme estabelecido em norma específica.
+IV - comprovação de proficiência em língua inglesa, mediante aprovação em exame cujo grau mínimo será
+definido pela Coordenação do Programa, sendo admitido certificado obtido antes ou durante a realização
+do curso.
+
+Art. 31 A proposta submetida ao exame de qualificação, a dissertação ou a tese poderão ser redigidas e
+apresentadas em língua portuguesa ou inglesa.
+Parágrafo único. Quando em língua inglesa, o texto deve incluir, ao menos, título, resumo e palavras-chave
+em português.
+
+Art. 32 O discente regular poderá requerer o aproveitamento de artigo científico aceito ou publicado
+relacionado ao tema de sua pesquisa para fins de avaliação do trabalho individual ou do exame de
+qualificação.
+§ 1º O aproveitamento de que trata o caput dependerá de anuência do orientador.
+§ 2º Os critérios para o aproveitamento de artigo científico serão estabelecidos em norma específica.
+
+Art. 33 O exame de qualificação e a defesa deverão ser realizados de forma pública, salvo nas hipóteses
+que necessitem sigilo de resultados que apresentem potencial inovador e sejam passíveis de proteção
+intelectual.
+Art. 34 Aplica-se ao exame de qualificação os mesmos critérios para composição da banca examinadora
+da defesa de dissertação, para alunos do Mestrado, ou da defesa de tese, para alunos do Doutorado.
+§ 1º Em caso de empate de votos quanto à aprovação ou reprovação do discente pela banca examinadora
+do exame de qualificação ou da defesa, o voto de um dos membros da FURG será excluído do cômputo.
+
+CAPÍTULO IX
+DA MUDANÇA DE NÍVEL
+
+Ato 3 (0636095)         SEI 23116.009147/2026-19 / pg. 6
+
+
+Art. 35 O aluno regularmente matriculado no curso de Mestrado poderá requerer alteração para o curso de
+Doutorado, sem defesa de dissertação.
+§ 1º O pedido de mudança de nível deverá ser instruído com parecer fundamentado do orientador e plano
+de trabalho compatível com os objetivos do curso de Doutorado.
+§ 2º A mudança de nível dependerá de análise e aprovação da Coordenação do Programa, observadas a
+disponibilidade de orientação e as normas institucionais vigentes.
+
+CAPÍTULO X
+DAS DISPOSIÇÕES GERAIS
+
+Art. 36 Os casos omissos e as dúvidas surgidas na aplicação da presente normativa serão resolvidos pela
+Coordenação do Programa.
+
+Art. 37 Esta normativa entra em vigor na data de sua aprovação pelo Conselho do Centro de Ciências
+Computacionais, revogando todas as disposições em contrário.
+
+
+Prof. Dr. Eduardo Nunes Borges
+Coordenador do PPGComp
+
+
+Referência: Caso responda este documento Ato, indicar o Processo nº 23116.009147/2026-19 SEI nº 0627444
+Documento assinado eletronicamente por Eduardo Nunes Borges, Coordenador de Curso, em
+08/07/2026, às 13:35, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto
+nº 8.539, de 8 de outubro de 2015.
+A autenticidade do documento pode ser conferida no site https://sei.furg.br/sei/controlador_externo.php?
+acao=documento_conferir&acao_origem=documento_conferir&lang=pt_BR&id_orgao_acesso_externo=0
+informando o código verificador 0636095 e o código CRC 79696A13.
+Referência: Caso responda este documento Ato, indicar o Processo nº 23116.009147/2026-19
+SEI nº 0636095
+Ato 3 (0636095)         SEI 23116.009147/2026-19 / pg. 7

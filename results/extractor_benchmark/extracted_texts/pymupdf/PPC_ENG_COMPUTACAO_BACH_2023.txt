@@ -1,0 +1,2534 @@
+SERVIÇO PÚBLICO FEDERAL
+MINISTÉRIO DA EDUCAÇÃO
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+PROJETO PEDAGÓGICO DO CURSO
+BACHARELADO EM ENGENHARIA DE COMPUTAÇÃO
+Abril
+2023
+
+
+1. JUSTIFICATIVA E HISTÓRICO DA CRIAÇÃO DO CURSO
+O Bacharelado em Engenharia de Computação foi instituído na FURG pela
+Deliberação n.O Número 029/93 do Conselho de Ensino, Pesquisa e Extensão
+(COEPE), da Universidade Federal de Rio Grande (FURG), em 15 de setembro de
+1993.
+Uma preocupação dominante na formulação do curso foi a busca por uma
+forte
+formação
+básica
+em
+Ciência
+Exatas
+e
+em
+Computação,
+visando-se,
+precisamente, dar um diferencial aos egressos no sentido de não se prenderem a
+métodos ou técnicas de uso momentâneo, mas, pelo contrário, darem valor aos
+princípios fundamentais da Ciência, de modo a poderem se adaptar às novas
+tecnologias, enquadrando-as em sua própria matriz de conhecimentos. Desde as
+disciplinas iniciais, o estudante é conscientizado da necessidade de dominar os
+fundamentos científicos abordados, para poder chegar às suas próprias soluções. O
+acerto de nossa proposta pode ser verificado pelo sucesso que têm tido nosso
+trabalho e nossos egressos.
+O Bacharelado foi criado em 1993 pela Deliberação n.O 029/93, do COEPE, ,
+da FURG, e teve a sua primeira turma de ingressantes em 1994. Ao todo, já são 460
+egressos distribuídos entre 25 turmas, de 1998 a 2022 (dados obtidos em abril de
+2023). Sem que se neguem deficiências, o acerto da proposta pôde ser atestado por
+nossos ex-estudantes, os quais têm-se colocado em empresas particulares e órgãos
+públicos e nas Forças Armadas, têm investido em negócios próprios, seguido
+estudos de pós-graduação no Brasil e no exterior, ou exercido o Magistério Superior.
+Um aspecto importante da nossa execução curricular é que, a despeito da
+exiguidade do corpo docente e da infraestrutura nos primeiros anos de curso, desde
+o seu início temos alcançado um eficaz clima de aprendizado cooperativo. Tal pode
+ser creditado ao espírito do currículo, à qualidade do corpo discente, que se esmera
+em suprir deficiências didáticas através do estudo responsável e do engajamento em
+pesquisa, e também à participação de todos os que compõem o “núcleo principal” do
+Curso na superação diária dos problemas.
+O Brasil ainda é muito carente nessa área, apesar de todo o esforço de
+formação de pessoal. Grande importador de sistemas computacionais, o país carece
+ainda de um conjunto de soluções próprias, adequadas a sua realidade cultural,
+econômica e industrial-tecnológica. Dada a essencialidade da informatização na
+chamada sociedade do conhecimento em que estamos inseridos, a quantidade de
+trabalho a ser executada nos próximos tempos é gigantesca. Devido a vários fatores
+históricos e econômicos, mas, também, graças a uma resposta positiva dada
+justamente pela Universidade brasileira na busca de uma capacitação no setor, hoje
+
+
+o Brasil já passa a ser visto como um mercado maduro para a alta tecnologia e, mais
+que isso, um pólo disseminador no hemisfério sul. Daí que, pela sua posição
+estratégica em relação ao continente e relativa qualidade da infraestrutura, se
+instalaram no Rio Grande do Sul empresas de vários portes. A premissa básica para
+tais investimentos só pode ser o crescimento das possibilidades de reinvestimento,
+de fortalecimento da estrutura socioeconômica circundante e do potencial de
+inter-relações produtivas existentes ou a serem criadas.
+De um ponto de vista mais regional e local, um fator evidentemente influente
+nesse processo é a instalação na região de empreendimentos tecnológicos, em
+função de que a própria Universidade tem se movimentado buscando espaços de
+inserção e intervenção científica, educacional e tecnológica, cujos aspectos já foram
+considerados em diversas ocasiões e documentos institucionais.
+Outra dimensão relevante para esta análise é a característica que deverá vir
+a assumir a participação econômica do segmento industrial de maior complexidade,
+aquele de maior valor agregado. Independente de haver ou não uma indústria de
+base em informática na região, aqui se incorpora, cada vez mais, elementos de
+automação, de modo a fazer frente à concorrência também aparelhada. Isto há de
+exigir competência em Computação associada às mais diversas áreas, da mecânica
+às telecomunicações, da construção civil à biotecnologia. Este é um espaço de
+expansão autônoma. Também no setor de serviços, a informatização envolve
+atividades diversificadas e vultosas. A disseminação do acesso à Internet, e outros
+ambientes
+similares,
+propicia
+uma
+demanda
+significativa
+de
+adaptação
+dos
+procedimentos de governo, de comércio, educacionais e de gerenciamento urbano e
+de transportes, demandando mão de obra especializada e conhecimento. Ainda, a
+pandemia de COVID-19 devido ao coronavírus SARS-CoV-2 impôs às empresas a
+adaptação das suas atividades para o trabalho remoto nas suas diversas áreas,
+exigindo aquisição e/ou aperfeiçoamento das suas ferramentas de comunicação,
+colaboração e gestão do fluxo de trabalho. Por consequência, a implantação
+tecnológica foi realizada em todas as áreas porque todos os negócios se tornaram
+digitais. A transformação digital tornou-se essencial para o crescimento das
+empresas, e a tecnologia mudou as formas de interação e conexão entre as
+pessoas. Portanto, tem sido item de pressão a necessidade de mão de obra
+especializada em Computação devido à digitalização de empresas.
+Com base nas breves constatações feitas acima, pode-se prever um
+crescimento das oportunidades de inserção da Engenharia de Computação, da
+
+
+Universidade e de nossos egressos nesses espaços de desenvolvimento que estão
+em pleno andamento. É claro que se coloca, para nós mesmos, a questão de
+provermos uma opção de qualidade. Entendemos que a qualidade, em nosso
+trabalho, não se destina apenas a atender uma demanda contemporânea, mas
+alicerçar, na área de influência da FURG, a evolução futura técnica e científica do
+setor.
+Com base na experiência vivida até o momento, do ponto de vista
+acadêmico, técnico, pedagógico e político, e tendo-se como cenário possível a
+evolução esboçada acima, nosso Curso tem ingressado numa fase de consolidação
+como pólo irradiador de competência em computação na região geoeconômica de
+influência da FURG. Desde sua entrada em funcionamento, pudemos verificar o
+diferencial
+estabelecido
+na
+região
+de
+Rio
+Grande
+quanto
+à
+demanda
+por
+equipamentos e serviços computacionais, tendo-se expandido o parque instalado
+nos espaços públicos e privados de atividade, evoluindo também o grau de
+sofisticação dos mesmos. Ao longo desse tempo, paulatinamente, a FURG foi sendo
+reconhecida pelo seu trabalho de formação na área. E hoje estamos diante de
+solicitações que nos desafiam a aprofundarmos nossas possibilidades de resposta e
+de intervenção positiva e alavancadora dessa evolução.
+O Curso deve, assim, se atualizar quanto à sua estrutura curricular, tanto na
+forma como no conteúdo. O Curso deve, por fim, amadurecer o gerenciamento, para
+incrementar sua capacidade de execução curricular. Há hoje uma percepção da
+necessidade de se evoluir em termos de estrutura curricular, ultrapassando-se o
+modelo disciplinar, em resposta a várias influências, internas e externas, como: a
+LDB, as propostas de diretrizes curriculares oficiais, as exigências do mundo do
+trabalho, as expectativas em nível de pós-graduação, os processos de avaliação
+institucional, o progresso da própria Universidade visando o detalhamento do seu
+projeto político-pedagógico etc.
+Muitos tópicos interessantes para a atualização profissional devem poder ser
+tratados de modo mais ágil do que como componente disciplinar, diversificando-se
+as
+atividades
+sujeitas
+a avaliação e registro formal. Deve-se aprofundar a
+abordagem da base para estudos avançados, melhorando e intensificando o
+aproveitamento do potencial discente em pesquisa e extensão, integrando tais
+aspectos ao fazer parte do cotidiano do Curso. É preciso incorporar mecanismos de
+modo a se reconhecer o saber discente pré-existente ou adquirido extraclasse, bem
+como incrementar o relacionamento entre o saber acadêmico e o mundo do
+trabalho. E, por último, mas não menos importante, integrar todas estas soluções
+para recriar o ambiente acadêmico como um todo, recuperando sua vocação de
+ambiente de desenvolvimento humano de alto nível. Enfim, há um extenso plano de
+
+
+trabalho pela frente. Por isso, o Curso sofre, constantemente, adaptações e
+atualizações em sua proposta pedagógica e curricular.
+2. PERFIL DESEJÁVEL DO INGRESSANTE
+Segundo a Resolução CNE 136/2012 (Conselho Nacional de Educação), publicado
+no D.O.U. de 28/10/2016, Seção 1, Pág. 26.:
+“Os Engenheiros de Computação disponibilizam para a sociedade
+produtos de eletrônica de consumo, de comunicações e de automação
+(industrial, bancária e comercial). Eles desenvolvem também sistemas de
+computação embarcados em aviões, satélites e automóveis, para realizar
+funções de controle. Uma grande linha de sistemas tecnologicamente
+complexos, como sistemas de geração e distribuição de energia elétrica e
+plantas modernas de processamento e industrial, dependem de sistemas de
+computação desenvolvidos e projetados por Engenheiros de Computação.
+Existe uma convergência de diversas tecnologias bem estabelecidas (como
+tecnologias de televisão, computação e redes de computadores) resultando
+em acesso amplo e rápido a informações em grande escala, em cujo
+desenvolvimento os Engenheiros de Computação têm uma participação
+efetiva.”
+Assim,
+procura-se
+para
+o
+ingressante
+no
+curso
+de
+Engenharia
+de
+Computação um perfil inicial que englobe as seguintes características:
+●
+Gosto pelo estudo de ciências exatas, particularmente matemática e
+física;
+●
+Interesse
+pela
+solução de problemas de um modo geral, com
+habilidade de raciocínio abstrato e criatividade para abordagens
+alternativas, envolvendo múltiplos aspectos de um mesmo assunto;
+●
+Capacidade de concentração e de trabalho metódico e persistente,
+com disponibilidade para a pesquisa e o estudo individual;
+●
+Capacidade de trabalho disciplinado, em equipe;
+●
+Desenvoltura na expressão oral e escrita;
+●
+Facilidade com a língua inglesa, particularmente para leitura de textos
+técnicos e científicos;
+●
+Mente
+curiosa
+e
+aberta,
+sem
+preconceitos
+contra
+qualquer
+conhecimento, que valorize a multi e a interdisciplinaridade;
+●
+Sólida cultura geral.
+3. PERFIL DO PROFISSIONAL (CARACTERIZAÇÃO GERAL DO EGRESSO)
+
+
+É um curso que forma Engenheiros para projetar e construir sistemas de
+software
+e
+hardware,
+equilibrando
+a
+visão
+desses
+aspectos.
+A
+formação
+multidisciplinar, teórica e prática, científica (e não apenas técnica) em ciências
+exatas e em Computação, dá aos egressos domínio dos princípios fundamentais da
+Ciência, capacidade criadora, raciocínio abstrato e senso crítico para adaptação às
+novas tecnologias, capacidade de solução de problemas do ponto de vista técnico,
+dentro
+de
+uma
+abordagem
+sob
+satisfatória
+relação
+custo/benefício,
+espírito
+empreendedor, métodos atualizados de gerência e de trabalho em grupo. O egresso
+poderá atuar no projeto e desenvolvimento de sistemas computacionais para fins
+científicos e comerciais, desempenhar funções de projetista de sistemas, consultor
+tecnológico, gerente de área ou empresa tecnológica, ou prosseguir na carreira
+acadêmica.
+4. PRINCÍPIOS NORTEADORES
+A formação em Computação, em qualquer de suas áreas, exige uma
+fundamentação teórica que ultrapasse a mera aquisição de habilidades operacionais
+em relação às ferramentas de uso intensivo num certo momento, as quais se possa
+identificar pela demanda explícita quando da oferta de postos de trabalho ou de
+serviços a serem executados. É já comum dizer-se, embora não tenha deixado de
+ser verdadeiro, que a evolução tecnológica nessa área é muito rápida. Assim,
+mesmo antes de se completar uma geração de egressos de um curso de nível
+superior, poderá ter-se tornado inadequado um treinamento dado em relação a
+certos produtos. Por isso a premissa fundamental na formação, especialmente em
+nível superior, em Computação, é de que se deve prover os fundamentos da área do
+ponto de vista científico, e não apenas uma bateria de treinamentos. Daí, nosso:
+●
+Primeiro preceito. A formação em Computação deve primar pelo
+ensino da Ciência, mais do que da técnica.
+A formação em nível superior deve atender não só uma necessária
+capacitação para exercício de uma profissão, de modo a se encaminhar o educando
+para
+uma
+inserção
+na
+vida
+econômica,
+mas,
+também,
+propiciar
+vivências
+significativas que só o meio acadêmico consegue engendrar.
+Constituem-se, nesse contexto, três dimensões da formação que chamamos
+bases: cognitiva, técnico-profissional e afetiva. A base cognitiva relaciona-se com o
+acervo de conhecimentos, principalmente teórico, fundamentado nas informações
+comunicadas
+por
+outrem
+ou
+descobertas
+através
+da
+experiência.
+A
+base
+
+
+técnico-profissional é construída pelo treinamento, na aplicação do conhecimento
+teórico à identificação e à solução de problemas, a partir de uma conscientização da
+identidade assumida pela pessoa assim formada. A base afetiva se constitui no
+conjunto de relações humanas de trabalho através das quais podem se construir as
+bases cognitiva e técnico-profissional, e que devem ser interiorizadas por todos
+como um patrimônio pessoal.
+O conhecimento formal acumulado pela Humanidade é um patrimônio a ser
+compartilhado de modo a tornar-se o ponto de partida para o crescimento de cada
+um. Tal conhecimento, extenso e sujeito a interpretação, pode ser ministrado (e
+aprendido) em variados graus de qualidade, a qual pode e deve ser crescente. Por
+outro lado, há limites, materiais e humanos, que se impõem à tarefa de ensinar. Daí,
+nosso:
+●
+Segundo preceito. Os estudantes devem receber um conjunto de
+informações visando uma base crítica para a evolução permanente, um
+conjunto conexo e significativo (denso, mas não desnecessariamente
+extenso),
+atualizado
+e
+prospectivo,
+abordado
+segundo
+a
+nossa
+competência, a qual deve evoluir permanentemente.
+Temos uma preocupação com uma formação integral. No entanto, o maior
+objetivo visado por nossos estudantes ao escolherem nossos cursos é o de terem
+uma formação profissional. Só estaremos atendendo esta expectativa se os
+prepararmos para serem profissionais competentes no nível de exigência do
+mercado de trabalho.
+Além de uma competência regular, é importante dar à sua formação um
+diferencial de qualidade que os destaque neste mercado e que destaque o Curso e a
+FURG como centro de formação profissional. Este diferencial inclui não só a
+especialização, mas também um senso ético e de responsabilidade. Daí, nosso:
+●
+Terceiro
+preceito.
+Os
+estudantes
+devem
+haurir
+do
+Curso
+fundamentação teórica e treinamento adequados com vistas a se
+qualificarem para o exercício de atividades de compreensão, uso e
+desenvolvimento da Computação em nosso país, de modo a terem
+uma inserção competitiva no mercado de trabalho; um potencial de
+crescimento também na pesquisa e na pós-graduação; uma visão
+consciente, ética e responsável de seu trabalho.
+
+
+A vida não se esgota no sucesso acadêmico ou profissional, tendo
+dimensões maiores onde isto se insere. Nenhuma atividade humana em sociedade
+se justifica se não se fundar num envolvimento pessoa a pessoa e a atividade
+docente, em particular, adquire qualidade quando consegue ser "educação com" os
+estudantes, ao invés de "educação para". Somente a integração de todos num grupo
+consciente de si mesmo e do próprio trabalho em realização é que nos dará a
+segurança para continuar e a vontade de evoluir. O tempo na Universidade deve ser,
+para todos, um tempo de interação, e esse tempo deve ser sempre presente e não
+uma mera transição ou um passado que urge ultrapassar.
+O próprio PPP da FURG, ao fixar a Missão da Instituição, preconiza
+“promover a educação plena, enfatizando uma formação geral que contemple a
+técnica e as humanidades, que seja capaz de despertar a criatividade e o espírito
+crítico, fomentando as ciências, as artes e as letras e propiciando os conhecimentos
+necessários para o desenvolvimento humano e para a vida em sociedade.” e que “A
+FURG deve servir com elevada qualidade, orientada por princípios éticos e
+democráticos, de modo que o resultado de sua ação educativa tenha impacto na
+comunidade e contribua para a melhoria da qualidade de vida dos indivíduos e para
+o desenvolvimento regional”. Também assevera que “Um currículo se produz a partir
+das ações de todos os participantes nos processos educativos da Instituição, em
+que os critérios de seleção e organização dos referenciais de conhecimentos,
+metodologias, atitudes e valores produzem, estruturam, constituem todos os
+envolvidos.” Daí, nosso:
+●
+Quarto
+preceito.
+Os
+estudantes
+devem ter a oportunidade de
+constituir, juntamente com os professores, um verdadeiro grupo de
+trabalho,
+cujo
+objetivo
+maior
+é
+sua
+formação,
+não
+só
+técnico-profissional, como também humana e de cidadania.
+5. OPÇÕES ESTRUTURAIS E PEDAGÓGICAS
+Pelo primeiro preceito, uma preocupação dominante na formulação do curso
+foi a busca de uma forte formação básica, científica (e não apenas técnica) em
+ciências exatas e em Computação, visando-se, precisamente, dar um diferencial aos
+egressos no sentido de não se prenderem a métodos ou técnicas de uso
+momentâneo, mas, pelo contrário, a darem valor aos princípios fundamentais da
+Ciência, de modo a poderem se adaptar às novas tecnologias, enquadrando-as em
+sua própria matriz de conhecimentos, a despeito das inovações que ocorrem com
+rapidez nesta área.
+
+
+Pelo segundo preceito, optamos por um número equilibrado de atividades ao
+longo do tempo, de modo a não se instalar para os estudantes um ambiente
+congestionado e neurotizante e, por consequência, ineficaz em seus efeitos
+acadêmicos e deletério do ponto de vista afetivo. Busca-se também a instauração de
+núcleos de consolidação cognitiva através de itens estruturais como as Atividades
+de Integração Curricular. Aventou-se a constituição do último ano do curso com base
+apenas no projeto de graduação, estágio e em disciplinas eletivas a serem
+ministradas de modo a se poder empregar no Curso as mais recentes aquisições de
+competência dos professores.
+Pelo terceiro preceito, o Curso reforça a intenção de prover formação de alto
+nível, nunca esgotando a expectativa do conhecimento, evidenciando-se como início
+de um processo que deve continuar por toda a vida do egresso, através da
+pós-graduação ou do compromisso de permanente aperfeiçoamento em qualquer
+ambiente de inserção profissional ou acadêmica, onde só terá sentido se fizer uma
+diferença contributiva e responsável. Assim, as escolhas e o peso do conteúdo
+suportam o rigor acadêmico e a credibilidade institucional, negando o “aligeiramento”
+e a facilidade inócua.
+Pelo quarto preceito, adotamos o regime anual seriado, pela coesão que
+proporciona no estabelecimento de um Curso como um grupo de trabalho que visa o
+desenvolvimento de um projeto de formação coletiva. Igualmente, se valoriza o
+engajamento na pesquisa e na extensão, através da pontuação de atividades
+complementares.
+6. ATOS LEGAIS DE CRIAÇÃO/RECONHECIMENTO/REVISÃO DO CURSO
+O curso foi criado em 1993 pela deliberação Nro 029/93 do Conselho de
+Ensino, Pesquisa e Extensão da Universidade Federal de Rio Grande (FURG). Foi
+reconhecido pelo Ministério da Educação (MEC) na portaria 282 de 19/02/2001
+publicada no DOU Nro 35-E, seção 01, página 71 de 19 de fevereiro de 2001,
+seguindo o parecer 06/2001 do Conselho de Educação (CNE) de 15/02/2001. A
+última renovação de reconhecimento do curso foi pela Portaria 111 do dia
+04/02/2021 publicada no Diário Oficial da União na Seção 1, Nº 25, de 5 de fevereiro
+de 2021.
+Todos os atos regulatórios do curso do MEC e CNE podem ser encontrados
+no site do e-Mec (https://emec.mec.gov.br). E as deliberações da FURG podem ser
+encontradas no site: https://conselhos.furg.br.
+
+
+6.1 Deliberações da FURG sobre a criação do curso e as suas alterações
+curriculares
+DELIBERAÇÃO No 029/93
+CONSELHO DE ENSINO, PESQUISA E EXTENSÃO
+EM 15 DE SETEMBRO DE 1993
+https://conselhos.furg.br/deliberacoes/coepe/plenario/1993/deliberacao-029-1993
+DELIBERAÇÃO Nº 006/98
+CONSELHO DE ENSINO, PESQUISA E EXTENSÃO
+EM 04 DE FEVEREIRO DE 1998
+https://conselhos.furg.br/deliberacoes/coepe/plenario/1998/deliberacao-006-1998
+DELIBERAÇÃO N° 012/99
+CONSELHO DE ENSINO, PESQUISA E EXTENSÃO
+EM 30 DE MARÇO DE 1999
+https://conselhos.furg.br/deliberacoes/coepe/plenario/1999/deliberacao-012-1999
+DELIBERAÇÃO Nº 037/2008
+CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO
+EM 19 DE DEZEMBRO DE 2008
+https://conselhos.furg.br/deliberacoes/coepea/pleno/2008/deliberacao-037-2008
+DELIBERAÇÃO Nº 008/2009
+CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO
+3ª CÂMARA  ENGENHARIAS
+EM 11 DE DEZEMBRO DE 2009
+https://conselhos.furg.br/deliberacoes/coepea/3-camara/2009/deliberacao-008-2009
+DELIBERAÇÃO No 008/2016
+CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO
+3a CÂMARA – ENGENHARIAS
+EM 16 DE SETEMBRO DE 2016
+https://conselhos.furg.br/arquivos/coepea-deliberacoes-3camara/2016/00816.pdf
+
+
+DELIBERAÇÃO Nº 007/2020
+CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO
+3ª CÂMARA – ENGENHARIAS
+EM 21 DE JULHO DE 2020
+https://conselhos.furg.br/deliberacoes/coepea/3-camara/2020/deliberacao-007-2020
+RESOLUÇÃO COEPEA/FURG N° 18
+CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO
+17 DE JANEIRO DE 2023
+https://conselhos.furg.br/arquivos/resolucao/COEPEA/2023/Pleno/SEI_0005303_Re
+solucao_18.pdf
+7. CARACTERÍSTICAS DO CURSO (DURAÇÃO, CARGA HORÁRIA, TURNO,
+VAGAS)
+Duração: Mínimo 4,5 anos
+Carga Horária Total: 3.840 h/a
+Turno: Manhã e Tarde
+Vagas: 50
+8. ORGANIZAÇÃO CURRICULAR CONSOLIDADA
+A concepção do curso de Engenharia de Computação segue uma estrutura
+básica
+idealizada
+para
+os
+cursos
+de
+graduação
+do
+Centro
+de
+Ciências
+Computacionais – C3 (além da Engenharia de Computação, a unidade conta ainda
+com os cursos de Engenharia de Automação e Sistemas de Informação).
+Em conformidade com a Resolução No 5, DE 16 DE NOVEMBRO DE 2016,
+do Conselho Nacional de Educação Superior , que institui as Diretrizes Curriculares
+Nacionais para os cursos de graduação na área da Computação, abrangendo os
+cursos de bacharelado em Ciência da Computação, em Sistemas de Informação, em
+Engenharia de Computação, em Engenharia de Software e de licenciatura em
+Computação. De acordo com essa resolução, o parágrafo único do Art. 1o, delibera
+que “A formação em Engenharia de Computação poderá seguir as presentes
+Diretrizes ou as Diretrizes gerais para os cursos de Engenharia, estabelecidas pela
+Resolução CNE/CES 11/2002.”. Assim, o curso de Engenharia de Computação da
+FURG, segue a Resolução No 5, de 16 de novembro de 2016, do CNES.
+
+
+Além disso, o curso deve atender a Resolução no 07/2018 do CNE/CES e a
+Resolução COEPEA/FURG No 29, de 25 de março de 2022, que estabelece as
+normas da curricularização da extensão.
+Assim, o curso de Engenharia de Computação da FURG tem a seguinte
+distribuição de componentes curriculares e suas cargas horárias:
+Componente Curricular
+Carga Horária (hs)
+Disciplinas Obrigatórias
+3165
+Disciplinas Optativas
+225
+Atividades Complementares
+60
+Extensão Curricular
+390
+Total
+3840
+Cabe destacar que o curso conta com o componente curricular de Estágio
+Supervisionado
+Obrigatório,
+porém
+este
+é
+computado
+como
+uma
+disciplina
+obrigatória, seguindo as normas da Universidade.
+O Estágio Supervisionado
+Obrigatório tem carga mínima de 120 hs.
+
+
+8.1 Quadro de Sequência Lógica (QSL)
+
+
+8.2 - Descrição das disciplinas
+Nome: Desenho Técnico
+Código: 1106
+Unidade: EE
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 60 hs
+Carga Horária Semanal: 2hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Construções geométricas. Normas para o desenho técnico. Projeção ortogonal.
+Teoria elementar do desenho projetivo. Perspectiva isométrica e cavaleira. Cortes.
+Nome: Matemática Discreta
+Código: 1252
+Unidade: C3
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Discreto vs. contínuo. Papel das estruturas discretas em computação. Funções.
+Relações. Conjuntos. Provas e mecanismos de provas formais: construção,
+contradição, indução. Definições recursivas. Lógica proposicional. Lógica de
+predicados. Álgebra booleana. Análise combinatória básica. Grafos e árvores.
+
+
+Nome: Física Geral - C I
+Código: 1255
+Unidade: IMEF
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 120 hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Espaço e Tempo. Trabalho e Energia. Cinemática e Dinâmica da Partícula.
+Cinemática e Dinâmica do Corpo Rígido. Rotação. Oscilações. Teoria Cinética dos
+Gases e Termodinâmica. Termometria e Calorimetria
+Nome: Cálculo Diferencial e Integral I
+Código: 1279
+Unidade: IMEF
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 120 hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Funções reais de uma variável. Limites. Assíntotas. Continuidade. Derivadas.
+Diferencial. Integrais. Funções no Rn. Diferencial total.​Extremos de funções de duas
+variáveis. Integração múltipla. Cálculo de áreas e volumes.
+
+
+Nome: Geometria Analítica e Álgebra Linear
+Código: 1280
+Unidade: IMEF
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Geometria Analítica: vetores (Aspectos Geométricos); Sistemas de equações
+lineares; Vetores (aspectos algébricos); produtos; estudo da reta e estudo do plano;
+curvas cônicas e superfícies quádricas. Álgebra Linear: espaços vetoriais;
+transformações lineares; diagonalização de operadores lineares; equação geral do
+2º grau a duas e três variáveis.
+Nome: Algoritmos e Estruturas de Dados I
+Código: 23084
+Unidade: C3
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 180hs
+Carga Horária Semanal: 6hs
+Créditos 12
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Hardware e software. Noções básicas de arquitetura e organização de
+computadores. Formas de representação de algoritmos: pseudocódigo e
+fluxogramas. Constantes, variáveis e expressões. Tipos de dados: primitivos e do
+usuário. Estruturas de dados básicas: arranjos e registros. Entrada e saída.
+Estruturas de controle de fluxo. Operadores lógicos, relacionais e aritméticos.
+Modularização. Funções e procedimentos. Passagem de parâmetros. Manipulação
+de cadeias de caracteres. Recursão. Arquivos de registros e de texto. Ponteiros e
+alocação dinâmica de memória. Noções de tipos abstratos de dados.
+
+
+Nome: Introdução à Engenharia da Computação
+Código: 23163
+Unidade: C3
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 2hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Visão geral da computação. História da computação. A engenharia de computação
+na atualidade. O Curso de Engenharia de Computação na FURG. Representação da
+informação. Sistemas de numeração. Desenvolvimento de trabalhos acadêmicos
+diversos incluindo aplicações de pequeno e médio porte.
+Nome: Inglês Instrumental: Leitura
+Código: 6387
+Unidade: ILA
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Estudo de textos, conteúdo, estruturas fundamentais da língua. Redação.
+Interpretação de textos. Textos. Exercícios estruturais.
+Elementos de gramática.
+
+
+Nome: LIBRAS I
+Código: 6497
+Unidade: ILA
+Localização QSL: 1o Semestre da 1a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Fundamentos linguísticos e culturais da Língua Brasileira de Sinais - Libras.
+Desenvolvimento de habilidades básicas expressivas e receptivas em Libras para
+promover a comunicação entre seus usuários. Introdução aos Estudos Surdos.
+Nome: Inglês Instrumental: Expressão Oral
+Código: 6388
+Unidade: ILA
+Localização QSL: 2o Semestre da 1a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Estudos de textos técnicos-científicos. Redação. Interpretação de textos. Tradução.
+Resumos. Précis. Elementos de gramática.
+
+
+Nome: LIBRAS II Código: 6498
+Unidade: ILA
+Localização QSL: 2o Semestre da 1a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+A Língua Brasileira de Sinais - Libras: características básicas da fonologia. Emprego
+das Libras em situações discursivas formais:vocabulário, morfologia, sintaxe e
+semântica. Prática do uso de Libras em situações discursivas mais formais.
+Nome: Probabilidade e Estatística Aplicada à Engenharia
+Código: 1112
+Unidade: IMEF
+Localização QSL: 1o Semestre da 2a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Conceitos Básicos de Estatística. Séries Estatísticas. Representação Gráfica.
+Medidas de Tendência Central. Medidas Separatrizes. Medidas de Dispersão.
+Medidas de Assimetria. Medidas de Curtose. Probabilidade. Variáveis aleatórias.
+Distribuições de Probabilidade Discretas e Contínuas. Teoria Elementar de
+Amostragem. Intervalos De Confiança. Testes de Hipóteses. Teste Não Paramétrico.
+Análise de Variância. Análise de Regressão e Correlação.
+
+
+Nome: Física Geral - C II
+Código: 1274
+Unidade: IMEF
+Localização QSL: 1o Semestre da 2a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+A interação eletromagnética. A lei de Coulomb. Campo Elétrico. Potencial
+Eletrostático. Capacitância e Capacitores. Dielétricos. Corrente Elétrica. Campo
+Magnético. A lei de Ampère. Indução eletromagnética. A lei de Faraday. Circuitos
+elétricos CC e CA. Oscilações Eletromagnéticas em circuitos. Materiais magnéticos.
+As equações de Maxwell. Óptica geométrica. Interferência. Difração. Polarização.
+Princípios da Teoria Quântica. A equação de Schrödinger e a Mecânica Quântica.
+Sistemas Quânticos Simples. Introdução à Física do Estado Sólido. Teoria de
+Bandas.
+Nome: Cálculo Diferencial e Integral II
+Código: 1281
+Unidade: IMEF
+Localização QSL: 1o Semestre da 2a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Sequências numéricas. Séries numéricas. Séries de funções. Equações Diferenciais
+Ordinárias. Equações Diferenciais Parciais. Transformações de Laplace. Funções de
+Várias Variáveis Reais. Funções Vetoriais. Integrais de Linha. Integrais de Superfície.
+
+
+Nome: Computação Científica
+Código: 23164
+Unidade: C3
+Localização QSL: 1o Semestre da 2a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 2hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Conceito de modelagem e simulação. Modelos analíticos. Modelos numéricos.
+Introdução à visualização científica. Simulação de eventos discretos. Simulação de
+eventos contínuos. Noções de Ciência de Dados.
+Nome: Algoritmos e Estruturas de Dados II
+Código: 23085
+Unidade: C3
+Localização QSL: 1o Semestre da 2a Série
+Carga Horária Total: 180hs
+Carga Horária Semanal: 6hs
+Créditos 12
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Abstração. Tipos abstratos de dados. Recursão. Listas. Pilhas. Filas. Tabelas de
+dispersão. Árvores. Noções formais de algoritmos. Notação assintótica. Análise de
+custo: tempo e espaço. Solução de recorrências. Teorema Mestre. Árvores Binárias
+de Pesquisa. Grafos: representação, busca, árvore geradora mínima e menores
+caminhos. Pesquisa e ordenação. Técnicas para construção de algoritmos: divisão e
+conquista, algoritmos gulosos, programação dinâmica, backtracking. Algoritmos de
+busca de aproximação. Teoria da complexidade: classes de problemas.
+
+
+Nome: Linguagens Formais e Teoria da Computação
+Código: 23104
+Unidade: C3
+Localização QSL: 1o Semestre da 2a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Linguagens. Autômatos finitos. Autômatos com pilha. Gramáticas. Formas normais.
+Hierarquia de Chomsky. Gramáticas LL(k) e LR(k). Classes de programas e
+máquinas simples. Equivalência e correção de programas. Computabilidade:
+máquina de Turing e variantes. Tese de Church-Turing. Decidibilidade. Problema da
+parada. Redução de problemas.
+Nome: Arquitetura e Organização de Computadores
+Código: 23152
+Unidade: C3
+Localização QSL: 1o Semestre da 2a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Representação de Dados, Sistemas de Numeração e Aritmética Computacional.
+Organização Básica da CPU, Memórias, Hierarquia de Memórias, Sistemas de
+Barramentos e E/S. Caminho de Dados e Unidade de Controle, Controles Monociclo,
+Multiciclo e Microprogramado. Métodos para Desempenho, Cache, Pipeline,
+Superescalaridade e Noções de Organizações Paralelas. Arquitetura de
+Computadores, Conjunto e Formato de Instruções e Modos de Endereçamento.
+Arquiteturas RISC e CISC e Arquiteturas Híbridas. Linguagens de Máquina e
+Programação em Linguagem de Montagem.
+
+
+Nome: Cálculo Numérico Computacional
+Código: 1283
+Unidade: IMEF
+Localização QSL: 1o Semestre da 3a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Introdução; solução de equações polinomiais, algébricas e transcendentes. Sistemas
+de equações lineares. Interpolação. Ajuste de curvas. Integração numérica. Solução
+numérica de equações diferenciais ordinárias.
+Nome: Economia
+Código: 7067
+Unidade: ICEAC
+Localização QSL: 1o Semestre da 3a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Noções de economia. Elasticidade. Teoria da produção. Custos de produção.
+Engenharia Econômica. Equivalência. Comparação entre alternativas de
+investimento. Substituição de equipamentos.
+
+
+Nome: Circuitos Elétricos e Eletrônica
+Código: 23012
+Unidade: C3
+Localização QSL: 1o Semestre da 3a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Análise de circuitos DC e transitórios. Análise de circuitos A/C. Semicondutores.
+Diodos e aplicações. Transistores e aplicações. Amplificadores operacionais.
+Conversores AD/DA.
+Nome: Sistemas Digitais
+Código: 23057
+Unidade: C3
+Localização QSL: 1o Semestre da 3a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Famílias lógicas. Circuitos combinacionais. Circuitos sequenciais. Projeto e síntese
+de circuitos digitais. Dispositivos lógicos programáveis: FPGA, CPLD, PLA.
+Microcontroladores. Introdução a linguagens de descrição de hardware.
+
+
+Nome: Sistemas Operacionais
+Código: 23088
+Unidade: C3
+Localização QSL: 1o Semestre da 3a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Fundamentos e estrutura dos sistemas operacionais. Gerenciamento de processos:
+processos, threads, sincronização, escalonamento e impasses. Gerenciamento de
+memória: memória principal e virtual. Gerenciamento do armazenamento: sistemas
+de arquivos e sistemas de entrada e saída. Segurança de sistemas operacionais.
+Nome: Linguagens de Programação
+Código: 23090
+Unidade: C3
+Localização QSL: 1o Semestre da 3a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Classes e gerações de linguagens. Compilação, interpretação e montagem.
+Qualidades de linguagens e o desenvolvimento de software. Alcance e amarração.
+Passagem de parâmetros. Ponteiros. Classes de memória. Sistemas de Tipos.
+Paradigmas de programação: imperativo, funcional, lógico e orientado a objeto.
+
+
+Nome: Projeto e Desenvolvimento de Software I
+Código: 23096
+Unidade: C3
+Localização QSL: 1o Semestre da 3a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Interfaces e arquiteturas de SGBD. Independência de dados. Modelagem de dados.
+Integridade. Linguagens de manipulação e consulta. Projeto de banco de dados.
+Modelagem de sistemas de informação. Conectividade com banco de dados.
+Nome: Direito e Legislação - M
+Código: 8152
+Unidade: FaDir
+Localização QSL: 2o Semestre da 3a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Introdução ao Direito: o Direito e a Lei. Administração Pública e Contratos
+administrativos. Direito do Trabalho, Contrato de trabalho, Direitos Trabalhistas.
+Profissão: regulamentação, responsabilidade civil, criminal e administrativa. Direito
+de Autor, Marcas, Patentes e Invenções, Código do Consumidor, Transporte de
+cargas perigosas e produtos perecíveis. Direito Ambiental e Perícia.
+
+
+Nome: Redes de Computadores
+Código: 23089
+Unidade: C3
+Localização QSL: 2o Semestre da 3a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Fundamentos de redes de computadores. Modelos de referência e suas camadas.
+Protocolos. Segurança de redes. Gerenciamento de redes.
+Nome: Compiladores
+Código: 23103
+Unidade: C3
+Localização QSL: 2o Semestre da 3a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Análise léxica. Análise sintática. Tradução dirigida por sintaxe. Geração de código
+intermediário. Ambientes de execução. Geração de código. Otimização de código.
+
+
+Nome: Gerenciamento de Empresas
+Código: 7167
+Unidade: ICEAC
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 2hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Princípios de planejamento estratégico. Noções de organização e métodos.
+Fundamentos de marketing. Filosofia da qualidade total. Mecanismos e
+procedimentos para criação de empresas. Gerência de empreendimentos em
+computação: aspectos específicos.
+Nome: Fundamentos de Administração
+Código: 7355
+Unidade: ICEAC
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 60hs
+Carga Horária Semanal: 4hs
+Créditos 4
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Administração como ciência. Contexto histórico e o surgimento da Teoria da
+Administração. As organizações como objeto da Administração. Enfoques teóricos
+da Administração. Funções de Administrador.
+
+
+Nome: Sistemas Heterogêneos Computacionais
+Código: 23175
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Paralelismo espacial e temporal. Coprocessadores, processadores de E/S.
+Arquiteturas escolares,vetoriais e superescalares. Arrays de processadores.
+Multiprocessadores. Multiprocessamento Simétrico. Processadores digitais de sinais.
+Microcontroladores. Arquiteturas para aplicações específicas. Sistemas em tempo
+real. Algoritmos de escalonamento. Mecanismos de comunicação e sincronização.
+Sistemas operacionais de tempo real. Sistemas operacionais
+embarcados.Processadores digitais de sinais de aplicação específica. Arquiteturas
+dedicadas. Sistemas no chip. Sistemas de baixo consumo.
+Nome: Sistemas Inteligentes
+Código: 23045
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Conceituação e histórico. Áreas de estudo da IA. Métodos de busca. Representação
+do conhecimento. Aplicações: jogos, sistemas especialistas. Planejamento. Redes
+neurais. Raciocínio e conhecimento sob incerteza. Inteligência artificial probabilística:
+inferência bayesiana, métodos estocásticos. Aprendizado de máquina. Computação
+evolutiva. Agentes inteligentes. Estado da arte e perspectivas. Aspectos filosóficos.
+
+
+Nome: Sistemas Gráficos
+Código: 23058
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Processamento de sinais e imagens: introdução e conceitos. Sinais e sistemas
+contínuos e discretos. Representação de sinais no domínio do tempo e da
+frequência. Transformada Discreta de Fourier. Transformada Rápida de Fourier.
+Filtros digitais. Convolução. Imagem Digital: formatos, estatística e descrição da
+imagem. Teoria das cores. Transformadas de imagens. Realce. Filtragem e
+restauração. Introdução à computação gráfica. Dispositivos Gráficos.
+Transformações geométricas 2D e 3D. Transformações para visualização. Câmera
+Virtual. Rasterização, recorte e seleção. Iluminação e textura. Noções de animação.
+Introdução à realidade virtual. Renderização em tempo real. Visão
+estereoscópica.Hardware para realidade virtual. Realidade aumentada. Realidade
+virtual colaborativa multimídia.
+Nome: Projeto e Desenvolvimento de Software II
+Código: 23097
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Gerenciamento de projetos de software. Engenharia de requisitos. Metodologias de
+desenvolvimento de software. Projeto de software: princípios, paradigmas e padrões.
+Validação e verificação de sistemas: métodos formais e teste de software.
+
+
+Nome: Sistemas Distribuídos
+Código: 23098
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos 8
+Tipo: Obrigatória
+Duração: Anual
+Ementa:
+Fundamentos de sistemas distribuídos. Modelos de computação distribuída.
+Comunicação. Nomeação. Sincronização. Replicação. Consistência. Transações.
+Tolerância a falhas em sistemas distribuídos. Segurança de sistemas distribuídos.
+Nome: Sistemas Robóticos
+Código: 23144
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 60hs
+Carga Horária de Ensino a Distância: 30hs
+Carga Horária Semanal: 2hs
+Créditos 4
+Tipo: Optativa
+Duração: Anual
+Ementa:
+Arquiteturas robóticas. Modelos cinemáticos de robôs manipuladores. Modelagem
+dinâmica de robôs manipuladores. Controle de robôs manipuladores.
+Comportamento não-holonômico e modelagens cinemáticas e dinâmica de robôs
+móveis. Controle de robôs móveis. Planejamento de trajetórias e estimação de
+estado de robôs móveis.Sensoriamento robótico. Navegação robótica.Planejamento
+de movimento; Localização e mapeamento. Robôs de serviço
+
+
+Nome: Sistemas para Internet II
+Código: 23039
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 90hs
+Carga Horária Semanal: 3hs
+Créditos 6
+Tipo: Optativa
+Duração: Anual
+Ementa:
+Programação PHP. Programação Javascript. Técnicas de desenvolvimento de
+aplicativos em rede:carga assíncrona, modelagem de documentos. Portabilidade
+entre navegadores. Abordagem de ferramentas conceituais como AJAX, DOM, XML,
+CSS e outros.
+Nome: Sistemas de Controle
+Código: 23137
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 120hs
+Carga Horária Total de Ensino a Distância: 60hs
+Carga Horária Semanal: 4hs
+Créditos: 8
+Tipo: Optativa
+Duração: Anual
+Ementa:
+Modelagem e Modelos. Tipos de Modelos. Representação de sistemas dinâmicos
+lineares no tempo e na freqüência. Analogias. Respostas de sistemas e simulações.
+Linearização de Sistemas. Identificação de Sistemas. Objetivos de controle.
+Introdução aos controles em malhas aberta e fechada. Análise e projeto de sistemas
+de controle: lugar das raízes e resposta em frequência. Ações básicas de controle:
+proporcional, integral e derivativa. Análise e projeto de controle clássico.
+Desempenho em regime transitório e permanente. Introdução aos controladores
+industriais.
+
+
+Nome: Ciências do Ambiente
+Código: 11024
+Unidade: IO
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 30hs
+Carga Horária Semanal: 2hs
+Créditos 2
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Noções gerais sobre: Ecologia (Indivíduo, População, Comunidade, Ecossistema).
+Ciclos Biogeoquímicos. Impacto Ambiental. Energia.
+Ação do homem sobre a biosfera (impactos, harmonização e estratégias
+alternativas).
+Nome: Transformação Digital - EAD
+Código: 23159
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Escopo da inovação tecnológica. Cenários futuros e novos modelos de negócio. O
+papel da Tecnologia da Informação (TI) na transformação digital. Reengenharia de
+processos de negócios. O uso da TI como arma competitiva e de alavancagem de
+negócios. Alinhamento estratégico de TI. Estruturação da área de TI.
+
+
+Nome: Visualização de Informação - EAD
+Código: 23160
+Unidade: C3
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Introdução à visualização de informação e suas aplicações. Representações gráficas
+e interativas de dados multidimensionais. Aspectos de interação
+humano-computador. Visualização científica. Programação de sistemas baseados
+em visualização de informação.
+Nome: Métodos de Autenticação e Segurança em Redes - EaD
+Código: 23161
+Unidade: C3
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Mecanismos e terminologia de métodos de autenticação em sistemas e redes de
+computadores. Métodos de autenticação: senhas, tecnologias de senhas
+descartáveis (one-time password), smart cards, biometria. Processo de autenticação
+e suas falhas. Deteção de intrusão baseada em assinaturas e em anomalias.
+Implementação de um caso real baseado em dataset offline.
+
+
+Nome: Métodos de Autenticação e Segurança em Redes
+Código: 23122
+Unidade: C3
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Mecanismos e terminologia de métodos de autenticação em sistemas e redes de
+computadores. Métodos de autenticação: senhas, tecnologias de senhas
+descartáveis (one-time password), smart cards, biometria. Processo de autenticação
+e suas falhas. Deteção de intrusão baseada em assinaturas e em anomalias.
+Implementação de um caso real baseado em dataset offline.
+Nome: Sistemas Corporativos I
+Código: 23092
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos: 8
+Tipo: Optativa
+Duração: Anual
+Ementa:
+Gestão de Tecnologia da Informação. Portais corporativos. Sistemas colaborativos.
+Comércio eletrônico. Serviços e tecnologias móveis.
+
+
+Nome: Sistemas Corporativos II
+Código: 23093
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos: 8
+Tipo: Optativa
+Duração: Anual
+Ementa:
+Sistemas integrados de gestão e interorganizacionais. Modelagem de workflows.
+Simulação e otimização de processos. Gestão do conhecimento. Inteligência de
+Negócio. Planejamento de TI.
+Nome: Sistemas Corporativos II
+Código: 23093
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 4hs
+Créditos: 8
+Tipo: Optativa
+Duração: Anual
+Ementa:
+Sistemas integrados de gestão e interorganizacionais. Modelagem de workflows.
+Simulação e otimização de processos. Gestão do conhecimento. Inteligência de
+Negócio. Planejamento de TI.
+
+
+Nome: Criatividade e Design Thinking
+Código: 23131
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Criatividade, design e inovação. Mitos da criatividade. A pessoa criativa. Criatividade
+em ambientes de engenharia. Mentalidade do engenheiro inovador. design thinking:
+empatia, definição, geração de idéias, prototipagem e testes.
+Nome: Elaboração e Análise de Projetos
+Código: 23133
+Unidade: C3
+Localização QSL: 1o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Conceito e características de um projeto. O ciclo de vida de um projeto. Estruturas
+organizacionais para projetos. Processos do gerenciamento de projetos: Fase de
+iniciação; Fase de planejamento; Fase de execução e controle; Fase de
+encerramento. Gerenciamento da integração; escopo; tempo; custos; qualidade;
+recursos humanos; comunicação; riscos; aquisições. Ferramentas computacionais
+para gerenciamento de projetos.
+
+
+Nome: Inovação em Engenharia e Ciências Computacionais
+Código: 23132
+Unidade: C3
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Introdução à inovação e seus processos. Gestão da Inovação. Inovação Aberta.
+Fases de Desenvolvimento de Produto. Projetos de Inovação Tecnológica.
+Metodologias ágeis em Engenharia. Tendências de Inovação Tecnológica em
+Engenharia e Ciências.
+Nome: Soft Skills para Engenharia
+Código: 23134
+Unidade: C3
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Capacidades e Habilidades Humanas; Soft Skills e Hard Skills; Competências
+transversais; Habilidades para o mundo do trabalho em Engenharia.
+
+
+Nome: Interfaces Humano-Computador
+Código: 23043
+Unidade: C3
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Princípios de interação homem-máquina. Fatores humanos na comunicação. Estilos
+interativos. Modelagem do usuário. Modelagem da interação. Projeto de diálogos.
+Usabilidade. Interfaces: padronização, metodologias de projeto, técnicas de
+avaliação.
+Nome: Sistemas Gerenciadores de Banco de Dados
+Código: 23094
+Unidade: C3
+Localização QSL: 2o Semestre da 4a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos: 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Implementação de SGBDs. Projeto físico de BD. Mecanismos de indexação e
+busca. Processamento e otimização de consultas. Processamento de transações.
+Controle de concorrência. Recuperação. Distribuição de dados
+
+
+Nome: Projeto de Graduação em Engenharia de Computação - I
+Código: 23165
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 30hs
+Carga Horária Semanal: 2hs
+Créditos: 2
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Desenvolvimento de trabalho acadêmico: ênfase em abordagem científica.
+Atividades de pesquisa e desenvolvimento de projetos em Engenharia de
+Computação. Exercício e fixação de conteúdos de modo integrado. Estudo e
+aplicação de metodologias de pesquisa e normas de redação de trabalho científico.
+Preparativos gerais para realização do trabalho proposto. Se possível:
+implementação do projeto proposto; produção e apresentação de monografia (e
+relatório técnico, quando couber); avaliação em sessão de apresentação frente a
+banca.
+Nome: Estágio Supervisionado em Engenharia da Computação
+Código: 23177
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 120hs
+Carga Horária Semanal: 8hs
+Créditos: 8
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Desenvolvimento de no mínimo 120 horas de atividades planejadas, junto a
+organizações que exerçam atividades correlacionadas com a habilitação de
+Engenharia de Computação, sujeitas a supervisão e avaliação, sob regulamento
+próprio.
+
+
+Nome: Tópicos em Sistemas Distribuídos - EAD
+Código: 23167
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa,
+enquadramento de atividades diversas de valor acadêmico e didático em Automação
+ou aplicações, relacionados com:inovações tecnológicas, resultados de pesquisas de
+vanguarda; aplicações específicas ou aprofundamento na área de Sistemas
+Distribuídos.
+Nome: Tópicos em Sistemas Robóticos - EAD
+Código: 23168
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa,
+enquadramento de atividades diversas de valor acadêmico e didático em Automação
+ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas
+de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas de
+Controle
+
+
+Nome: Tópicos em Sistemas Heterogêneos - EAD
+Código: 23169
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa,
+enquadramento de atividades diversas de valor acadêmico e didático em
+Computação ou aplicações,relacionados com: inovações tecnológicas, resultados de
+pesquisas de vanguarda;aplicações específicas ou aprofundamento na área de
+Sistemas Microprocessados.
+Nome: Tópicos em Sistemas para Internet - EAD
+Código: 23156
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Tecnologias em sistemas para Internet e suas aplicações.
+
+
+Nome: Tópicos em Sistemas Inteligentes - EAD
+Código: 23170
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa,
+enquadramento de atividades diversas de valor acadêmico e didático em
+Computação ou aplicações,relacionados com: inovações tecnológicas, resultados de
+pesquisas de vanguarda;aplicações específicas ou aprofundamento na área de
+Sistemas Inteligentes.
+Nome: Tópicos em Sistemas de Informação - EAD
+Código: 23171
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa,
+enquadramento de atividades diversas de valor acadêmico e didático em
+Computação ou aplicações,relacionados com: inovações tecnológicas, resultados de
+pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de
+Sistemas de Informação.
+
+
+Nome: Tópicos em Sistemas Gráficos - EAD
+Código: 23172
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa,
+enquadramento de atividades diversas de valor acadêmico e didático em
+Computação ou aplicações,relacionados com: inovações tecnológicas, resultados de
+pesquisas de vanguarda;aplicações específicas ou aprofundamento na área de
+Sistemas Gráficos.
+Nome: Tópicos em Controle Avançado - EAD
+Código: 23173
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações
+específicas ou aprofundamento na área de Controle Avançado
+
+
+Nome: Descoberta de Conhecimento em Bancos de Dados
+Código: 23155
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Fases do processo de descoberta de conhecimento em bancos de dados. Técnicas
+de pré-processamento e transformação de dados. Tarefas de mineração de dados:
+associação, classificação, regressão e agrupamento. Validação de modelos e
+interpretação de resultados.
+Nome: Tópicos Avançados em Engenharia de Computação I
+Código: 23115
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Tópicos avançados em computação, relacionados com desenvolvimentos
+tecnológicos, estudos de técnicas inovadoras ou resultados de pesquisas de
+vanguarda em Engenharia de Computação.
+
+
+Nome: Tópicos Avançados em Engenharia de Computação II
+Código: 23116
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Tópicos avançados em computação, relacionados com desenvolvimentos
+tecnológicos, estudos de técnicas inovadoras ou resultados de pesquisas de
+vanguarda em Engenharia de Computação.
+Nome: Tópicos Avançados em Engenharia de Computação III
+Código: 23117
+Unidade: C3
+Localização QSL: 1o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Tópicos avançados em computação, relacionados com desenvolvimentos
+tecnológicos, estudos de técnicas inovadoras ou resultados de pesquisas de
+vanguarda em Engenharia de Computação.
+
+
+Nome: Projeto de Graduação em Engenharia de Computação - II
+Código: 23166
+Unidade: C3
+Localização QSL: 2o Semestre da 5a Série
+Carga Horária Total: 30hs
+Carga Horária Semanal: 2hs
+Créditos 2
+Tipo: Obrigatória
+Duração: Semestral
+Ementa:
+Desenvolvimento de trabalho acadêmico: ênfase em abordagem científica.
+Atividades de pesquisa e desenvolvimento de projetos em Engenharia de
+Computação. Exercício e fixação de conteúdos de modo integrado. Estudo e
+aplicação de metodologias de pesquisa e normas de redação de trabalho científico.
+Implementação do projeto proposto. Produção e apresentação de monografia (e
+relatório técnico, quando couber). Avaliação em sessão de apresentação frente a
+banca.
+Nome: Tópicos Especiais em Computação - EAD
+Código: 23174
+Unidade: C3
+Localização QSL: 2o Semestre da 5a Série
+Carga Horária Total: 45hs
+Carga Horária de Ensino a Distância: 45hs
+Carga Horária Semanal: 3hs
+Créditos 3
+Tipo: Optativa
+Duração: Semestral
+Ementa:
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa,
+enquadramento de atividades diversas de valor acadêmico e didático em
+Computação ou aplicações, relacionados com: inovações tecnológicas, resultados
+de pesquisas de vanguarda; aplicações específicas ou aprofundamento de temas de
+interesse comum de professores e estudantes do curso.
+
+
+QUADRO RESUMO DE CARGA HORÁRIA
+Requisitos
+Carga Horária
+Disciplinas Obrigatórias
+(incluindo Estágio Supervisionado Obrigatório)
+3165 hs
+Disciplinas Optativas
+(carga horária mínima para integralizar o curso)
+225 hs
+Atividades de Extensão
+(carga horária mínima para integralizar o curso)
+390 hs
+Atividades Complementares
+(carga horária mínima para integralizar o curso)
+60 hs
+Total
+3840 hs
+
+
+8.3 - Atividades Complementares
+Atividades complementares são atividades acadêmicas que complementam
+a formação do estudante além do conteúdo curricular obrigatório do curso. Essas
+atividades podem ser de diferentes tipos, como por exemplo participação em
+congressos, seminários, workshops, estágios, monitorias, projetos de pesquisa,
+extensão universitária, entre outros.
+Essas atividades são obrigatórias, onde o discente deve realizar pelo menos
+60 horas, como uma forma de enriquecer a formação do estudante e prepará-lo
+melhor para o mercado de trabalho. Geralmente, elas possuem uma carga horária
+mínima a ser cumprida e são registradas em um documento específico que deve ser
+entregue para a instituição de ensino.
+Além disso, as atividades complementares podem ser uma forma de o
+estudante desenvolver habilidades e competências importantes, como liderança,
+trabalho
+em
+equipe,
+comunicação,
+entre outras, que são valorizadas pelos
+empregadores.
+As atividades complementares incluem atividades de ensino, pesquisa e
+extensão e são definidas por norma própria disponíveis no site oficial do curso:
+http://www.ecomp.c3.furg.br. Nessas normas são definidas as atividades válidas e
+seus respectivos aproveitamento em horas.
+8.4 - Projeto de Graduação
+O Projeto de Graduação em Engenharia de Computação (PGEC) é uma
+atividade obrigatória do curso e é determinado por duas disciplinas obrigatórias
+situadas no 1o e 2o semestre do 5o ano (último ano do curso). O PGEC fica sob a
+responsabilidade de um professor orientador e tem como objetivo levar o estudante
+ao exercício e à fixação de conceitos hauridos ao longo do curso, com ênfase numa
+abordagem científica, oportunizando atividades de pesquisa e desenvolvimento de
+projetos em Engenharia de Computação. Pode envolver um projeto de sistema de
+computação ou um trabalho teórico, com o fito de exercitar e fixar conteúdos de
+modo integrado; conhecer e aplicar metodologias de pesquisa e normas de redação
+de trabalho científico; permitir a avaliação do desempenho do(s) estudante(s) a partir
+de uma tarefa de integração de conteúdos.
+Trabalhos
+teóricos
+devem
+possuir aplicabilidade imediata em alguma
+situação real do campo de trabalho do bacharel em Engenharia de Computação, isto
+é, apresentando uma solução concreta para um problema da sua alçada. As
+implementações de software seguirão os princípios e preceitos da Engenharia de
+Software.
+
+
+O Projeto pode ser desenvolvido individualmente ou em grupo de até 2 (dois)
+estudantes. Cada Projeto de Graduação tem um professor orientador, o qual, em
+princípio, deve pertencer ao corpo docente da FURG, identificado com a área de
+Computação. Aceita-se (a critério da Coordenação de Curso) um co-orientador
+quando o trabalho se desenvolver em outra instituição ou em conjunto com esta
+(nesse caso, o co-orientador deverá ser um profissional de nível superior com
+formação adequada para acompanhar a realização do trabalho) ou quando o
+trabalho se relacionar com uma área de aplicação específica para a qual não estiver
+disponível um professor da área de Computação em condições de ser orientador
+(nesse caso, o co-orientador será um professor da FURG que dividirá a orientação
+técnica com o orientador). O processo todo é documentado formalmente, como um
+trabalho científico, incluindo-se aí os fundamentos teóricos que embasaram a
+solução.
+O trabalho deve ser desenvolvido preferencialmente no âmbito da FURG e
+sem vínculo explícito com outra instituição. Opcionalmente, poderá ser desenvolvido
+em (ou para) outra entidade (de natureza acadêmica ou empresarial), exigindo-se,
+nesse caso, acompanhamento por parte do orientador, através de contatos
+providenciados pelo(s) estudante(s).
+Na primeira semana do ano letivo, realiza-se uma reunião geral com os
+estudantes da disciplina, para apresentação destas normas e para discussão de
+demais aspectos relacionados a ela. A partir dessa reunião, o professor da disciplina
+passa a aceitar o registro dos projetos, o que fará no diário de classe. Durante o
+semestre, devem ser apresentadas as propostas de Projeto de Graduação, incluindo
+dados de identificação dos estudantes e descrição do trabalho, motivações,
+justificativas, cronograma e plano de atividades, recursos necessários; bibliografia.
+Os documentos são submetidos aos professores da disciplina, que poderão
+aceitá-los
+ou
+sugerir
+modificações.
+Em
+prazo
+adequado,
+pode
+haver
+uma
+reapresentação.
+Os estudantes terão acesso justificado aos equipamentos necessários nos
+laboratórios à disposição do Curso. Os recursos não disponíveis na Universidade
+serão da responsabilidade dos estudantes. As disciplinas (PGEC I no 1o semestre e
+PGEC II no 2o semestre) têm carga horária total de 60 horas (2 horas-aulas por
+semana), a qual é preenchida pelas reuniões de orientação mais as reuniões
+especiais promovidas pelos professores da disciplina, mais tempo de trabalho
+dedicado pelo estudante ao seu projeto. Do total das reuniões exige-se 75% de
+frequência às reuniões de orientação, conforme o cronograma proposto (controle
+feito
+pelo
+orientador),
+bem
+como
+às
+reuniões
+especiais
+convocadas
+pelos
+professores da disciplina.
+
+
+Ao final do trabalho, devem ser apresentados: a) monografia, com revisão
+bibliográfica, fundamentação teórica necessária, relato das atividades de campo
+efetuadas, as técnicas e ferramentas adotadas, dificuldades encontradas e como
+foram resolvidas, descrição da solução em seus fundamentos lógicos e do sistema
+produzido, em linhas gerais, sugestões de continuidade e melhoria do trabalho, uma
+avaliação do trabalho quanto à contribuição para a formação do(s) estudante(s) e
+uma bibliografia adequadamente referida; b) demais documentos, como diagramas
+analíticos diversos, listagens, formulários, telas e relatórios, Manual de Referência,
+Manual do Programador; c) cópia do sistema.
+Há uma apresentação final (“defesa”), pública, do trabalho diante de uma
+banca examinadora, com a participação de todos os elementos do grupo, incluindo
+uma demonstração do produto de software/hardware resultante. A banca é
+composta preferencialmente de professores da FURG, identificados com a área de
+Computação ou com a área de aplicação do trabalho.
+Casos omissos são resolvidos, sucessivamente, em níveis de competência,
+pelo orientador, pelos professores da disciplina, pelo coordenador do Curso, pela
+direção da Unidade, por conselhos superiores da Universidade.
+8.5 - Estágio Supervisionado
+O Estágio Curricular Supervisionado visa dar condições ao estudante de
+desenvolver atividades na área de Computação em uma sede de estágio compatível
+com os objetivos gerais acima explicitados e permitir a verificação do grau de
+aproveitamento obtido pelo estudante em relação ao currículo do Curso visto em
+termos globais, na medida em que tenha chance de aplicar seus conhecimentos, de
+forma integrada e em campo profissional real.
+O estágio deve ser realizado através de acordos ou convênios firmados com
+empresas ou instituições caracterizadas como sedes de estágio, as quais devem
+atender as condições legais exigidas para o seu desenvolvimento, ou seja, que
+tenham condições de proporcionar experiência prática na linha de formação, além
+de celebra acordo de cooperação com a Universidade e assinar termo de
+compromisso
+com o estagiário. O estágio pode acontecer inclusive com a
+cooperação dos ditos agentes de integração escola-empresa.
+Em nenhuma hipótese o estágio caracteriza vínculo empregatício, servindo o
+acordo de cooperação e o termo de compromisso como documentos comprobatórios
+da situação do estagiário diante da Justiça do Trabalho. Caso o estágio se realize
+em algum órgão ou setor da FURG, fica dispensado o Acordo de Cooperação.
+●
+Sedes: Entendem-se como sedes os locais de realização dos estágios:
+
+
+empresas públicas, privadas, mistas, autarquias, órgãos e setores da
+própria
+Universidade
+onde
+se
+possa
+desenvolver
+projetos
+de
+implementação viável e dentro do espírito do estágio curricular.
+●
+Recursos humanos: Para implementação da disciplina são necessários:
+○
+Supervisor: um para cada estagiário; deve ser docente da FURG,
+com atuação na área de Computação;
+○
+Orientador: um para cada estagiário; deve ser um técnico na
+empresa ou setor da Universidade onde se dará o estágio, aprovado
+pela Coordenação de Curso.
+●
+Recursos materiais: constituem-se nas instalações e equipamentos da
+sede do estágio.
+●
+Atribuições do supervisor: auxiliar o estudante na elaboração do plano
+de
+estágio,
+aprovar
+ou propor alterações necessárias no mesmo,
+supervisionar e orientar as atividades de estágio em todas as atividades
+envolvidas, conforme o plano de estágio estabelecido, atribuir o grau final,
+manter o coordenador informado sobre o andamento das atividades do
+estágio, auxiliar o coordenador no cadastramento e avaliação das sedes
+de estágio.
+●
+Atribuições do orientador: participar da elaboração do plano de estágio,
+assistir o estagiário no desenvolvimento efetivo das atividades previstas,
+informar o supervisor sobre a situação do estagiário (quando solicitado),
+opinar sobre o desempenho do estagiário, prover o parecer final no
+formato definido pela Coordenação de Curso.
+A seguinte programação deve ser cumprida durante a disciplina:
+●
+Planejamento: atividade preliminar da qual resultará o plano de estágio.
+O plano de estágio deve ser elaborado pelo estagiário, em acordo com o
+supervisor
+e
+o
+orientador,
+seguindo
+o
+formato
+estabelecido
+pela
+Coordenação de Curso.
+●
+Estágio propriamente dito: no mínimo 120 horas para consecução de
+atividades diretamente relacionadas com a tarefa em desenvolvimento na
+sede do estágio.
+●
+Composição do relatório: o relatório deve conter um registro da
+experiência pré-profissional, fundamentada em pressupostos técnicos e
+científicos. Deve incluir conclusões e sugestões refletindo o conhecimento
+que o estagiário possui na(s) área(s) objeto do estágio.
+●
+Regime escolar:
+○
+Períodos e ofertas: O Estágio Curricular se insere numa disciplina
+
+
+semestral no 5º ano do Curso.
+○
+Frequência: Adota-se como mínima a percentagem regimental
+(75%), mas submetida às exigências da sede do estágio.
+○
+Sistema de avaliação: As disciplinas são do Sistema II, e a nota
+será atribuída pelo supervisor a partir de: análise do desempenho do
+estagiário, com base em parecer do orientador (ficha de avaliação),
+no relatório apresentado e em visita de supervisão.
+8.6 - Extensão
+Atividades
+de
+extensão
+são
+ações
+que
+têm
+como
+objetivo
+levar
+o
+conhecimento acadêmico produzido para a sociedade em geral, por meio de
+projetos, programas e cursos de extensão.
+Essas atividades têm como propósito a promoção da interação entre a
+instituição de ensino e a comunidade, buscando soluções para problemas sociais,
+culturais e econômicos. As atividades de extensão podem ser realizadas de diversas
+formas, como cursos, palestras, consultorias, projetos de pesquisa, entre outros.
+Essas atividades são importantes porque permitem que a comunidade tenha
+acesso ao conhecimento produzido na universidade e que esse conhecimento possa
+ser aplicado em benefício da sociedade. Além disso, a participação dos estudantes
+nesses projetos permite que eles adquiram experiência prática e desenvolvam
+habilidades
+importantes
+para
+sua
+formação
+acadêmica e profissional, como
+liderança, trabalho em equipe e capacidade de resolução de problemas.
+As atividades de extensão universitária são importantes para a sociedade em
+diversos aspectos. Algumas das principais contribuições são:
+●
+Promoção do conhecimento: As atividades de extensão universitária permitem
+que o conhecimento produzido nas universidades seja divulgado e aplicado
+em
+benefício
+da
+sociedade,
+contribuindo
+para
+a
+promoção
+do
+desenvolvimento social, cultural e econômico.
+●
+Formação cidadã: As atividades de extensão permitem que os estudantes
+participem de ações que visam resolver problemas sociais, desenvolvendo
+um
+senso
+crítico
+e
+contribuindo
+para a formação de cidadãos mais
+conscientes e atuantes na sociedade.
+●
+Desenvolvimento regional: As atividades de extensão podem ser direcionadas
+para as necessidades locais, contribuindo para o desenvolvimento regional e
+para a promoção do bem-estar da população.
+●
+Fortalecimento da universidade: As atividades de extensão podem ser uma
+forma de aproximar a universidade da sociedade, contribuindo para sua
+
+
+legitimidade e para o fortalecimento de sua missão institucional.
+●
+Capacitação profissional: As atividades de extensão podem oferecer cursos e
+treinamentos para a capacitação profissional de estudantes e profissionais,
+contribuindo para sua formação e para sua inserção no mercado de trabalho.
+As atividades de extensão são desenvolvidas por professores, estudantes e
+técnicos administrativos, envolvendo a participação ativa da comunidade.
+De acordo com a Resolução no 07/2018 do CNE/CES e a Resolução
+COEPEA/FURG No 29, de 25 de março de 2022, que estabelece as normas da
+curricularização da extensão, o curso deve oferecer pelos 10% da sua carga horária
+total como atividades de extensão.
+A curricularização da extensão é uma prática que busca integrar as atividades
+de extensão ao currículo acadêmico dos cursos de graduação. Isso significa que as
+atividades de extensão são reconhecidas como componentes curriculares, sendo
+consideradas como parte integrante da formação acadêmica dos estudantes.
+Com a curricularização da extensão, as atividades de extensão passam a ser
+obrigatórias para a formação dos estudantes.
+A
+curricularização
+da
+extensão
+é
+importante
+porque
+permite
+que os
+estudantes tenham uma formação mais ampla e integrada, que considera não
+apenas o conhecimento teórico, mas também as experiências práticas. Isso contribui
+para a formação de profissionais mais capacitados e conscientes de seu papel
+social.
+Além disso, a curricularização da extensão contribui para a valorização das
+atividades
+de
+extensão
+dentro
+das instituições de ensino, fortalecendo sua
+importância para a sociedade e para a formação dos estudantes.
+O estudante do curso de Engenharia de Computação da Universidade
+Federal do Rio Grande deve cursar pelo menos 390hs de extensão para integralizar
+o curso. A unidade (C3) é responsável por oferecer programas e projetos de
+extensão para que o estudante possa cumprir todas as horas necessárias. Além
+disso, o estudante pode cursar até 50% (195 hs) em programas e projetos de outras
+unidades e/ou instituições. É de responsabilidade do estudante procurar os
+professores para a vinculação aos programas/projetos. No entanto, professores,
+coordenação e unidade irão divulgar os projetos de extensão por mural, email, EDE -
+Espaço de Diálogos com o Estudante, redes sociais e qualquer outro meio que seja
+entendido que o estudante possa ter acesso.
+Os projetos serão de fluxo contínuo e poderão ser divulgados em qualquer
+momento, permitindo assim que os estudantes se inscrevam nos projetos que
+acharem mais adequados a sua formação também a qualquer momento.
+
+
+A seguir são listados alguns programas/projetos da Unidade em que o
+estudante pode realizar as horas de extensão:
+●
+ByteJr: Empresa Júnior
+●
+CASPJr: Assessoria em Automação. Empresa júnior
+●
+Programa de Formação de Multiplicadores de Inclusão Digital
+●
+Software Livre e Sociedade
+●
+Inclusão Digital em Escola de Ensino Básico em Rio Grande - RS
+●
+Desenvolvimento do Raciocínio Lógico no Ensino Fundamental utilizando o
+Pensamento Computacional
+●
+Jogo Digital: Provocando à Organização Social
+●
+Escola de Inverno do C3
+●
+Métricas Territoriais de Alta Precisão sobre a Área Urbana de um Município
+com Grandes Amplitudes Altimétricas: Estudo de Caso Santo Antônio da
+Patrulha
+●
+Bicharada Universitária
+●
+Eventos PET C3
+●
+Kit de Automação Modular para Pulverizador de Barra com foco em Pequenos
+Agricultores Locais e Familiares
+●
+Projeto para a criação de um centro de recondicionamento de computadores
+●
+InCluDe: incluir, desenvolver e experienciar tecnologias
+●
+Desenvolvendo o Pensamento Computacional com Migrantes residentes em
+Rio Grande / RS
+●
+Gurias Digitais
+●
+Dicionário de termos computacionais como estratégia para estimular lógica de
+programação para estudantes surdos
+●
+Wearable
+●
+INOVAÇÃO MEDLIFE V1.0
+●
+Medição, classificação e rastreio automatizados de toras de madeira
+●
+3D XL - Impressão 3D para Indústria Automotiva
+●
+Levantes: Sistema de monitoramento e acionamento inteligente de bombas
+para irrigação por inundação em lavouras de arroz.
+●
+Resgate Automático para Elevadores RAE - IoT
+●
+Plataforma de diagnóstico e monitoramento da saúde
+●
+MEDHY Health - Deep Learning na área da saúde
+●
+Smart Vout
+
+
+●
+iChat - Sistemas Inteligentes de Atendimento
+Além desses, novos projetos serão criados e ofertados no decorrer dos
+próximos anos. Assim, os estudantes têm diversas opções para integralizar o total
+de horas de extensão durante a sua trajetória acadêmica.
+8.7 - Ensino a Distância
+Com o propósito de permitir que os estudantes do 5o ano do curso possam
+realizar estágios em outros locais, fora de Rio Grande, o curso de Engenharia de
+Computação oferece algumas disciplinas optativas no último ano no formato de
+Ensino à Distância (EaD).
+O ensino a distância (EaD) é uma modalidade de ensino que utiliza
+tecnologias de informação e comunicação (TICs) para permitir que o estudante
+tenha acesso ao conteúdo do curso, interaja com os professores e outros estudantes
+e realize atividades avaliativas, tudo isso de forma remota, sem a necessidade de
+estar presente fisicamente em uma sala de aula.
+O ensino a distância pode ser realizado por meio de diferentes plataformas
+digitais, como vídeos, chats, fóruns de discussão, e-mails, entre outras. O estudante
+pode acessar o conteúdo do curso no horário que for mais conveniente para ele,
+desde que respeite os prazos estabelecidos para as atividades.
+Algumas das principais vantagens do ensino a distância são:
+●
+Flexibilidade: O estudante pode acessar o conteúdo do curso no horário que
+for
+mais
+conveniente
+para ele, conciliando seus estudos com outras
+atividades, como trabalho e família.
+●
+Acessibilidade: O ensino a distância pode ser realizado de qualquer lugar do
+mundo, desde que se tenha acesso à internet.
+●
+Autonomia: O estudante pode ter um maior controle sobre seu próprio
+processo de aprendizagem, tendo que assumir a responsabilidade por seu
+próprio ritmo e evolução.
+A deliberação No 111/2019 do Conselho de Ensino, Pesquisa e Extensão e
+Administração (COEPEA) da FURG estabelece a regulamentação da oferta de
+disciplinas na modalidade a distância nos cursos presenciais de graduação da
+FURG.
+Nessa deliberação fica instituído que a carga horária em Educação a distância
+pode compor em até 20% (vinte por cento) da carga horária total do curso. No caso
+da Engenharia de Computação, o estudante pode realizar todas as horas em
+Disciplinas Optativas no modelo EaD, o que constitui 225 horas.
+
+
+Um aspecto importante dentro da EaD é a tutoria, já que ela é uma prática
+fundamental para o sucesso do aprendizado do estudante. O tutor é responsável por
+acompanhar o estudante em seu processo de aprendizagem, esclarecer dúvidas,
+orientar sobre as atividades e avaliações, e motivar para que o estudante atinja seus
+objetivos educacionais.
+De acordo com o Artigo 8, parágrafo 2 da deliberação No 111/2019 do
+COEPEA, “.. a tutoria será exercida exclusivamente pelo(s) docente(s) que
+ministra(m) a disciplina” .
+O processo de tutoria pode trabalhar de forma síncrona,
+ou seja, em tempo real, através de chats e videoconferências, ou de forma
+assíncrona, através de e-mails e fóruns de discussão. Algumas das principais
+funções do tutor no EaD são:
+●
+Acompanhar o progresso do estudante e dar retorno sobre seu desempenho;
+●
+Estimular a participação do estudante em atividades de aprendizagem;
+●
+Orientar sobre as metodologias e recursos utilizados no curso;
+●
+Estimular a autonomia e a responsabilidade do estudante em seu próprio
+processo de aprendizagem;
+●
+Promover a interação entre os estudantes e estimular o trabalho em grupo.
+É importante ressaltar que o corpo docente do curso já possui experiência em
+cursos na modalidade de EaD, porque a Universidade e a Unidade oferecem
+diversos cursos nesse formato via Universidade Aberta (UAB), como especialização
+em Aplicações para Web, Tecnologias da Informação e Comunicação na Educação
+e outros. A lista completa pode ser encontrada em: http://www.uab.furg.br.
+Além
+disso,
+a
+Universidade
+dá
+suporte
+a
+EaD
+através
+da
+SEaD
+(https://sead.furg.br), Secretaria de Ensino à Distância, que tem como missão:
+“... promover políticas integradoras de inovação de
+metodologias e de cultura tecnológica digital para o
+fomento
+de
+cursos,
+projetos
+e
+ações,
+tendo como
+princípio a garantia da qualidade do ensino, pesquisa e
+extensão na convergência das diferentes modalidades de
+educação” .
+A Universidade também oferece um Ambiente Virtual de Aprendizagem,
+denominado hoje como AVA FURG, disponível em https://ava.furg.br. Os ambientes
+virtuais de aprendizagem (AVAs) são plataformas online que permitem a criação e o
+gerenciamento de cursos e atividades educacionais a distância. O AVA FURG
+oferece uma série de recursos que permitem a interação entre os estudantes e
+professores, bem como o acesso a materiais de ensino e a avaliações.
+Entre os principais recursos do AVA FURG, podemos citar:
+
+
+●
+Acesso a materiais de ensino: os estudantes podem acessar textos,
+vídeos,
+áudios
+e
+outros
+recursos
+educacionais
+que
+forem
+disponibilizados pelos professores;
+●
+Fóruns de discussão: os estudantes podem participar de discussões
+online com outros estudantes e professores sobre os temas abordados
+no curso;
+●
+Chat e mensagens instantâneas: os estudantes podem se comunicar
+em tempo real com os professores e outros estudantes;
+●
+Atividades avaliativas: os estudantes podem realizar atividades online,
+como questionários, wikis dentre outros para serem avaliados;
+●
+Feedback e acompanhamento: os professores podem acompanhar o
+desempenho dos estudantes e fornecer feedbacks individuais para
+cada um deles.
+É importante destacar também que a Universidade oferece aos docentes e
+discentes o MConf da RNP como ferramenta para videoconferências. Essa solução
+de webconferência permite interações a distância com suporte a vídeo, áudio, chat,
+compartilhamento
+de
+tela,
+treinamentos
+ao
+vivo,
+tutoria
+e/ou
+colaboração
+(https://sead.furg.br/web-conferencia/mconf-rnp).
+8.7 - Disciplinas Complementares
+A Universidade ainda oferece aos seus estudantes a possibilidade de cursar
+disciplinas de maneira complementar, ou seja, apesar de elas não serem parte do
+Quadro de Sequência Lógica (QSL) do curso, os estudantes podem, mediante
+autorização da Coordenação de Curso, cursar disciplinas que complementam sua
+formação.
+Dessa forma, a coordenação de curso sugere algumas disciplinas que podem
+ser feitas como disciplinas complementares: 05164 - Rio Grande do Sul Natureza e
+Sociedade, 05165 - Brasil Natureza e Sociedade, 05180 - Impactos Ambientais,
+09011 - Relações Humanas, 09029 - Sociologia I, 09031 - Sociologia da Educação I,
+09126 - Rel. Hum. Ética Profissional, 09189 - Relações Interpessoais I, 101142 -
+História
+e
+Direitos
+Humanos,
+10565D
+-
+Diversidade
+Cultural
+e
+Relações
+Étnicos-raciais, 10776 - Sociedade, Educação e Relações Étnico-raciais, 10802d -
+Diversidade Cultural e Relações Étnico-raciais, 101108 - Diversidade Cultural e
+Relações Étnico-raciais, 10858 - Iniciação Ao Pensamento Crítico, 090011 - Cultura,
+Ambiente e Sociedade I, 090016D - Educação Inclusiva, 09273 - Filosofia, 09296 -
+Educação e Sociedade, 08261 - Direitos Humanos, 08359 - Direito Internacional
+Humanitário,
+08493
+-
+Fundamentos
+de
+Direitos
+Humanos,
+07468
+-
+
+
+Empreendedorismo e Inovação, 07555 - Estratégia, Inovação e Tecnociência
+Solidária, entre outras.
+9. INFRAESTRUTURA FÍSICA
+O Curso de Engenharia de Computação necessita de 5 salas de aula (com
+40 lugares em cada sala) para a realização das suas atividades de ensino. As
+disciplinas do curso de Engenharia de Computação têm, em sua maioria, uma
+efetiva parcela experimental que consolida fundamentos teóricos, sendo assim
+constituídas de aulas expositivas e práticas em laboratório. Considerando-se a atual
+divisão administrativa da FURG, os laboratórios que darão o suporte experimental às
+aulas práticas do curso de Engenharia de Computação estão distribuídos em três
+unidades educacionais: Centro de Ciências Computacionais (C3), Instituto de
+Matemática, Estatística e Física (IMEF) e Escola de Engenharia (EE). Uma
+descrição resumida desses laboratórios é apresentada a seguir.
+Laboratório de Expressão Gráfica
+Lotado atualmente na Escola de Engenharia, o Laboratório de Expressão
+Gráfica possui atualmente estações de trabalho específicas para o ensino do
+desenho industrial, com o uso de softwares tais como solidworks e autocad.
+Laboratório de Física Geral
+Lotado atualmente no Instituto de Matemática, Estatística e Física, o
+Laboratório de Física Geral possui uma estrutura que lhe permite montar diversos
+experimentos destinados ao estudo da mecânica (cinemática e dinâmica).
+Laboratório Termo Fluídico
+Lotado atualmente na Escola de Engenharia, o Laboratório Termo Fluídico
+conta com diversas plantas físicas para o estudo experimental sobre termodinâmica,
+sistemas hidráulicos, sistemas pneumáticos e dinâmica de fluídos.
+Laboratórios de Software
+O curso conta hoje com 7 laboratórios de ensino. 5 lotados no Centro de
+Ciências Computacionais e 2 no pavilhão 02. Ao todo são 130 computadores
+Desktop, todos conectados à Internet para serem usados para ensino.
+Laboratório de Eletrônica e Sistemas Digitais
+
+
+Lotado atualmente no Centro de Ciências Computacionais, o laboratório
+conta com a seguinte infraestrutura:
+• Oito osciloscópios Digitais
+• Oito fontes CC - 2 x 30V + 1 x 5V - 3A
+• Oito multímetros digitais
+• Oito geradores de Sinais
+• Oito estações de solda
+• Duas estações de solda para SMD
+• Oito Gravadores/depuradores para microcontroladores
+• Dois alicates Wattímetro - TRUE RMS
+• Dois alicates Amperimétrico
+• Seis computadores
+• Protoboards e componentes eletrônicos diversos
+Laboratório de Automação
+Lotado atualmente no Centro de Ciências Computacionais, o laboratório com
+os seguintes recursos:
+• Planta industrial com dispositivos como CLP’s, frequencímetros, motores
+de indução, tanque para controle de pressão e vazão de líquidos;
+• Bancada para experimentos com medidas elétricas;
+• Bancada com acionamentos hidráulicos e pneumáticos;
+• Kits para experimentos de instrumentação e acionamentos elétricos;
+Além dos laboratórios de ensino disponíveis ao curso de Engenharia de
+Computação, o curso poderá utilizar as instalações dos seguintes Núcleos de
+pesquisa:
+Núcleo de Automação e Controle (NAUTEC)
+●
+01 sonar MiniKing
+●
+01 câmera subaquática
+●
+01 notebook Centrino, 3.4Ghz
+●
+02 impressora laser
+●
+03 placas firewires
+●
+04 câmera HandCams
+●
+03 estações de solda
+●
+02 geradores de sinal
+●
+06 robôs móveis omnidirecionais
+
+
+●
+01 robô TATU para inspeção de dutos
+●
+20 robôs Citizens
+●
+01 CAVE com 2 planos de projeção, 2 projetores por plano INFITEC
+●
+06 óculos INFITEC
+●
+01 Robô subaquático
+●
+01 Robô Pioneer
+●
+04 Kits Lego Mindstorms
+Núcleo de Computação Científica (NCC)
+●
+01 cluster com 10 computadores;
+●
+02 computadores Dell Optiplex GX270, Pentium 4 2.26GHz, 512Mb RAM,
+HD 40Gb, placa de rede gigabit;
+●
+03 computadores Athlon 64 x2 4000, 1024Mb RAM, HD 160GB, placa de
+rede gigabit
+●
+02 impressoras laser
+●
+01 roteador wireless
+10. ACOMPANHAMENTO E AVALIAÇÃO
+Previsto em seu projeto inicial, o projeto pedagógico do curso de Engenharia
+de Computação, deve passar por um processo de revisão e atualização constante.
+Os procedimentos de avaliação do PPC do curso, e de todos os demais aspectos
+relacionados a sua execução, encontram respaldo institucional no PPI da FURG,
+onde se estabelece entre seus princípios norteadores:
+“...um currículo entendido como processo formativo, dinâmico e
+em permanente movimento, permitindo que a ação educativa
+da Universidade incorpore outras formas de aprendizagem e de
+produção do conhecimento presentes na realidade social. Essa
+perspectiva
+requer
+a
+avaliação
+contínua
+dos
+projetos
+pedagógicos dos cursos de graduação e pós-graduação e das
+ações de pesquisa e extensão, identificando diferentes desafios
+na formação de pessoas e na produção de conhecimento e
+novas tecnologias.”
+Atualmente, a sistemática de avaliação do curso está pautada por três
+momentos distintos, e com dimensões próprias.
+O primeiro momento dá-se dentro do Núcleo Docente Estruturante (NDE) do
+
+
+curso, instituído em 2017 pela Portaria 481/2017 da Pró-Reitoria de Graduação da
+Universidade Federal do Rio Grande - FURG. Dada suas atribuições, o NDE é um
+espaço para iniciação e instalação de processos de concepção, consolidação e
+contínua atualização do projeto pedagógico do curso. O NDE do curso de
+Engenharia de Computação reúne-se a cada 2 meses com o objetivo de discutir
+primordialmente assuntos de caráter pedagógico.
+O segundo momento de avaliação está numa dimensão externa ao curso,
+em um fórum que reúne a direção do Centro de Ciências Computacionais,
+coordenadores
+e
+coordenadores
+adjuntos
+dos
+cursos
+de
+graduação
+e
+pós-graduação da unidade. Estas reuniões, também mensais, visam discutir
+assuntos inter e intra cursos, a partir de diretrizes e estratégias próprias da unidade.
+Um último fórum de discussão e avaliação relacionado a execução e
+acompanhamento do curso de Engenharia de Computação são os seminários de
+Ensino, realizados anualmente, com a participação dos professores do curso. Com
+estes fóruns espera-se integrar os mais variados atores do processo de avaliação do
+curso de modo a delinear estratégias no sentido da excelência da sua execução.
+11. ARTICULAÇÃO DO PPC COM O PPP INSTITUCIONAL DA FURG
+11.1. O PAPEL DA UNIVERSIDADE NA SOCIEDADE CONTEMPORÂNEA
+A área de Engenharia de Computação, assim como as demais áreas de
+Engenharia, propicia espaço para uma educação crítica e dialética (pelos problemas
+que permite levantar e discutir), possibilitando intervenções junto a vários setores da
+sociedade (pela sua multidisciplinaridade e potencial de interação com qualquer
+ramo de atividade), incrementando o potencial de ação num contexto local (melhoria
+da capacidade técnica instalada), sem deixar de estar incluído na problemática
+nacional (demanda nacional por mão-de-obra qualificada), contribuindo, assim, para
+o desenvolvimento tecnológico e servindo a uma concepção radical e universal de
+cidadania.
+11.2. CONCEPÇÃO FILOSÓFICA DA FURG
+A FURG se define como uma Universidade voltada para o ecossistema
+costeiro, o que se traduz nas mais diversas atividades promovidas pela Instituição,
+de ensino, pesquisa e extensão. Todos somos parte constituidora do meio ambiente.
+O desenvolvimento de competências na área de Engenharia de Computação é
+importante para se interpretar e conhecer a realidade, de modo à atividade da
+Universidade e de seu egressos poderem se inserir responsavelmente na região,
+
+
+nas soluções dos problemas que a afetam no presente e contribuir para o
+planejamento e execução de ações futuras.
+11.2. 1 MISSÃO
+O Curso se enquadra na missão da Universidade quando contribui para
+provimento de formação geral que contemple a técnica e as humanidades, com
+criatividade e espírito crítico, das ciências, artes e letras visando o desenvolvimento
+humano e a vida em sociedade.
+Como foi colocado no segundo preceito norteador do currículo, espera-se
+imbuir os estudantes de uma visão consciente, ética e responsável de seu trabalho,
+o que se fará, igualmente, orientado por princípios éticos e democráticos, levando a
+um impacto na comunidade que contribua para a melhoria da qualidade de vida dos
+indivíduos e para o desenvolvimento regional.
+11.2.2 OBJETIVOS INSTITUCIONAIS
+Dessa forma, o Curso também respeita os objetivos da Universidade (buscar
+a educação em sua plenitude, com criatividade e espírito crítico com vistas à
+transformação social; formação cultural, social e tecnicamente capaz; integração
+harmônica entre o ser humano e o meio ambiente), e do seu PPP (guiar ações
+político-educacionais de convergência de ações de todos os envolvidos com a
+formação nos diferentes níveis de ensino; instalar um processo contínuo de reflexão
+sobre o espaço universitário e a diversidade de ações desenvolvidas; analisar os
+processos de ensinar, aprender, pesquisar e avaliar a fim de compreender o
+fenômeno educativo e a sua prática).
+11.3. FORMAÇÃO PROFISSIONAL DE NÍVEL SUPERIOR
+Acreditamos que as soluções adotadas contemplam a afirmativa de que,
+nesta sociedade, em que “a comunicação e a informação não se apresentam de
+forma linear, mas de forma plural, múltipla e complexa, inscritas em redes e
+conexões,
+[a
+formação
+de
+nossos
+egressos]
+tem
+sua
+responsabilidade
+e
+compromisso social ampliados, [conduzindo a] interferências efetivas, críticas e
+responsáveis no mundo do trabalho e na sociedade de forma mais ampla”.
+11.4. CURRÍCULO: CONCEPÇÃO E PRINCÍPIOS
+As Diretrizes Curriculares Nacionais defendem a flexibilização da graduação,
+por um modelo que se adapte às dinâmicas condições de um perfil profissional
+exigido pela sociedade, sendo a graduação uma etapa inicial no processo de
+
+
+formação contínua inerente ao mundo do trabalho. Nossa proposta visa dar uma
+base de longo espectro e de cunho teórico forte, justamente para comunicar
+adaptabilidade ao egresso.
+11.4.1 CONCEPÇÃO DE CURRÍCULO
+O currículo se propõe com base no conhecimento dos docentes envolvidos
+com a área na Instituição, que constituíram a Comissão de Criação e Implantação.
+Os referenciais de conhecimento, metodologias, atitudes e valores refletem o
+pensamento dos mesmos.
+11.4.2 PRINCÍPIOS CURRICULARES
+Em relação às dimensões preconizadas pelo PPP Institucional, o Curso
+responde adequadamente:
+●
+Intencionalidade: o Curso representa uma vontade de se ter incrementada a
+qualidade técnica e tecnológica em Engenharia de Computação na região de
+influência da Universidade.
+●
+Indissociabilidade entre ensino, pesquisa e extensão: a área de Computação
+já comprovou, pelo seu envolvimento com os mais diversos projetos na
+Universidade e fora dela, que facilmente responde a esta integração, sendo
+que o Curso deve realizá-la, de forma efetiva, em espaços até agora não
+atendidos, nomeadamente o setor industrial produtivo.
+●
+Unidade entre teoria e prática: o Curso se estabelece em ambiente, por um
+lado, da ciência computacional e, por outro, das Engenharias, os quais,
+normalmente, ambos, primam por essa integração, contemplando, assim, o
+preceito do PPP de que “a prática [é] fundamento e finalidade da teoria” e de
+que se dê “ênfase às reflexões epistemológicas sobre o processo de
+construção
+de
+conhecimento
+que
+prioriza
+a
+prática
+como
+objeto
+de
+investigação de todo profissional”.
+●
+Flexibilidade:
+assumimos,
+com
+o
+PPP
+Institucional,
+que
+“o
+currículo
+configura-se como processo formativo dinâmico e em permanente movimento,
+orientador da ação educativa em sua totalidade” (grifo nosso), com o que
+apostamos, igualmente que os “professores tenham condições de determinar
+dimensões e prioridades específicas”. Itens curriculares como reconhecimento
+e
+ênfase
+de
+determinadas
+atividades
+complementares,
+bem
+como
+a
+realização coletiva das atividades de integração curricular, é que vão garantir
+a necessária adequação temporal dos focos de formação, mais do que uma
+intrincada engrenagem de opções ou “caminhos” alternativos, que tendem a
+
+
+estar em contradição com a proposta de curso como um projeto de trabalho
+coletivo.
+●
+Formação profissional para a cidadania: nosso egresso deve adquirir a
+consciência de que participa de uma sociedade e a ela deve satisfações pelo
+investimento que representa sua passagem por uma universidade pública.
+Nosso segundo preceito busca imprimir isto na personalidade do Curso.
+●
+Interdisciplinaridade: aqui também a estrutura curricular visa evidenciar os
+elos
+interdisciplinares,
+através dos elementos de integração, além de
+reconhecer, pela própria natureza da formação pretendida, que todo tipo de
+conhecimento se interpenetra.
+●
+Contextualização: como se procurou mostrar nas justificativas para instituição
+do Curso, o País demanda formação na área de Engenharia de Computação
+e o Rio Grande do Sul da mesma forma. O tipo de atividade esperada no
+âmbito do Curso e, posteriormente, dos egressos, induz, ao natural, o Curso
+para apresentação de soluções aos problemas locais e regionais na área de
+Engenharia de Computação, inclusive para uma significativa inserção na vida
+institucional e comunitária.
+12. ARTICULAÇÃO DO PPC COM O PDI DA FURG
+Como toda expansão de oferta de ensino superior, o Curso se consolida
+juntamente a Universidade e está em sintonia com a Missão institucional:
+“Promover o avanço do conhecimento e a educação
+plena com excelência, formando profissionais capazes de
+contribuir para o desenvolvimento humano e a melhoria
+da qualidade socioambiental.”
+Em relação às dimensões do PDI, citamos as seguintes correspondências:
+PDI I - Ensino de Graduação
+Objetivo 1: Buscar a qualificação contínua nos processos educativos dos cursos de
+Graduação, em consonância com seus Projetos Pedagógicos.
+O Curso pretende melhorar a integração interdisciplinar pela introdução de
+inovações didáticas como as disciplinas de Atividades de Integração Curricular.
+E também ampliar a política de estímulo para que as atividades de pesquisa e
+extensão sejam incorporadas à cultura de todos os cursos da Universidade.
+O Curso incorpora a ideia de pontuar atividades complementares, que
+
+
+incluem o engajamento na Iniciação Científica, por exemplo.
+PDI III – Pesquisa
+Objetivo 1: Consolidar a pesquisa nas diferentes áreas do conhecimento.
+O Curso, na medida que inclui dentre as áreas de atividade da instituição
+contribui para a expansão das oportunidades de pesquisa e desenvolvimento nessa
+área.
+PDI IV – Inovação Tecnológica
+Objetivo 1: Promover a Inovação Tecnológica
+O curso incentiva e viabiliza a realização de projetos de inovação tecnológica
+e de tecnologia social.
+PDI V - Extensão
+Objetivo 1: Consolidar a Política de Extensão Universitária.
+O Curso, pelo ambiente que há de desenvolver, deve potencializar a
+capacidade da área de Computação de realizar mais eficazmente a interação com a
+sociedade, podendo haver o engajamento dos corpos docente e discente na
+produção de sistemas de computação de interesse para os mais diversos espaços
+de aplicação, conforme definição dos objetivos do Curso.
+Objetivo 3: Ampliar a integração entre a Universidade e os demais setores da
+sociedade.
+Aqui, o Curso pode ser criar programas de fomento à realização de projetos
+de extensão multidisciplinares articulados com o ensino e a pesquisa., conforme
+explanado no comentário sobre o Objetivo 1, acima.
+
+
+Abril/2023
+Coordenação de Curso de Engenharia de Computação
+Núcleo Docente Estruturante de Engenharia de Computação

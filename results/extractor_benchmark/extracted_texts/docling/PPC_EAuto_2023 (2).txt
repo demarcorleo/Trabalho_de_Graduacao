@@ -1,0 +1,3103 @@
+Universidade Federal do Rio Grande -- FURG Centro de Ciências Computacionais -- C3 Engenharia de Automação
+
+PROJETO PEDAGÓGICO DE CURSO BACHARELADO EM ENGENHARIA DE AUTOMAÇÃO
+
+
+
+
+
+Apresentação
+
+Criado em 2008, com sua primeira turma tendo ingresso no ano seguinte, o curso de Engenharia de Automação primou desde a sua gênese pela inovação e excelência nos processos de ensino-aprendizagem, seja pela sua concepção, projeto e execução. Passado alguns anos, impõe-se a necessidade de revisão de alguns dos seus preceitos fundamentais, o que consequentemente acarreta um conjunto de consideráveis modificações nas suas diretrizes.
+
+Ao longo desse período, várias alterações curriculares de pequeno porte foram realizadas pela coordenação do curso, de forma articulada com o NDE, a fim de atender às novas legislações acadêmicas e visando atingir na plenitude os objetivos do curso.
+
+Neste momento de modernização curricular para a Engenharia de Automação, fazem parte da motivação, além do entendimento do próprio corpo docente da necessidade de atualização curricular do curso, as novas Diretrizes Curriculares Nacionais dos Cursos de Graduação em Engenharia (Resolução CNE/CES nº 2, de 24 de abril de 2019 1 ) e a exigência legal de curricularização da Extensão nos cursos de graduação (Resolução nº 07/2018 do CNE/CES e Resolução nº 027/2015 do CONSUN), num mínimo de 10% da carga horária obrigatória para integralização do curso.
+
+Nesse mesmo entendimento de contextualizar o currículo do curso à realidade profissional, já há algum tempo vem sendo discutido no âmbito do Centro de Ciências Computacionais e do NDE do curso de Engenharia de Automação a oferta de conteúdos voltados à inovação, ao empreendedorismo e à criatividade, fundamentais ao novo perfil profissional exigido pelos desafios atuais e futuros da sociedade.
+
+Assim, este documento é o resultado desta reflexão e troca de visões entre seus diferentes atores: docentes, discentes, técnicos e membros da comunidade externa. É importante destacar, principalmente aos estudantes que tiverem contato com este documento, que este não é um documento definitivo, uma vez que é da natureza de um Projeto Pedagógico de Curso (PPC) a sua transitoriedade 2 .
+
+Para finalizar, este documento retrata não uma visão individual e definitiva sobre as diretrizes de ensino-aprendizagem de Engenharia de Automação, mas é, sim, resultado de uma construção coletiva que integra as diferentes vertentes, visões e concepções para a devida orientação dos processos condizentes com a dinâmica de um processo contínuo de construção e difusão do conhecimento desta área e outras áreas adjacentes.
+
+1 Resolução CNE/CES nº 2, de 24 de abril de 2019 - Diretrizes Curriculares Nacionais do Curso de Graduação em
+
+Engenharia.
+
+2 SACRISTÁN, J. G. Saberes e Incertezas sobre o Currículo . Penso Editora. ISBN: 978-85-65848-44-2. 2013.
+
+
+
+
+
+1. Justificativa
+
+Já as novas DCNs serão incorporadas ao currículo do curso, neste momento, por um conjunto de mudanças que visam formar profissionais mais preparados às necessidades atuais e futuras da sociedade, com uma visão mais ampla e transdisciplinar para a busca de desenvolvimento social e tecnológico.
+
+Um desafio presente na Educação em Engenharia é a rápida geração e disseminação de tecnologias e contextos cada vez mais complexos de aplicação social de soluções técnicas. Observa-se na grande maioria dos cursos de Engenharia do Brasil uma estrutura curricular tradicional e conservadora, entregando a sociedade engenheiros tecnicamente muito bem formados, mas carentes de uma formação mais ampla, capaz de ultrapassar as fronteiras das disciplinas para atender às necessidades reais da sociedade.
+
+A seguir apresenta-se as metodologias de ensino e aprendizagem que serão base para a nova concepção de currículo para a Engenharia de Automação.
+
+Aprendizado Baseado em Problema
+
+O Aprendizado baseado em Problemas (Problem Based Learning - PBL), em um contexto multidisciplinar, tem um grande potencial pedagógico, uma vez que a maioria dos problemas reais, em um contexto profissional e de sociedade, se apresentam mal definidos e englobam assuntos de diferentes áreas de cunho técnico e social.
+
+A execução do PBL pode incluir múltiplas atividades, tais como brainstorming, design thinking, pesquisas científicas, aulas expositivas, discussões em grupo, desenvolvimento de protótipos, entre outros. Exige uma estrutura pedagógica adequada que dê suporte aos professores na elaboração das atividades assim como aos alunos para a realização de tais atividades.
+
+Aprendizado Colaborativo
+
+A Aprendizagem Colaborativa vê o aluno como um sujeito ativo e participante do processo de aprendizagem, onde este interage com os demais colegas e professores, assimilando conceitos e informações e construindo o conhecimento.
+
+A aprendizagem colaborativa é fundamental para desenvolver um conjunto de competências de relacionamento interpessoal, como comunicação eficaz, negociação, resolução de conflitos, tomada de decisão, liderança, responsabilidade pessoal e trabalho em equipe.
+
+
+
+
+
+1.3 Espaços Colaborativos em uma Perspectiva Invertida de Aprendizado
+
+Nesta perspectiva, os espaços colaborativos estabelecem-se como ambientes culturais, intelectuais, e psicológicos capazes de fomentar uma aprendizagem cunhada em processos sociais, compartilhando recursos e vivências em uma construção solidária de saberes, onde pela interação, os estudantes comprometem-se e identificam-se com o objeto em estudo.
+
+Ressalta-se a disruptura do espaço de sala de aula como local de exposição de conteúdos pelo professor. Nela o fluxo inverte-se: primeiro o estudante trabalhará o conteúdo através do meio virtual e, ao chegar na sala presencial, (cons)ciente já do assunto, outras explorações poderão ser realizadas.
+
+Entende-se que o NDE poderá acompanhar a sistematização e os resultados dos processos de ensino-aprendizagem propostos através das avaliações descritivas realizadas pelo colegiado de professores que participaram do processo nos Módulos. Os registros além do histórico escolar, alimentandos pelas observações dos professores, assim como da auto-avaliação do próprio estudante, nortearão as discussões pedagógicas a serem realizadas pelo NDE, que constantemente revisará as atividades propostas nos Módulos. Este acompanhamento servirá, também, como fonte de informações para a estratégia de mobilização docente.
+
+A Coordenação de Curso, juntamente com a direção da C3, NDE e docentes, cientes dos registros, acompanharão os fluxos de formação do estudante, com o propósito de verificação e orientação para a tomada de decisão em seu currículo, com fins a responder aos requisitos mínimos para obtenção do grau de Bacharel em Engenharia de Automação.
+
+2. Histórico
+
+Com a reestruturação da FURG empreendida no segundo semestre de 2008, criou-se o Centro de Ciências Computacionais (C3), cujo pilar do conhecimento construído e difundido está fundado sobre a Computação. Inicialmente formado com um grupo de 16 professores e 5 técnicos, o C3 conta hoje com um grupo que deve alcançar em 2023 a marca de 162 estudantes matriculados, 39 professores e 9 técnicos voltados ao fazer acadêmico em toda a sua plenitude, abrangendo atividades de pesquisa, ensino e extensão.
+
+
+
+
+
+A história do C3 encontra raízes nos antigos Departamento de Matemática e Departamento de Física da FURG, mas principalmente a partir da concepção e instauração do curso de Engenharia de Computação em 1993, com a primeira turma dando entrada no ano seguinte, para o qual, uma parte significativa do corpo docente inicial da unidade lecionava. Já deste período anterior ao surgimento do C3, observa-se uma série de projetos, de diferentes níveis e dimensões, com forte intersecção com a Automação, mais especificamente circundando temas como Robótica, Controle e Informática Industrial. Neste contexto, assuntos como inspeção de dutos, robótica subaquática, manufatura digital tornam-se tópicos associados às competências da unidade recém criada.
+
+Com a criação do C3 em meio ao início da execução do Programa REUNI, cujo objetivo era a expansão do ensino superior público, a FURG envidou esforços visando aumentar a oferta de cursos de graduação. De modo a responder à solicitação feita a toda a comunidade universitária, o grupo de docentes envolvido com a área de Computação na Universidade decidiu associar a consolidação do corpo docente nas áreas de Robótica, Manufatura, Informática Industrial e Controle à necessidade regional e nacional, que se institui, por profissionais de nível superior em Automação, resultando em 2008 na criação do Curso de Graduação em Engenharia de Automação 3 da FURG, cuja primeira turma teria seu ingresso já no ano de 2009.
+
+Procurando atender a Resolução 1/2010 da Comissão Nacional de Avaliação da Educação Superior (CONAE), o conselho do C3 entendeu necessário a constituição dos Núcleos Docentes Estruturantes (NDE) para os seus cursos de graduação, o que incluiu o curso de Engenharia de Automação. Estes núcleos têm entre as suas funções o acompanhamento, concepção e consolidação contínua do projeto pedagógico de um curso de graduação.
+
+Criado em 2010, o NDE do curso de Engenharia de Automação, no uso de suas atribuições, entendeu como necessário estabelecer a rediscussão a respeito do projeto pedagógico do curso, uma vez identificadas algumas lacunas na sua concepção e execução. Este projeto nasce desta demanda
+
+Neste momento de modernização curricular para a Engenharia de Automação, fazem parte da motivação, além do entendimento do próprio corpo docente da necessidade de atualização curricular do curso, as novas Diretrizes Curriculares Nacionais dos Cursos de Graduação em Engenharia (Resolução CNE/CES nº 2, de 25 de abril de
+
+3 Cadastrado do curso de Engenharia de Automação no sistema e-MEC
+
+
+
+
+
+2019) e a exigência legal de curricularização da Extensão nos cursos de graduação (Resolução nº 07/2018 do CNE/CES e Resolução nº 027/2015 do CONSUN), num mínimo de 10% da carga horária obrigatória para integralização do curso.
+
+A implementação das horas referentes a extensão no novo currículo será realizada pela componente curricular Projeto de Extensão, devendo o estudante cumprir 390h em atividades de extensão, devidamente comprovadas e validadas pela coordenação do curso.
+
+A própria curricularização da extensão será um importante vetor para a formação tão desejada aos egressos, por meio da experiência não disciplinarizada da extensão e, por consequência, da própria formação profissional ainda na graduação. A implementação das atividades, conforme proposto, por meio do componente Projetos de Extensão permitirá ao estudante fortalecer sua formação ampla e, ao mesmo tempo, focada no objeto do projeto executado.
+
+Outro novo componente curricular obrigatório proposto é o denominado Projetos de Pesquisa. Na versão vigente do PPC, a experiência em atividades de pesquisa está prevista por meio de atividades complementares e, assim como as atividades de extensão, tem um caráter de participação facultativa. Entretanto, após amplo estudo, entendeu-se extremamente importante que tal experiência acadêmica esteja disponível a todos os estudantes ao longo da sua formação em Engenharia, motivo pelo qual se torna necessário cumprir um mínimo de horas em Projetos de Pesquisa. Assim, ao longo da sua trajetória acadêmica, o estudante será colocado em contato com atividades de Ensino, Pesquisa e Extensão, cumprindo de maneira explícita o preconizado no Art. 207 da CF/88.
+
+Já há algum tempo vem sendo discutido no âmbito do Centro de Ciências Computacionais e do NDE do curso de Engenharia de Automação a oferta de conteúdos voltados à inovação, ao empreendedorismo e à criatividade, fundamentais ao novo perfil profissional exigido pelos desafios atuais e futuros da sociedade 4 . Nesse sentido, apresenta-se um conjunto de disciplinas optativas aos estudantes, nas séries iniciais do curso, a fim de que o estudante possa ter essa formação inicial e, na medida que avança no curso, possa utilizá-la e aprimorá-la ao longo da sua formação como Engenheiro. As disciplinas optativas criadas são: Fundamentos de Design Centrado no Usuário, Criatividade e Design Thinking, Inovação em Engenharia e Ciências Computacionais, Elaboração e Análise de Projetos e Soft Skills para Engenharia.
+
+4 OLIVEIRA, V. F. As Inovações nas Atuais Diretrizes para a Engenharia: estudo comparativo com as anteriores. In: A Engenharia e as Novas DCNs - Oportunidades para Formar Mais e Melhores Engenheiros. ABENGE. Editora LTC. ISBN 978-85-216-3670-0. 2019
+
+
+
+
+
+Diante de toda essa alteração curricular proposta, a fim de não aumentar o tempo para integralização da carga horária mínima, algumas disciplinas tiveram suas cargas horárias readequadas, de tal forma que não afetasse a sólida formação dos estudantes.
+
+Uma alteração importante encaminhada nesta proposta é que o curso passa a ter carga horária a distância em algumas disciplinas, a partir da terceira série, com base nas experiências vivenciadas durante os dois anos de ensino remoto devido à pandemia de COVID-19, e com a perspetiva de que os estudantes possam desenvolver sua responsabilidade e melhor gerenciar seu tempo para estudos e participação em atividades de seu interesse.
+
+Ainda nessa perspectiva de apresentação das alterações curriculares propostas, propõe-se a criação de componentes curriculares específicos para atividades já existentes na atual estrutura curricular, forçadamente implementados por meio de disciplinas, que são Estágio Curricular e Projeto de Graduação. Além destes, propomos a criação do componente curricular Projetos de Pesquisa que, assim como Projetos de Extensão, permitirá ao estudante vivenciar a experiência de pesquisa e do método científico, tão importante para as novas demandas da sociedade, seja pela atuação futura no meio acadêmico ou em criação de produtos e empresas tecnológicas, fundamentais para a melhoria do desenvolvimento socioeconômico do país.
+
+Assim, diante desse conjunto de alterações no Projeto Pedagógico do Curso de Engenharia de Automação, atende-se às exigências legais da curricularização de pelo menos 10% da carga horário em atividades de Extensão e se dá início à implantação das novas diretrizes curriculares para cursos de graduação em Engenharia, numa perspectiva de constantes reflexões sobre o ensino de Engenharia e da melhoria contínua de nossas práticas para formação de profissionais engenheiros.
+
+
+
+
+
+3. Princípios Norteadores
+
+A tarefa de definir um conjunto de princípios norteadores para um projeto de curso deve ter na sua gênese uma visão clara e delineada do que é Engenharia de Automação, e sua inserção dentro de contextos que incluem a universidade, unidade acadêmica, comunidade científica e sociedade. Sendo assim, de acordo com a Enciclopédia de Automática 5 , Engenharia de (Controle e) Automação é:
+
+... projetar e construir equipamentos ou algoritmos que imponham automaticamente o comportamento de um objeto ou sistema. Em geral alterando o fluxo de energia a partir do fluxo de informação. O funcionamento do sistema controlado deve ser autônomo (ou automático), só seu comportamento sendo especificado pelo operador humano dentro de uma classe de comportamentos admissíveis. Os conceitos centrais neste problema são os de realimentação da informação, filtragem (no sentido de Wiener) ou processamento de sinais, regulador e servomecanismos (ou sistema de controle), e autômatos. "
+
+Além disso, destaca-se ainda um caráter inerente a esta especialidade da engenharia que é a de integração de sistemas, desde que a imposição de comportamentos de forma automática seja um de seus interesses . A partir destas visões entende-se que:
+
+Primeiro preceito. Engenharia de Automação apresenta dois pilares teóricos fundamentais: a Computação , e a modelagem e física dos fenômenos de Conversão de Energia .
+
+A formação em áreas tecnológicas exige uma fundamentação teórica que ultrapasse a mera aquisição de habilidades operacionais em relação às ferramentas de uso intensivo num certo momento, as quais se possa identificar pela demanda explícita quando da oferta de postos de trabalho ou de serviços a serem executados. É já lugar comum dizer-se, embora não tenha deixado de ser verdadeiro, que a evolução tecnológica nessa área é muito rápida. Assim, mesmo antes de se completar uma geração de egressos de um curso de nível superior, poderá ter-se tornado inadequado um treinamento dado em relação a certos produtos. Por isso a premissa fundamental na formação, especialmente em nível superior, em Computação e áreas de conversão de computações, é de que se deve prover os fundamentos da área do ponto de vista científico, e não apenas uma bateria de treinamentos. Daí, nosso Segundo preceito. A formação em nível superior, mesmo em áreas tecnológicas, deve primar pelo ensino da Ciência, mais do que da técnica.
+
+5 BRUCIAPLAGIA, A. H.; FARINES, J.M. e MORENO, U. F. Educação em Controle . In: Enciclopédia de Automática
+
+- Controle & Automação, vol. 1, cap. 1, pág. 36
+
+
+
+
+
+A formação em nível superior deve atender não só uma necessária capacitação para exercício de uma profissão, de modo a se encaminhar o educando para uma inserção na vida econômica, mas, também, deve propiciar vivências significativas que só o meio acadêmico consegue engendrar.
+
+Constituem-se, nesse contexto, três dimensões da formação que chamamos bases: cognitiva, técnico-profissional e afetiva.
+
+A base cognitiva relaciona-se com o acervo de conhecimentos, principalmente teórico, fundado nas informações comunicadas por outrem ou descobertas através da experiência. A base técnico-profissional é construída pelo treinamento, na aplicação do conhecimento teórico à identificação e à solução de problemas, a par de uma conscientização da identidade assumida pela pessoa assim formada. A base afetiva se constitui no conjunto de relações humanas de trabalho através das quais podem se construir as bases cognitiva e técnico-profissional, e que devem ser interiorizadas por todos como um patrimônio pessoal.
+
+O conhecimento formal acumulado pela Humanidade é um patrimônio a ser compartilhado de modo a tornar-se o ponto de partida para o crescimento de cada um. Tal conhecimento, extenso e sujeito a interpretação, pode ser ministrado (e aprendido) em variados graus de qualidade, a qual pode e deve ser crescente. Por outro lado, há limites, materiais e humanos, que se impõem à tarefa de ensinar. Daí, nosso
+
+Terceiro preceito. Os estudantes devem receber um conjunto de informações visando uma base crítica para a evolução permanente, um conjunto conexo e significativo (denso, mas não desnecessariamente extenso), atualizado e prospectivo, abordado segundo a nossa competência, a qual deve evoluir permanentemente.
+
+Temos uma preocupação com uma formação integral. No entanto, o maior objetivo visado por nossos alunos ao escolherem nossos cursos é o de terem uma formação profissional. Só estaremos atendendo esta expectativa se os prepararmos para serem profissionais competentes no nível de exigência do mercado de trabalho onde se lançarão.
+
+
+
+
+
+Além de uma competência regular, é importante dar à sua formação um diferencial de qualidade que os destaque neste mercado e que destaque o Curso e a FURG como centro de formação profissional. Este diferencial inclui não só a especialização, mas também um senso ético e de responsabilidade. Daí, nosso
+
+Quarto preceito. Os estudantes devem haurir do Curso fundamentação teórica e treinamento adequado com vistas a se qualificarem para o exercício de atividades de compreensão, uso e desenvolvimento da Engenharia de Automação em nosso país, de modo a terem uma inserção competitiva no mercado de trabalho; um potencial de crescimento também na pesquisa e na pós-graduação; uma visão consciente, ética e responsável de seu trabalho.
+
+A vida não se esgota no sucesso acadêmico ou profissional, tendo dimensões maiores onde isto se insere. Nenhuma atividade humana em sociedade se justifica se não se fundar num envolvimento pessoa a pessoa e a atividade docente, em particular, adquire qualidade quando consegue ser "educação com" os alunos, ao invés de "educação para". Somente a integração de todos num grupo consciente de si mesmo e do próprio trabalho em realização é que nos dará a segurança para continuar e a vontade de evoluir. O tempo na Universidade deve ser, para todos, um tempo de interação, e esse tempo deve ser sempre presente e não uma mera transição ou um passado que urge ultrapassar. O próprio PPI da FURG, ao fixar a Missão da Instituição, preconiza 'promover a educação plena, enfatizando uma formação geral que contemple a técnica e as humanidades, que seja capaz de despertar a criatividade e o espírito crítico, fomentando as ciências, as artes e as letras e propiciando os conhecimentos necessários para o desenvolvimento humano e para a vida em sociedade.' e que 'A FURG deve servir com elevada qualidade, orientada por princípios éticos e democráticos, de modo que o resultado de sua ação educativa tenha impacto na comunidade e contribua para a melhoria da qualidade de vida dos indivíduos e para o desenvolvimento regional.' Também assevera que 'Um currículo se produz a partir das ações de todos os participantes nos processos educativos da Instituição, em que os critérios de seleção e organização dos referenciais de conhecimentos, metodologias, atitudes e valores produzem, estruturam, constituem todos os envolvidos.' Daí, nosso
+
+Quinto preceito. Os alunos devem ter a oportunidade de constituir, juntamente com os professores, um verdadeiro grupo de trabalho, cujo objetivo maior é sua formação, não só técnico-profissional, como também humana e de cidadania.
+
+
+
+
+
+Opções estruturais e pedagógicas
+
+Pelo primeiros dois preceitos, uma preocupação dominante na formulação do curso foi a busca de uma forte formação básica, científica (e não apenas técnica) em ciências exatas, Computação e compreensão dos fenômenos de conversão de energia, visando-se, precisamente, dar um diferencial aos egressos no sentido de não se prenderem a métodos ou técnicas de uso momentâneo, mas, pelo contrário, a darem valor aos princípios fundamentais da Ciência, de modo a poderem se adaptar às novas tecnologias, enquadrando-as em sua própria matriz de conhecimentos, a despeito das inovações que ocorrem com rapidez nesta área.
+
+Pelo terceiro preceito, optamos por um número equilibrado de atividades ao longo do tempo, de modo a não se instalar para os estudantes um ambiente congestionado e neurotizante e, por consequência, ineficaz em seus efeitos acadêmicos e deletério do ponto de vista afetivo. Busca-se também a instauração de núcleos de consolidação cognitiva através de itens estruturais como as Atividades de Integração Curricular. Aventou-se a constituição do último ano do curso com base apenas no projeto de graduação, estágio e em disciplinas eletivas a serem ministradas de modo a se poder empregar no Curso as mais recentes aquisições de competência dos professores.
+
+Pelo quarto preceito, o Curso reforça a intenção de prover formação de alto nível, nunca esgotando a expectativa do conhecimento, evidenciando-se como início de um processo que deve continuar por toda a vida do egresso, através da pós-graduação ou do compromisso de permanente aperfeiçoamento em qualquer ambiente de inserção profissional ou acadêmica, onde só terá sentido se fizer uma diferença contributiva e responsável. Assim, as escolhas e o peso do conteúdo suportam o rigor acadêmico e a credibilidade institucional, negando o 'aligeiramento' e a facilidade inócua.
+
+Pelo quinto preceito, adotamos o regime anual seriado, pela coesão que proporciona no estabelecimento de um Curso como um grupo de trabalho que visa o desenvolvimento de um projeto de formação coletiva. Igualmente, se valoriza o engajamento na pesquisa e na extensão, através da pontuação de atividades complementares.
+
+
+
+
+
+4. Objetivos
+
+O currículo do curso de Engenharia de Automação da FURG visa atender objetivos compreendidos a partir de duas dimensões: uma de formação geral em engenharia, e outra mais específica da habilitação em Automação.
+
+Na dimensão de formação geral, se tem em vista o disposto nos Art. 3 e 4 das Diretrizes Curriculares dos Cursos de Graduação em Engenharia, segundo Resolução do Conselho Nacional de Educação, onde se busca uma formação que contemple aspectos técnicos, político-sociais, culturais e humanísticos, focando em conhecimentos relacionados a especificação, projetos, modelagem, implementação, verificação e avaliação de processos e/ou produtos de engenharia, incluindo avaliações de impacto, viabilidade econômica e segurança, a partir de uma postura crítica e de constante atualização de saberes.
+
+Na dimensão mais específica, o curso tem como objetivo formar o profissional que vai se valer de conceitos e técnicas de Engenharia, de Computação, física e modelagem dos fenômenos de Conversão de Energia e de áreas correlatas, para contribuir na solução de problemas de automação de processos industriais por meio da construção de modelos teóricos e práticos de automação.
+
+De maneira mais específica, o profissional será capaz de:
+
+- analisar, projetar e desenvolver soluções para problemas de automação de plantas e/ou processos industriais;
+- implantar e gerenciar sistemas industriais automatizados com visão crítica, ética e em concordância com a evolução da tecnologia e suas aplicações.
+
+Tendo em vista a Portaria do MEC No 1.694, que reconhece a Engenharia de Controle e Automação como uma habilitação específica, entende-se que entre as habilitações deste profissional estão ainda:
+
+- Controle de Processos
+- Automação da Manufatura
+- Informática Industrial.
+
+A formação recebida o prepara para atividades de concepção, implementação, utilização e manutenção de unidades de produção automatizadas ou a serem automatizadas. Deseja-se fornecer um profissional capaz de atender demandas das empresas de engenharia, indústrias de produção de equipamentos e software para a automação industrial e indústrias usuárias destas. Busca-se ainda uma formação que garanta a autonomia necessária a atuação do profissional no mercado de trabalho, bem como o fomento a habilidades que garanta sua harmoniosa inserção em equipes multidisciplinares, onde a automação entra como uma área de conhecimento que é meio entre os processos e/ou produtos de outras habilitações da engenharia.
+
+
+
+
+
+5. Atos Legais de Criação/Reconhecimento/Revisão do Curso
+
+O curso de Engenharia de Automação foi criado em 2008 pela Deliberação N o 025/2008 do Conselho de Ensino, Pesquisa e Extensão (COEPE) da Universidade Federal de Rio Grande (FURG). Foi reconhecido pelo Ministério da Educação (MEC) na PORTARIA N° 588 DE 22 de outubro de 2014, publicada no DOU N o 205, seção 01, página 18 de 23 de outubro de 2014. A última renovação de reconhecimento do curso foi pela Portaria 111 do dia 04/02/2021 publicada no Diário Oficial da União na Seção 1, No 25, de 5 de fevereiro de 2021.
+
+Todos os atos regulatórios do curso do MEC e CNE podem ser encontrados no site do e-Mec (https://emec.mec.gov.br). E as deliberações da FURG podem ser encontradas no site: https://conselhos.furg.br.
+
+5.1 Deliberações da FURG sobre a criação do curso e as suas alterações curriculares
+
+- DELIBERAÇÃO No 025/2008 do CONSELHO DE ENSINO, PESQUISA E EXTENSÃO (COEPE) em 15 DE SETEMBRO DE 1993, dispõe sobre a criação do Curso de Engenharia da Automação.
+- DELIBERAÇÃO Nº 085/2013 do CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO (COEPEA) em 23 DE AGOSTO DE 2013, dispõe sobre alteração curricular no curso de graduação em Engenharia de Automação.
+- DELIBERAÇÃO Nº 002/2013 da 3ª CÂMARA  ENGENHARIAS do CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO (COEPEA) em 13 DE FEVEREIRO DE 2013, dispõe sobre a inclusão das disciplinas Libras I (06497) e Libras II (06498) no QSL do Curso de Graduação em Engenharia de Automação.
+- DELIBERAÇÃO Nº 001/2014 da 3ª CÂMARA  ENGENHARIAS do CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO (COEPEA) em 03 DE FEVEREIRO DE 2014, dispõe sobre alteração curricular no curso de Engenharia de Automação.
+
+
+
+
+
+- DELIBERAÇÃO Nº 013/2015 da 3ª CÂMARA - ENGENHARIAS do CONSELHO DE
+
+ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO (COEPEA) em 09 DE OUTUBRO
+
+DE 2015, dispõe sobre a alteração curricular no curso de Engenharia de Automação.
+
+- DELIBERAÇÃO Nº 006/2016 da 3ª CÂMARA - ENGENHARIAS do CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO (COEPEA) em 12 DE SETEMBRO DE 2016, dispõe sobre a alteração curricular no curso de Engenharia da Automação.
+
+- DELIBERAÇÃO Nº 003/2018 da 3ª CÂMARA - ENGENHARIAS do CONSELHO DE
+
+ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO (COEPEA) em 04 DE JULHO DE
+
+2018, dispõe sobre a alteração curricular no curso de Engenharia da Automação.
+
+- DELIBERAÇÃO Nº 010/2020 da 3ª CÂMARA - ENGENHARIAS do CONSELHO DE
+
+ENSINO, PESQUISA, EXTENSÃO E ADMINISTRAÇÃO (COEPEA) em 17 DE AGOSTO
+
+DE 2020, dispõe sobre alteração curricular no Curso de Engenharia de Automação.
+
+- RESOLUÇÃO N° 019/2023 do CONSELHO DE ENSINO, PESQUISA, EXTENSÃO E
+
+ADMINISTRAÇÃO em 17 DE JANEIRO DE 2023, dispõe sobre alteração curricular para
+
+curricularização da extensão no curso de Engenharia de Automação.
+
+6. CARACTERÍSTICAS DO CURSO (DURAÇÃO, CARGA HORÁRIA, TURNO, VAGAS)
+
+- -
+
+- Duração: mínima de 4,5 anos
+
+- Carga Horária Total: 3.810 h/a
+
+- -
+
+- Turno: Manhã e Tarde
+
+- Vagas: 40
+
+7. ORGANIZAÇÃO CURRICULAR CONSOLIDADA
+
+A concepção do curso de Engenharia de Computação segue uma estrutura básica
+
+idealizada para os cursos de graduação do Centro de Ciências Computacionais - C3 (além
+
+da Engenharia de Automação, a unidade conta ainda com os cursos de Engenharia de
+
+Computação e Sistemas de Informação).
+
+A organização curricular apresentada está em consonância com a Resolução N o 02
+
+de
+
+25
+
+de abril de 2019 da Câmara de Educação Superior do Conselho Nacional de
+
+Educação (CNE/CES), a qual institui as Diretrizes Curriculares Nacionais do Curso de
+
+16
+
+
+
+
+
+Graduação em Engenharia. Além disso, o curso deve atender a Resolução no 07/2018 do CNE/CES e a Resolução COEPEA/FURG No 29, de 25 de março de 2022, que estabelece as normas da curricularização da extensão.
+
+Assim, o curso de Engenharia de Computação da FURG tem a seguinte distribuição de componentes curriculares e suas cargas horárias:
+
+| Componente  Carga Horária  Disciplinas Obrigatórias  3150 6  Disciplinas Optativas  135  Atividades de Extensão  390  Atividades Complementares  135  Total  3810   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Em conformidade com a Resolução do Conselho Nacional de Educação Superior 02/2019, o currículo organiza-se em torno de três dimensões: formação básica, formação profissionalizante e formação complementar.
+
+Quanto à formação básica, esta ainda pode ser compreendida em dois componentes: formação básica geral em Engenharia e formação básica específica para Automação. O primeiro componente reúne da grande área do conhecimento das ciências exatas aquilo que é contributivo para o perfil proposto: Matemática, Física, Química e Estatística. O segundo componente trata de conteúdos fundamentais da Computação e dos fenômenos de Conversão de Energia, especialmente aqueles que envolvem conversões de/para energia elétrica.
+
+A formação tecnológica reúne os aspectos específicos da profissionalização pretendida, tendo o foco maior na Automação como atividade meio, além claro, nas áreas de Informática Industrial, Controle de Processos e Manufatura.
+
+A formação complementar contempla aspectos diversos da Engenharia de Automação cuja organização se dá em torno do perfil docente do curso e da unidade.
+
+O regime acadêmico adotado é o anual seriado.
+
+6 Destaca-se que o curso conta com o componente curricular de Estágio Supervisionado Obrigatório, porém este é computado como uma disciplina obrigatória, seguindo as normas da Universidade. O Estágio Supervisionado Obrigatório tem carga mínima de 180 hs.
+
+
+
+
+
+8. Perfil do Profissional
+
+Segundo a Resolução CNE/CES 02/2019, o perfil do egresso do curso de graduação em Engenharia deve compreender, entre outras, as seguintes características:
+
+- I - ter visão holística e humanista, ser crítico, reflexivo, criativo, cooperativo e ético e com forte formação técnica;
+- II -estar apto a pesquisar, desenvolver, adaptar e utilizar novas tecnologias, com atuação inovadora e empreendedora;
+- III - ser capaz de reconhecer as necessidades dos usuários, formular, analisar e resolver, de forma criativa, os problemas de Engenharia;
+
+IV - adotar perspectivas multidisciplinares e transdisciplinares em sua prática;
+
+V considerar os aspectos globais, políticos, econômicos, sociais, ambientais, culturais e de segurança e saúde no trabalho;
+
+É importante perceber que o perfil do profissional moldado a partir da sua inserção no ensino superior começa de fato a ser delineado muito antes da sua entrada na universidade. Deste modo, espera-se que o ingressante no curso de Engenharia de Automação possua um perfil inicial que englobe as seguintes características:
+
+- gosto pelo estudo de ciências exatas, particularmente matemática e física;
+- interesse pela solução de problemas de um modo geral, com habilidade de raciocínio abstrato e criatividade para abordagens alternativas, envolvendo múltiplos aspectos de um mesmo assunto;
+- capacidade de concentração e de trabalho metódico e persistente, com disponibilidade para a pesquisa e o estudo individual;
+- capacidade de trabalho disciplinado, em equipe;
+- desenvoltura na expressão oral, escrita e gráfica;
+- facilidade com a língua inglesa, particularmente para leitura de textos técnicos e científicos;
+- mente curiosa e aberta, sem preconceitos contra qualquer conhecimento, que valorize a multi- e a interdisciplinaridade;
+- sólida cultura geral.
+
+A construção de um perfil profissional para Engenharia de Automação, que maximize o campo de atuação do egresso, deve contemplar aspectos técnicos, gerenciais e de relações interpessoais.
+
+
+
+
+
+Do ponto de vista técnico, o Engenheiro de Automação é um profissional capaz de analisar problemas visando criar soluções para a automação dos diferentes processos, industriais ou não, nas suas diferentes naturezas. Com formação ampla em Engenharia, Computação, Física e Modelagem dos Fenômenos de Conversão de Energia e tecnologias afins, o curso habilita profissionais tanto no campo técnico como científico, com capacidade de estabelecer relações entre as tendências da tecnologia e suas aplicações na solução de problemas organizacionais. Nesse sentido, recebe uma formação com as seguintes características:
+
+- um forte conhecimento de base em Matemática, Física e Computação;
+- conhecimentos gerais na física e modelagem de fenômenos de Conversão de Energia;
+- fundamentos básicos de Economia, Gestão, Inovação e Empreendedorismo;
+- conhecimentos aprofundados em:
+- o Controle de Processos: modelagem de processos físicos; análise, projeto, síntese de controladores contínuos e discretos para sistemas realimentados lineares e não-lineares; técnicas modernas de controle multivariável e de otimização; instrumentação em controle.
+- o Automação da Manufatura: diretrizes básicas sobre processos de fabricação de diferentes naturezas; elementos de engenharia de produtos; programação de sistemas automatizados; gerência de produção, planejamento do processo; sistemas integrados de manufatura; modelagem e avaliação do desempenho de sistemas de manufatura.
+- o Informática Industrial: sistemas digitais e microprocessadores; arquiteturas de computadores; controladores lógico programáveis; especificação e concepção de softwares e de sistemas informáticos; linguagens de programação e sistemas operacionais; software em tempo real; sistemas distribuídos, redes de computadores e redes industrias; bancos de dados; sistemas inteligentes.
+
+A partir da concepção de Engenharia de Automação apresentada nesse projeto, cuja ideia central é a de produção de artefatos que imponham comportamentos pré-definidos em sistemas de diferentes naturezas, uma das características que se busca em um perfil de profissional é a da sua devida inserção em relações inter-pares com especialistas de outras áreas (mecânica, metalúrgica, biológica, informática, etc...). Para isso, deve saber entender, se fazer entender e negociar com cada um dos pares envolvidos nos seus projetos. Nesse contexto, fala-se de um engenheiro integrador de sistemas , voltado para o projeto, concepção, desenvolvimento e manutenção de sistemas (das mais diversas naturezas, eventualmente interligados), cujo requisito fundamental é a imposição de um comportamento pré-especificado.
+
+
+
+
+
+O Engenheiro de Automação deve ter competência e habilidade para abordar de forma sistêmica os desafios presentes no setor produtivo, de modo a projetar e propor soluções tecnológicas alinhadas às necessidades existentes, aliando o domínio das ferramentas tecnológicas e o instrumental para produzí-las ao conhecimento das dimensões organizacionais, gerenciais, econômicas e sociais; interagir com as diversas áreas de Engenharia e das organizações concebendo, desenvolvendo, gerenciando e aprimorando sistemas de automação da produção; elaborar, executar, supervisionar e avaliar planos, projetos e programas de engenharia; ter capacidade de interagir com profissionais que dão suporte ao desenvolvimento de sistemas automatizados; ter capacidade de interagir com profissionais de modo multidisciplinar; identificar fontes, seja a nível nacional quanto internacional, de desenvolvimento científico e tecnológico na área de automação e ter capacidade de se comunicar com elas; desenvolver uma postura ética no exercício de suas atribuições.
+
+O Engenheiro de Automação atua em controle de processos, automação da manufatura e na informática industrial. Trabalha em atividades de concepção, implementação, utilização e manutenção de unidades de produção automatizadas ou a serem automatizadas, além das técnicas gerais de concepção, implementação e controle de qualidade assistidos por computador. Busca a constante atualização tecnológica, a preparação para a inserção e a adaptação rápida ao meio industrial, a formação orientada por atividades práticas e criativas, estando também apto para o aprofundamento de estudos e o constante desenvolvimento profissional.
+
+
+
+
+
+A seguir são descritas as disciplinas que compõem o QSL do curso, nas suas respectivas séries:
+
+1a. Série
+
+| Código:  23109  Disciplina:  Análise e Laboratórios de Circuitos  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 1 a Série  Junta turmas  : Não  Utiliza laboratórios  : Sim  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)  Ementa: Análise de Circuitos DC. Conceitos básicos sobre circuitos elétricos. Introdução ao laboratório de eletrônica  Equivalência:  23012 - Circuitos Elétricos e Eletrônica ou  23069 - Introdução à Engenharia de Automação  Carga horária total:  90h  Carga horária de aulas teóricas (hora relógio):  60h  Carga horária de aulas práticas (hora relógio):  30h   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Código:
+
+23108
+
+Disciplina: Algoritmos para Engenharia de Automação
+
+Lotação:
+
+C3
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Sim
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Computação, computadores e programas. Estrutura lógica de um computador. Conceito de algoritmo. Ambientação em laboratório de uso e programação de microcomputadores. Implementação de algoritmos.
+
+Equivalência:
+
+23004 - Introdução à Engenharia de Automação ou
+
+23069 - Introdução à Engenharia de Automação
+
+Carga horária total:
+
+90h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas práticas (hora relógio): 30h
+
+
+
+
+
+Código:
+
+02100
+
+Disciplina:
+
+Fundamentos de Química
+
+Lotação:
+
+EQA
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Átomo e estrutura. Tabela Periódica. Ligações Químicas. Funções Inorgânicas e Orgânicas. Acerto de coeficientes. Estequiometria. Soluções Eletroquímica. Cinética química. Equilíbrio químico. Equilíbrio iônico.
+
+Equivalência:
+
+02035 - QUÍMICA I e 02036 - QUÍMICA II ou
+
+02131 - FUNDAMENTOS DE QUÍMICA - M ou
+
+02132 - FUNDAMENTOS DE QUÍMICA - C ou
+
+04142 - MOD CIEN TECNOL MAT CON CIV ou
+
+04143 - MOD CIEN TECNOL MAT CON MEC
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio): 60h
+
+
+
+
+
+| Código:  01280  Disciplina:  Geometria Analítica e Álgebra Linear  Lotação:  IMEF  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 1 a Série  Junta turmas  : Não  Utiliza laboratórios : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Geometria Analítica: vetores (Aspectos Geométricos); Sistemas de equações lineares; Vetores (aspectos algébricos); produtos; estudo da reta e estudo do plano; curvas cônicas e superfícies quádricas. Álgebra Linear: espaços vetoriais; transformações lineares; diagonalização de operadores lineares; equação geral do 2º grau a duas e três variáveis.
+
+Equivalência:
+
+01066 - ALGEBRA LINEAR E GEOM. ANALITICA (Anual) ou
+
+01108 - GEOM. ANAL. E ALG. LIN.-EQA ou
+
+01161 - MATEMÁTICA I ou
+
+01253 - Álgebra Linear e Geometria Analítica
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio): 120h
+
+Código:
+
+01279
+
+Disciplina:
+
+Cálculo Diferencial e Integral I
+
+Lotação:
+
+IMEF
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Funções reais de uma variável. Limites. Assíntotas. Continuidade. Derivadas. Diferencial. Integrais. Funções no R­ n. Diferencial total. Extremos de funções de duas variáveis. Integração múltipla. Cálculo de áreas e volumes.
+
+Equivalência:
+
+01104 - CALC.DIF. E INT. I - ANUAL ou
+
+01161 - MATEMÁTICA I ou
+
+01254 - Cálculo Diferencial e Integral I
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+
+
+
+
+Código:
+
+01255
+
+Disciplina:
+
+Física Geral - C I
+
+Lotação:
+
+IMEF
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Espaço e Tempo. Trabalho e Energia. Cinemática e Dinâmica da Partícula. Cinemática e Dinâmica do Corpo Rígido. Rotação. Oscilações. Teoria Cinética dos Gases e Termodinâmica. Termometria e Calorimetria
+
+Equivalência:
+
+01415 - Física I ou
+
+03131 - FÍSICA GERAL I - C
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+
+
+
+
+| Código:  01252  Disciplina:  Matemática Discreta  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 1 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Discreto vs. contínuo. Papel das estruturas discretas em computação. Funções. Relações. Conjuntos. Provas e mecanismos de provas formais: construção, contradição, indução. Definições recursivas. Lógica proposicional. Lógica de predicados. Álgebra booleana. Análise combinatória básica. Grafos e árvores.
+
+Equivalência:
+
+Carga horária total:
+
+90h
+
+Carga horária de aulas teóricas (hora relógio):
+
+90h
+
+Código:
+
+01106
+
+Disciplina:
+
+Desenho Técnico
+
+Lotação:
+
+EE
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Construções geométricas. Normas para o desenho técnico. Projeção ortogonal. Teoria elementar do desenho projetivo. Perspectiva isométrica e cavaleira. Cortes.
+
+Equivalência:
+
+01039 - DESENHO ou
+
+01039 - DESENHO e 01043 - GEOMETRIA DESCRITIVA
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio): 60h
+
+Código:
+
+23110
+
+Disciplina:
+
+Introdução a Engenharia de Automação
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Introdução à Universidade e ao Curso. Características do estudo em nível superior. Atribuições profissionais, áreas de atuação e mercado. Introdução à profissão através de situações-problema,
+
+Equivalência:
+
+23003 - Atividade de Integração Curricular I ou
+
+23004 - Introdução à Engenharia de Automação ou
+
+23069 - Introdução à Engenharia de Automação
+
+Carga horária total:
+
+30h
+
+Carga horária de aulas teóricas (hora relógio): 30h
+
+
+
+
+
+Código:
+
+06387
+
+Disciplina:
+
+Inglês Instrumental: Leitura
+
+Lotação:
+
+ILA
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Estudo de textos, conteúdo, estruturas fundamentais da língua. Redação. Interpretação de textos. Textos. Exercícios estruturais. Elementos de gramática.
+
+Equivalência:
+
+06066 - LÍNGUA INGLESA INSTRUM. I ou
+
+06295 - INGLÊS INSTRUMENTAL I ou
+
+06329 - MÓDULO DE INTEGRAÇÃO I
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio): 45h
+
+
+
+
+
+| Código:  23131  Disciplina:  Criatividade e Design Thinking  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  1 o Semestre / 1 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Criatividade, design e inovação. Mitos da criatividade. A pessoa criativa. Criatividade em ambientes de engenharia. Mentalidade do engenheiro inovador. design thinking: empatia, definição, geração de idéias, prototipagem e testes.
+
+Equivalência:
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Código:
+
+06388
+
+Disciplina:
+
+Inglês Instrumental: Expressão Oral
+
+Lotação:
+
+ILA
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+2 o Semestre / 1 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Estudos de textos técnicos-científicos. Redação. Interpretação de textos. Tradução. Resumos. Précis. Elementos de gramática.
+
+Equivalência:
+
+06067 - LÍNGUA INGLESA INSTRUM. II ou
+
+06295 - INGLES INSTRUMENTAL I
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio): 45h
+
+
+
+
+
+| Código:  23134  Disciplina:  Soft Skills para Engenharia  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  2 o Semestre / 1 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)  Ementa: Capacidades e Habilidades Humanas; Soft Skills e Hard Skills; Competências transversais; Habilidades para o mundo do trabalho em Engenharia.  Equivalência:  Não  Carga horária total:  45h  Carga horária de aulas teóricas (hora relógio):  45h   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+
+
+| Código:  23100  Disciplina:  Sinais e Sistemas  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 2 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Definição, classificação e operações de sinais e sistemas elementares. Propriedades e classificação de sistemas. Representação no domínio do tempo (convolução, equações diferenciais, equações de diferenças, representação de estados). Representação de Fourier para sinais. Transformada de Laplace. Transformada Z. Filtros (filtros passa-baixas, filtros Butterworth e Chebyshev, transformações de frequência, filtros digitais). Sistemas Realimentados (funções da realimentação, sensibilidade, estabilidade, análise de estabilidade),
+
+Equivalência:
+
+23008 - Sinais e Sistemas ou
+
+23072 - Sinais e Sistemas
+
+Carga horária total:
+
+90h
+
+Carga horária de aulas teóricas (hora relógio): 90h
+
+
+
+
+
+| Código:  23071  Disciplina:  Sistemas de Automação I  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 2 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Fundamentos de circuitos lógicos. CPU: organização geral, barramentos, unidades funcionais. Entrada e saída: dispositivos. Memórias. Linguagem Assembly. Modos de endereçamento. Interrupções. Elementos de arquitetura de computadores. Exemplos: CISC, RISC, ISA. Sistemas operacionais: conceitos, histórico, gerações, organização básica. Processos e threads. Gerenciamento de memória. Entrada e saída. Discos. Relógios. Sistemas de arquivos. Paralelismo em nível de instrução. Pipelining. Suporte a multiprocessamento. Coerência de cache. NUMAS. Redes de computadores: conceitos, histórico. Transmissão de dados. Arquiteturas OSI. Arquiteturas em camadas. Aplicações.
+
+Equivalência:
+
+23006 - Sistemas de Computação para Automação I
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+
+
+
+
+| Código:  23070  Disciplina:  Circuitos Elétricos e Eletrônica  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 2 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Fundamentos de circuitos lógicos. CPU: organização geral, barramentos, unidades funcionais. Entrada e saída: dispositivos. Memórias. Linguagem Assembly. Modos de endereçamento. Interrupções. Elementos de arquitetura de computadores. Exemplos: CISC, RISC, ISA. Sistemas operacionais: conceitos, histórico, gerações, organização básica. Processos e threads. Gerenciamento de memória. Entrada e saída. Discos. Relógios. Sistemas de arquivos. Paralelismo em nível de instrução. Pipelining. Suporte a multiprocessamento. Coerência de cache. NUMAS. Redes de computadores: conceitos, histórico. Transmissão de dados. Arquiteturas OSI. Arquiteturas em camadas. Aplicações.
+
+Equivalência:
+
+23012 - Circuitos Elétricos e Eletrônica
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+
+
+
+
+| Código:  23005  Disciplina:  Estrutura de Dados para a Automação  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 2 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Noções formais de algoritmos, Complexidade, Notação assintótica, Classes e gerações de linguagens, Qualidades de linguagens e o desenvolvimento de software, Elementos sintáticos, Abstração, Tipos de dados, Controle: em nível de expressão, comando e unidade, Passagem de parâmetros, Ponteiros, Classes de memória, Tipos abstratos de dados, Listas, Pilhas, Filas e Árvores, Técnicas de análise de algoritmos, Recursão, Divisão e conquista, Backtracking, Pesquisa e ordenação, Grafos, Métodos gulosos, Programação dinâmica, Problemas NP-completo, Algoritmos de aproximação, Concorrência: interação de processos, mecanismos primitivos e estruturados, problemas clássicos, Arquivos como tipos de dados.
+
+Equivalência:
+
+Carga horária total:
+
+90h
+
+Carga horária de aulas teóricas (hora relógio): 90h
+
+Código:
+
+04162
+
+Disciplina:
+
+Mecânica do Corpo Rígido e dos Fluídos
+
+Lotação:
+
+EE
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 2 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+
+
+
+
+Ementa: Estática e dinâmica dos pontos materiais e do corpo rígido. Equilíbrio em duas ou três dimensões. Forças distribuídas. Centróides. Baricentros. Momento de inércia. Análise de estruturas. Treliças, vigas e cabos. Método dos trabalhos virtuais. Mecânica dos fluidos. Fluidostática. Equação da massa e da energia. Equação da quantidade de movimento linear a e angular. Escoamento. Transferência de calor.
+
+Equivalência:
+
+03075 - MECÂNICA GERAL e 03077 - FENÔMENOS DE TRANSPORTE
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+Código:
+
+01281
+
+Disciplina:
+
+Cálculo Diferencial e Integral II
+
+Lotação:
+
+IMEF
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 2 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Sequências numéricas. Séries numéricas. Séries de funções. Equações Diferenciais Ordinárias. Equações Diferenciais Parciais. Transformações de Laplace. Funções de Várias Variáveis Reais. Funções Vetoriais. Integrais de Linha. Integrais de Superfície.
+
+Equivalência:
+
+01110 - CALC.DIF. E INT. II - ANUAL ou
+
+01163 - MÓDULO DE MATEMÁTICA II ou
+
+01165 - MATEMÁTICA III
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio): 120h
+
+
+
+
+
+| Código:  01274  Disciplina:  Física Geral - C II  Lotação:  IMEF  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 2 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: A interação eletromagnética. A lei de Coulomb. Campo Elétrico. Potencial Eletrostático. Capacitância e Capacitores. Dielétricos. Corrente Elétrica. Campo Magnético. A lei de Ampère. Indução eletromagnética. A lei de Faraday. Circuitos elétricos CC e CA. Oscilações Eletromagnéticas em circuitos. Materiais magnéticos. As equações de Maxwell. Óptica geométrica. Interferência. Difração. Polarização. Princípios da Teoria Quântica. A equação de Schrödinger e a Mecânica Quântica. Sistemas Quânticos Simples. Introdução à Física do Estado Sólido. Teoria de Bandas.
+
+Equivalência:
+
+03074 - Física Geral II
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+Código:
+
+04520
+
+Disciplina:
+
+Fundamentos de Design Centrado no Usuário
+
+Lotação:
+
+EE
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 2 a Série
+
+Junta turmas
+
+: Sim
+
+Utiliza laboratórios
+
+: Sim
+
+Pré-requisito:
+
+01106 - Desenho Técnico
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+
+
+
+
+Ementa: Fundamentos do estudo crítico-reflexivo sobre metodologias e desenvolvimento de projeto utilizados nos processos de design centrado no usuário. Experimentação de processos de projetos ancorados na experimentação coletiva e orientados para a inovação, com suporte de soluções gráficas e utilização de prototipagem como elemento analítico, de desenvolvimento da criatividade e de resolução de problemas.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio): 45h
+
+Código:
+
+09354
+
+Disciplina:
+
+Educação Física - Alongamento
+
+Lotação:
+
+IE
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 2 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Desenvolvimento da flexibilidade e fortalecimento muscular. Beneficiamento da coluna vertebral. Aumento da propriocepção (conhecimento do próprio corpo). Melhoria da consciência corporal, coordenação motora e alongamento muscular. Aumento da qualidade de vida. Aumento da vitalidade, energia e condição geral do organismo. Relaxamento muscular.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+30h
+
+Carga horária de aulas teóricas (hora relógio): 30h
+
+Código:
+
+09356
+
+Disciplina:
+
+Educação Física - Futebol de Sete
+
+Lotação:
+
+IE
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+2 o Semestre / 2 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Vivenciar os fundamentos e o jogo de futebol de sete com ênfase no lúdico, na saúde e nas relações interpessoais.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+30h
+
+Carga horária de aulas teóricas (hora relógio): 30h
+
+
+
+
+
+Código:
+
+23132
+
+Disciplina:
+
+Inovação em Engenharia e Ciências Computacionais
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+2 o Semestre / 2 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Introdução à inovação e seus processos. Gestão da Inovação. Inovação Aberta. Fases de Desenvolvimento de Produto. Projetos de Inovação Tecnológica. Metodologias ágeis em Engenharia. Tendências de Inovação Tecnológica em Engenharia e Ciências Computacionais.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio): 45h
+
+
+
+
+
+| Código:  23139  Disciplina:  Sistemas Digitais  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)  Ementa: Famílias lógicas. Circuitos combinacionais. Circuitos sequenciais. Projeto e síntese de circuitos digitais. Dispositivos lógicos programáveis: FPGA, CPLD, PLA. Microcontroladores. Introdução a linguagens de descrição de hardware.  Equivalência:  Não  Carga horária total:  120h  Carga horária de aulas teóricas (hora relógio):  120h  Carga horária de aulas a distância (horas relógio):  60h   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+
+
+| Código:  23138  Disciplina:  Sistemas de Automação II  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Sistemas a eventos discretos: conceituação, propriedades. Redes de Petri: conceitos básicos e aplicações na modelagem e controle de sistemas a eventos discretos. Teoria de autômatos: modelos de autômatos e aplicações ao controle de sistemas a eventos discretos. Sistemas de supervisão: conceituação aplicações em sistemas de automação. Controladores Lógicos Programáveis (CLP): arquitetura, programação (linguagens de relés, Grafcet, linguagens de alto nível). Redes Industriais: PROFIBUS, CAN, FIELDBUS, Ethernet Industrial. Sistemas de Automação Distribuídos: Sistemas Supervisórios Distribuídos. Redes de Sensores e Atuadores.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+Carga horária de aulas a distância (horas relógio):
+
+60h
+
+
+
+
+
+| Código:  23137  Disciplina:  Sistemas de Controle  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Modelagem e Modelos. Tipos de Modelos. Representação de sistemas dinâmicos lineares no tempo e na freqüência. Analogias. Respostas de sistemas e simulações. Linearização de Sistemas. Identificação de Sistemas. Objetivos de controle. Introdução aos controles em malhas aberta e fechada. Análise e projeto de sistemas de controle: lugar das raízes e resposta em frequência. Ações básicas de controle: proporcional, integral e derivativa. Análise e projeto de controle clássico. Desempenho em regime transitório e permanente. Introdução aos controladores industriais.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+Carga horária de aulas a distância (horas relógio):
+
+60h
+
+
+
+
+
+| Código:  23136  Disciplina:  Conversão de Energia e Acionamentos  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Circuitos magnéticos, transformadores; Fundamentos de conversão eletromecânica de energia: Máquina elementar, torque motor e tensão gerada; Princípio de funcionamento e características construtivas de: Máquinas de Corrente Contínua, Máquinas Síncronas e Máquinas Assíncronas, Métodos de partida convencionais de Motores de Indução Trifásicos. Motores de Indução monofásicos. Motor universal. Motor de histerese. Motor de passo. Motor linear. Características de placa das máquinas elétricas e noções de especificação. Noções sobre sistemas elétricos de potência. Instalações elétricas, sistemas de comando, proteção e sinalização. Elementos de projetos elétricos industriais. Fundamentos de Eletrônica de Potência. Princípios de funcionamento dos conversores estáticos (retificadores, gradadores, pulsadores e inversores); noções de especificação; Servomecanismos de posição e velocidade e técnicas de controle em acionamentos elétricos. Noções de controle escalar e vetorial.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+150h
+
+Carga horária total:
+
+150h
+
+Carga horária de aulas teóricas (hora relógio):
+
+150h
+
+Carga horária de aulas a distância (horas relógio):
+
+75h
+
+
+
+
+
+| Código:  23135  Disciplina:  Instrumentação  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Medidas em processos industriais. Exatidão, Precisão, Erros e sua propagação. Sistema Internacional de medidas e padrões. Sensores e transdutores. Instrumentos de medida: Características gerais, identificação e símbolos. Instrumentos Analisadores, transmissores e receptores. Técnicas de medição de: deformação, deslocamento, força, pressão, nível, rotação, temperatura. Instrumentação Eletroeletrônica: Interfaceamento e condicionamento de sinais. Amplificador de instrumentação, circuitos raciométricos (medição usando pontes), ruído e filtragem. Blindagem Elétrica e Magnética. Aquisição e transmissão de dados e transmissão. Aplicação industrial da medição dimensional. Automação da medição. Especificação e análise de dispositivos de medição de variáveis típicas de processo.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+90h
+
+Carga horária de aulas teóricas (hora relógio):
+
+90h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+Código:
+
+01154
+
+Disciplina:
+
+Métodos Numéricos Computacionais
+
+Lotação:
+
+IMEF
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 3 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Modelos matemáticos. Solução de problemas em computador. Noções de erros. Sistemas de equações lineares. Interpolação de funções. Ajuste de curvas. Equações não lineares. Integração numérica. Solução numérica de equações diferenciais ordinárias.
+
+Equivalência:
+
+01114 - Métodos Numéricos para Engenharia
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio):
+
+30h
+
+
+
+
+
+
+
+
+
+| Código:  01112  Disciplina:  Probabilidade e Estatística Aplicada à Engenharia  Lotação:  IMEF  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Conceitos Básicos de Estatística. Séries Estatísticas. Representação Gráfica. Medidas de Tendência Central. Medidas Separatrizes. Medidas de Dispersão. Medidas de Assimetria. Medidas de Curtose. Probabilidade. Variáveis Aleatórias. Distribuições de Probabilidade Discretas e Contínuas. Teoria Elementar de Amostragem. Intervalos De Confiança. Testes de Hipóteses. Teste Não Paramétrico. Análise de Variância. Análise de Regressão e Correlação.
+
+Equivalência:
+
+01031 - PROBABILIDADE e 01026 - ESTATÍSTICA ou
+
+01165 - MATEMÁTICA III ou
+
+01282 - Probabilidade e Estatística Aplicada à Engenharia
+
+Carga horária total:
+
+90h
+
+Carga horária de aulas teóricas (hora relógio):
+
+90h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+Código:
+
+07067
+
+Disciplina:
+
+Economia
+
+Lotação:
+
+ICEAC
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 3 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+
+
+
+
+Ementa: Noções de economia. Elasticidade. Teoria da produção. Custos de produção. Engenharia Econômica. Equivalência. Comparação entre alternativas de investimento. Substituição de equipamentos.
+
+Equivalência:
+
+07007 - ADMINISTRAÇÃO DE VENDAS ou
+
+07124 - PLAN. ECON. DA ENGENHARIA ou
+
+07188 - ECON. E MODELOS ECONÔMICOS ou
+
+07240 - INTRODUÇÃO A ECONOMIA ou
+
+07314 - Economia Industrial
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio): 90h
+
+| Código:  23133  Disciplina:  Elaboração e Análise de Projetos  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  1 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Conceito e características de um projeto. O ciclo de vida de um projeto. Estruturas organizacionais para projetos. Processos do gerenciamento de projetos: Fase de iniciação; Fase de planejamento; Fase de execução e controle; Fase de encerramento. Gerenciamento da integração; escopo; tempo; custos; qualidade; recursos humanos; comunicação; riscos; aquisições. Ferramentas computacionais para gerenciamento de projetos.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio): 45h
+
+
+
+
+
+| Código:  08152  Disciplina:  Direito e Legislação - M  Lotação:  FADIR  Duração:  Semestral  Caráter:  Obrigatória  Localização no QSL:  2 o Semestre / 3 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Introdução ao Direito: o Direito e a Lei. Administração Pública e Contratos administrativos. Direito do Trabalho, Contrato de trabalho, Direitos Trabalhistas. Profissão: regulamentação, responsabilidade civil, criminal e administrativa. Direito de Autor, Marcas, Patentes e Invenções, Código do Consumidor, Transporte de cargas perigosas e produtos perecíveis. Direito Ambiental e Perícia.
+
+Equivalência:
+
+08009 - Direito e Legislação
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+
+
+
+
+| Código:  23145  Disciplina:  Sistemas de Manufatura  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 4 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: A visão integrada da automação industrial. Descrição da Manufatura e Sistemas de Produção. Visão de Produto a partir da Manufatura. Automação e Tecnologias de Controle integradas a Manufatura. Tecnologias de Identificação e Manipulação de Material. Estratégias de Manufatura: estação simples, linhas de montagem, linhas automatizadas, manufatura celular, células flexíveis de manufatura. Controle de Qualidade na Manufatura. Sistemas de Suporte: CAD/CAM/CAE; Planejamento e Processos de Produção.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio):
+
+30h
+
+
+
+
+
+| Código:  23144  Disciplina:  Sistemas Robóticos  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 4 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Arquiteturas robóticas. Modelos cinemáticos de robôs manipuladores. Modelagem dinâmica de robôs manipuladores. Controle de robôs manipuladores. Comportamento não-holonômico e modelagens cinemática e dinâmica de robôs móveis. Controle de robôs móveis. Planejamento de trajetórias e estimação de estado de robôs móveis. Sensoriamento robótico. Navegação robótica. Planejamento de movimento; Localização e mapeamento. Robôs de serviço.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+60h
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio):
+
+30h
+
+
+
+
+
+| Código:  23143  Disciplina:  Sistemas Heterogêneos  Lotação:  C3  Duração:  Anual  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 4 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Paralelismo espacial e temporal. Arquiteturas escalares, vetoriais e superescalares. Multiprocessadores. Microcontroladores. Arquiteturas para aplicações específicas. Sistemas de tempo real. Processadores digitais de sinais de aplicação específica. Arquiteturas dedicadas. Sistemas on Chip. Sistemas de baixo consumo.
+
+Equivalência:
+
+23023 - Sistemas Microprocessados ou
+
+03111 - Arquitetura de Computadores I e 03112 - Arquitetura de Computadores
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio):
+
+30h
+
+Código:
+
+23142
+
+Disciplina:
+
+Sistemas de Acionamento
+
+Lotação:
+
+C3
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Sistemas de atuação elétricos, eletrônicos: Contatores, Relés, Chaves e Comandos; Inversores de Frequência e Soft Starter. Introdução à hidráulica e pneumática industrial. Descrição de componentes para circuitos de comando e controle: atuadores, válvulas, cilindros, bombas e compressores. Características e propriedades dos fluidos hidráulicos. Elementos de mecatrônica.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio): 60h
+
+Carga horária de aulas a distância (horas relógio): 30h
+
+Código:
+
+23141
+
+Disciplina:
+
+Sistemas de Controle Avançado
+
+Lotação:
+
+C3
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+
+
+
+
+Ementa: Análise de sistemas em espaço de estados: Controlabilidade e observabilidade. Projeto de controle com realimentação de estado. Projeto de sistemas de controle por retroação de estados. Observadores de estados. Projeto de controladores multivariáveis. Sistemas de controle ótimo.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio): 30h
+
+Código:
+
+23140
+
+Disciplina:
+
+Sistemas Inteligentes para Automação
+
+Lotação:
+
+C3
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Técnicas de busca e aprendizado. Sistemas Especialistas. Representação do Conhecimento. Otimização. Redes Neurais. Sistemas Fuzzy. Computação Evolutiva. Mineração de Dados. Sistemas Híbridos.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio):
+
+30h
+
+Código:
+
+07167
+
+Disciplina:
+
+Gerenciamento de Empresas
+
+Lotação:
+
+ICEAC
+
+Duração:
+
+Anual
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Princípios de planejamento estratégico. Noções de organização e métodos. Fundamentos de marketing. Filosofia da qualidade total. Mecanismos e procedimentos para criação de empresas. Gerência de empreendimentos em computação: aspectos específicos.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio): 60h
+
+
+
+
+
+Código:
+
+07355
+
+Disciplina:
+
+Fundamentos de Administração
+
+Lotação:
+
+ICEAC
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Administração como ciência. Contexto histórico e o surgimento da Teoria da Administração. As organizações como objeto da Administração. Enfoques teóricos da Administração. Funções de Administrador.
+
+Equivalência:
+
+07081 - ADMINISTRAÇÃO ou
+
+07238 - INTRODUÇÃO A ADMINISTRAÇÃO ou
+
+07311 - Administração ou
+
+07315 - Administração Industrial
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio): 60h
+
+Código:
+
+11024
+
+Disciplina:
+
+Ciências do Ambiente
+
+Lotação:
+
+IO
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+2 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Noções gerais sobre: Ecologia (Indivíduo, População, Comunidade, Ecossistema). Ciclos Biogeoquímicos. Impacto Ambiental. Energia. Ação do homem sobre a biosfera (impactos, harmonização e estratégias alternativas).
+
+Equivalência:
+
+06334 - MÓDULO DE INTEGRAÇÃO IV ou
+
+11059 - CIÊNCIAS DO AMBIENTE - M
+
+Carga horária total:
+
+30h
+
+Carga horária de aulas teóricas (hora relógio):
+
+30h
+
+
+
+
+
+Código:
+
+23098
+
+Disciplina:
+
+Sistemas Distribuídos
+
+Lotação:
+
+C3
+
+Duração:
+
+Anual
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Fundamentos de sistemas distribuídos. Modelos de computação distribuída. Comunicação. Nomeação. Sincronização. Replicação. Consistência. Transações. Tolerância a falhas em sistemas distribuídos. Segurança de sistemas distribuídos.
+
+Equivalência:
+
+23019 - Sistemas Distribuídos
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+Código:
+
+23096
+
+Disciplina:
+
+Projeto e Desenvolvimento de Software I
+
+Lotação:
+
+C3
+
+Duração:
+
+Anual
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Interfaces e arquiteturas de SGBD. Independência de dados. Modelagem de dados. Integridade. Linguagens de manipulação e consulta. Projeto de banco de dados. Modelagem de sistemas de informação. Conectividade com banco de dados.
+
+Equivalência:
+
+23042 - Sistemas de Informação e Programação I
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+
+
+
+
+
+
+
+
+| Código:  23058  Disciplina:  Sistemas Gráficos  Lotação:  C3  Duração:  Anual  Caráter:  Optativa  Localização no QSL:  1 o Semestre / 4 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  I (4 notas e exame final)   |
+|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Processamento de sinais e imagens: introdução e conceitos. Sinais e sistemas contínuos e discretos. Representação de sinais no domínio do tempo e da frequência. Transformada discreta de Fourier. Transformada rápida de Fourier. Filtros digitais. Convolução. Imagem digital: formatos, estatística e descrição da imagem. Teoria das cores. Transformadas de imagens. Realce. Filtragem e restauração. Introdução à computação gráfica. Dispositivos gráficos. Transformações geométricas 2D e 3D. Transformações para visualização. Câmera virtual. Rasterização, recorte e seleção. Iluminação e textura. Noções de animação. Introdução à realidade virtual. Renderização em tempo real. Visão estereoscópica. Hardware para realidade virtual. Realidade aumentada. Realidade virtual colaborativa e multimídia.
+
+Equivalência:
+
+01138 - Computação Gráfica
+
+Carga horária total:
+
+120h
+
+Carga horária de aulas teóricas (hora relógio):
+
+120h
+
+Código:
+
+06497
+
+Disciplina:
+
+LIBRAS I
+
+Lotação:
+
+ILA
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Fundamentos linguísticos e culturais da Língua Brasileira de Sinais - Libras. Desenvolvimento de habilidades básicas expressivas e receptivas em Libras para promover a comunicação entre seus usuários. Introdução as Estudos Surdos.
+
+Equivalência:
+
+06386 - Língua Brasileira de Sinais
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio):
+
+
+
+
+
+Código:
+
+06498
+
+Disciplina:
+
+LIBRAS II
+
+Lotação:
+
+ILA
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+2 o Semestre / 4 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+06497 - LIBRAS I
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+I (4 notas e exame final)
+
+Ementa: Fundamentos linguísticos e culturais da Língua Brasileira de Sinais - Libras. Desenvolvimento de habilidades básicas expressivas e receptivas em Libras para promover a comunicação entre seus usuários. Introdução aos Estudos Surdos.
+
+Equivalência:
+
+06386 - Língua Brasileira de Sinais
+
+Carga horária total:
+
+60h
+
+Carga horária de aulas teóricas (hora relógio):
+
+60h
+
+Carga horária de aulas a distância (horas relógio):
+
+
+
+
+
+| Código:  23178  Disciplina:  Estágio Supervisionado em Engenharia de Automação I  Lotação:  C3  Duração:  Semestral  Caráter:  Obrigatória  Localização no QSL:  1 o Semestre / 5 a Série  Junta turmas  : Não  Utiliza laboratórios : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Desenvolvimento de no mínimo 180 horas de atividades planejadas, junto a organizações que exerçam atividades correlacionadas com a habilitação de Engenheiro de Automação, sujeitas a supervisão e avaliação, sob regulamento próprio.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+180h
+
+Carga horária de aulas teóricas (hora relógio):
+
+180h
+
+Carga horária de aulas a distância (horas relógio):
+
+Código:
+
+23180
+
+Disciplina:
+
+Projeto de Graduação em Engenharia de Automação I
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Obrigatória
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Desenvolvimento de trabalho acadêmico: ênfase em abordagem científica. Atividades de pesquisa e desenvolvimento de projetos em Engenharia de Automação. Exercício e fixação de conteúdos de modo integrado. Estudo e aplicação de metodologias de pesquisa e normas de redação de trabalho científico. Preparativos gerais para realização do trabalho proposto. Se possível: implementação do projeto proposto; produção e apresentação de monografia (e relatório técnico, quando couber); avaliação em sessão de apresentação frente a banca.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio):
+
+45h
+
+Código:
+
+10653
+
+Disciplina:
+
+História da Cultura Afro-Brasileira e Indígena
+
+Lotação:
+
+ICHI
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: As matrizes africanas e indígenas da cultura brasileira. História e memória da população afro-brasileira. A diversidade cultural presente nas línguas, religiões, artes e literatura. O legado cultural dos povos guaranis e quilombolas: sincretismo e miscigenação.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio):
+
+
+
+
+
+Código:
+
+23146
+
+Disciplina:
+
+Tópicos em Sistemas de Manufatura
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas de Manufatura.
+
+Equivalência:
+
+Não
+
+Carga horária total: 45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio):
+
+45h
+
+Código:
+
+23147
+
+Disciplina:
+
+Tópicos em Sistemas de Acionamento
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas de Acionamento.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio):
+
+45h
+
+
+
+
+
+Código:
+
+23148
+
+Disciplina:
+
+Tópicos em Sistemas Robóticos
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas Robóticos.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+Código:
+
+23149
+
+Disciplina:
+
+Tópicos em Sistemas Heterogêneos
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas Heterogêneos.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+
+
+
+
+Código:
+
+23150
+
+Disciplina:
+
+Tópicos em Sistemas de Controle Avançado
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Controle Avançado.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+Código:
+
+23151
+
+Disciplina:
+
+Tópicos em Sistemas Inteligentes para Automação
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas Inteligentes para Automação.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio):
+
+45h
+
+
+
+
+
+Código:
+
+A determinar
+
+Disciplina:
+
+Tópicos Avançados em Engenharia de Automação I
+
+Lotação:
+
+C3
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+1 o Semestre / 5 a Série
+
+Junta turmas
+
+: Não
+
+Utiliza laboratórios
+
+: Não
+
+Pré-requisito:
+
+Não
+
+Impeditiva:
+
+Não
+
+Sistema de avaliação:
+
+II (nota final com média 5,0)
+
+Ementa: Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Engenharia de Automação, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento de temas de interesse comum de professores e alunos do curso.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio):
+
+45h
+
+
+
+
+
+| Código:  A determinar  Disciplina:  Tópicos Avançados em Engenharia de Automação II  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  1 o Semestre / 5 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Engenharia de Automação, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento de temas de interesse comum de professores e alunos do curso.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+| Código:  A determinar  Disciplina:  Tópicos Avançados em Engenharia de Automação III  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  1 o Semestre / 5 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Engenharia de Automação, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento de temas de interesse comum de professores e alunos do curso.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+
+
+
+
+| Código:  23182  Disciplina:  Tópicos Especiais em Engenharia de Automação  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  2 o Semestre / 5 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Engenharia de Automação, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento de temas de interesse comum de professores e alunos do curso.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio): 45h
+
+| Código:  23179  Disciplina:  Estágio Supervisionado em Engenharia de Automação II  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  2 o Semestre / 5 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Desenvolvimento de no mínimo 180 horas de atividades planejadas, junto a organizações que exerçam atividades correlacionadas com a habilitação de Engenheiro de Automação, sujeitas a supervisão e avaliação, sob regulamento próprio.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+180h
+
+Carga horária de aulas teóricas (hora relógio):
+
+180h
+
+Carga horária de estágio obrigatório: 180h
+
+
+
+
+
+| Código:  23181  Disciplina:  Projeto de Graduação em Engenharia de Automação II  Lotação:  C3  Duração:  Semestral  Caráter:  Optativa  Localização no QSL:  2 o Semestre / 5 a Série  Junta turmas  : Não  Utiliza laboratórios  : Não  Pré-requisito:  Não  Impeditiva:  Não  Sistema de avaliação:  II (nota final com média 5,0)   |
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+Ementa: Desenvolvimento de trabalho acadêmico: ênfase em abordagem científica. Atividades de pesquisa e desenvolvimento de projetos em Engenharia de Automação. Exercício e fixação de conteúdos de modo integrado. Estudo e aplicação de metodologias de pesquisa e normas de redação de trabalho científico. Preparativos gerais para realização do trabalho proposto. Se possível: implementação do projeto proposto; produção e apresentação de monografia (e relatório técnico, quando couber); avaliação em sessão de apresentação frente a banca.
+
+Equivalência:
+
+Não
+
+Carga horária total:
+
+45h
+
+Carga horária de aulas teóricas (hora relógio):
+
+45h
+
+Carga horária de aulas a distância (horas relógio):
+
+45h

@@ -1,0 +1,26 @@
+GUIA PARA DOCENTES DO PPGCOMP
+
+ANÁLISE DE SOLICITAÇÕES NO SISTEMAS FURG
+
+Para acessar uma solicitação recebida, siga os passos a seguir:
+
+1.  Depois de logado no Sistemas FURG, clique no campo 'Solicitações';
+2.  A seguir, clique em 'Atendimento';
+3.  Na página de Atendimento, selecione as solicitações com estado 'Abertas';
+4.  Logo abaixo, selecione 'Eu' como Responsável;
+5.  Clique em 'Filtrar';
+6.  Aparecerão, então, as solicitações encaminhadas a você. Clique nos balões logo abaixo de 'Ação' para, então, responder a solicitação;
+
+Depois disso, aparecerá na tela a Solicitação.
+
+
+
+
+
+Role a página até chegar no campo de resposta.
+
+7.  No campo 'Ação externa' ou 'Ação interna', indique a aprovação (ou não) da solicitação;
+8.  Depois, selecione 'Encaminhar';
+9.  Por fim, cliquei em 'Registrar'.
+
+Pronto! A solicitação estará respondida e daremos seguimento ao pedido do aluno.

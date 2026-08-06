@@ -1,0 +1,225 @@
+ACESSO VPN C3
+
+Junior Zilles Graduando de Sistemas de Informação Estagiário do Centro de Ciências Computacionais
+
+
+
+
+
+1. login
+2. Registro
+3. Home
+4. Gerenciar Alunos
+5. Instalação
+6. o Windows
+7. o MacOS
+8. o Linux
+
+Para realizar a solicitação de acesso VPN C3, acesse:
+
+https://vpn.cloud.c3.furg.br/
+
+1 LOGIN
+
+1. Botão de acesso a ajuda.
+2. Acesso para registro de usuário, quando não existir, ir para 2 Registro.
+3. Formulário de login, nele são informados o usuário cadastrado e a sua respectiva senha.
+4. Botão login, submete o conteúdo do formulário e realiza o login no sistema, ir para 3 Home.
+
+2 REGISTRO
+
+Página de registro de uma solicitação. Caso você seja orientador vá para 2.2 Registro Orientador
+
+2.1 REGISTRO ALUNO
+
+Manual de Acesso VPN C3
+
+
+
+
+
+1. Botão de retorno para a página de login, ir para 1 Login
+2. Essa opção fica desmarcada caso você seja aluno.
+3. Formulário de cadastro
+4. o Nome: o seu nome completo.
+5. o Email: um e-mail de contato.
+6. o Matrícula: número de matrícula do sistemas FURG.
+7. o Usuário: um usuário de acesso para esse sistema e para acesso da VPN.
+8. o Senha e Repetir Senha: uma senha para acesso a esse sistema e para o seu usuário da VPN.
+9. o Orientador: informar quem é o professor que deve liberar seu acesso à VPN.
+4. Botão registrar, submete o conteúdo do formulário e acessa o sistema se atender todos os requisitos, ir para 3 Home.
+11. 2.2 REGISTRO ORIENTADOR
+1. Botão de retorno para a página de login, ir para 1 Login
+2. Essa opção fica marcada caso você seja orientador.
+3. Formulário de cadastro
+15. o Nome: o seu nome completo.
+16. o E-mail: um e-mail de contato.
+17. o SIAPE: número do SIAPE do sistemas FURG.
+18. o Usuário: um usuário de acesso para esse sistema e para acesso da VPN.
+19. o Senha e Repetir Senha: uma senha para acesso a esse sistema e para o seu usuário da VPN.
+4. Botão registrar, submete o conteúdo do formulário e acessa o sistema se atender todos os requisitos, ir para 3 Home.
+
+
+
+
+
+3 HOME
+
+Página de visualização da situação da solicitação. Caso você seja orientador vá para 3.2 Home Orientador
+
+3.1 HOME ALUNO
+
+1. Menu do sistema
+2. o Home: visualizar a situação da solicitação.
+3. o Sair: sair do sistema.
+2. Informações sobre a solicitação realizada.
+3. Ver. Orientador: informa que o seu orientador permitiu ou não o seu acesso.
+4. Status
+7. o Em análise: seu orientador não viu sua solicitação.
+8. o Aguardando criação do usuário no servidor: seu orientador liberou o acesso, só falta o usuário ser criado no servidor.
+9. o Aguardando remoção de acesso do usuário: seu orientador removeu o seu acesso a VPN, mas o usuário ainda não foi removido do servidor.
+10. o Concluído: o usuário foi criado no servidor.
+11. o Removido: o usuário foi removido do servidor.
+12. Aguardando vinculação com orientador: o usuário foi criado como orientador, mas é
+13. o um aluno e para prosseguimento da solicitação precisa vincular um orientador.
+5. Botão de download do arquivo de configuração da VPN.
+
+3.2 HOME ORIENTADOR
+
+
+
+
+
+1. Menu do sistema
+2. o Home: visualizar a situação da solicitação.
+3. o Alunos: gerenciar seus alunos, ir para 4 Gerenciar Alunos.
+4. o Sair: sair do sistema.
+2. Informações sobre a solicitação realizada.
+3. Ver. Orientador: informa que o seu orientador permitiu ou não o seu acesso.
+4. Status
+8. o Em análise: seu orientador não viu sua solicitação.
+9. o Aguardando criação do usuário no servidor: seu orientador liberou o acesso, só falta o usuário ser criado no servidor.
+10. o Aguardando remoção de acesso do usuário: seu orientador removeu o seu acesso a VPN, mas o usuário ainda não foi removido do servidor.
+11. o Concluído: o usuário foi criado no servidor.
+12. o Removido: o usuário foi removido do servidor.
+13. o Aguardando vinculação com orientador: o usuário foi criado como orientador, mas é um aluno e para prosseguimento da solicitação precisa vincular um orientador.
+5. Botão de download do arquivo de configuração da VPN.
+
+4 GERÊNCIAR ALUNOS
+
+1. Menu do sistema
+2. o Home: visualizar a situação da solicitação, ir para 3 Home
+3. o Alunos: gerenciar seus alunos.
+4. o Sair: sair do sistema.
+2. Tabela de alunos que definiram você como orientador.
+3. Liberar acesso ao aluno.
+4. Tornar esse aluno secretário, ele poderá então liberar ou retirar acesso dos seus alunos também.
+5. Salvar as alterações feitas para os alunos listados.
+
+
+
+
+
+5 INSTALAÇÃO
+
+Orientações para instalar o cliente do OpenVpn
+
+5.1 WINDOWS
+
+- Download instalador OpenVpn Client Windows
+
+Execute o instalador.
+
+1. Clique em "Install Now" ou "Instalar" para iniciar a instalação.
+
+Aguarde o término da instalação.
+
+
+
+
+
+
+
+
+
+1. Clique em "Close" ou "Fechar" para concluir a instalação.
+1. Na barra de ferramentas do Windows, aperte para mostrar os itens ocultos.
+2. Aperte com o botão direito do mouse sobre o ícone OpenVpn GUI.
+1. Aperte em "Import file" ou "Importar arquivo".
+1. Vá para a página de Downloads ou a pasta onde você salvou o arquivo cliente.ovpn baixado.
+2. Selecione o arquivo cliente.ovpn.
+3. Aperte em "Open" ou "Abrir".
+
+
+
+
+
+
+
+
+
+Irá abrir uma janela de informando que o arquivo foi importado com sucesso
+
+1. Aperte OK para finalizar.
+
+Na barra de ferramentas do Windows, aperte para mostrar os itens ocultos e aperte com o direito do mouse sobre o icone OpenVpn GUI.
+
+1. Aperte em "Connect" ou "Conectar".
+
+Irá abrir uma caixa de diálogo.
+
+
+
+
+
+1. Informe o usuário do sistema que você cadastrou.
+2. Informe a senha cadastrada.
+3. Aperte OK para concluir.
+
+Irá aparecer uma notificação informando que você foi conectado.
+
+Para desconectar vá novamente à barra de ferramentas do Windows, aperte para mostrar os itens ocultos e aperte com o direito do mouse sobre o ícone OpenVpn GUI.
+
+
+
+
+
+1. Aperte sobre o "Disconnect" ou "Desconectar" para encerrar a conexão.
+
+5.2 MACOS
+
+- Download Installer OpenVpn Client MacOS
+
+5.3 LINUX
+
+1. Manual para instalação completo.
+
+Para instalação em Debian/Ubuntu
+
+
+
+
+
+1. Execute: sudo apt-get update && sudo apt-get install openvpn .
+2. Confirme apertando y e em seguida apertando enter.
+
+Vamos verificar se foi instalado executando: openvpn --version .
+
+Abra a conexão executando: sudo openvpn --config cliente.conf .
+
+Será pedido as credencias do sistema.
+
+
+
+
+
+1. Usuário do sistema.
+2. Senha do sistema.
+
+O terminal ficará com o cursor piscando e a penúltima linha informando que a inicialização foi completada.
+
+Sem fechar o terminal anterior, se abre um novo terminal e com o comando: ip a é possível ver se a conexão foi feita
+
+Procure um dispositivo do tipo TAP, se existe então a conexão está ativa.
+
+Para encerrar a conexão pressione as teclas ctrl+c do primeiro terminal.

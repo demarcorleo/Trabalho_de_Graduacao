@@ -1,0 +1,88 @@
+SERVIÇO PÚBLICO FEDERAL
+MINISTÉRIO DA EDUCAÇÃO
+UNIVERSIDADE FEDERAL DO RIO GRANDE - FURG
+COORD CUR DE PG EM ENGENHARIA DE COMPUTAÇÃO
+
+ATO N° 1, DE 26 DE MARÇO DE 2025
+
+NORMA INTERNA PARA AGENDAMENTO DE DEFESAS
+
+Dispõe sobre os critérios de avaliação da produção
+científica discente para agendamento de defesas do
+Programa de Pós-Graduação em Computação da
+FURG.
+
+O Coordenador do Programa de Pós-graduação em Computação (PPGComp), considerando a Ata de nº 02,
+de reunião do corpo docente do PPGComp realizada em 28 de novembro de 2024, e o disposto no inciso
+III do Art. 19 do Regimento do PPGComp,
+
+RESOLVE:
+
+Art. 1º Para o agendamento de defesa de Mestrado é obrigatório ao estudante ter produção científica
+relacionada ao tema da dissertação, submetida durante o curso de Mestrado na forma de artigo em
+periódico ou trabalho completo em conferência, atendendo aos seguintes requisitos:
+I - discente solicitante da defesa como primeiro autor;
+II - orientador como coautor;
+III - anuência do orientador;
+IV - anuência da Coordenação.
+
+Art. 2º Para o agendamento de defesa de Doutorado é obrigatório ao estudante ter produção científica
+relacionada ao tema da tese, publicada ou aceita para publicação durante o curso de Doutorado na forma
+de artigo em periódico ou trabalho completo em conferência, atendendo aos seguintes requisitos:
+I - discente solicitante da defesa como primeiro autor;
+II - orientador como coautor;
+III - anuência do orientador;
+IV - anuência da Coordenação;
+V - pelo menos uma produção ser artigo em periódico;
+VI - somatório da pontuação das produções maior ou igual a 1,0.
+
+Art. 3º Os veículos de publicação da produção discente tratada nos dispositivos anteriores devem atender
+aos seguintes requisitos:
+I - As conferências devem apresentar índice bibliométrico H5 maior ou igual a 15 de acordo com a
+Ato 1 (0379082)         SEI 23116.016984/2024-24 / pg. 1
+
+
+indexação do Google Scholar Metrics vigente no momento da submissão. Caso não seja indexada, a
+conferência deve ser classificada no estrato restrito (A1 até A4), de acordo com o último Qualis Eventos
+publicado pela CA-CC da Capes.
+II - Os periódicos devem apresentar o maior valor de percentil CiteScore (Scopus) ou JIF (Web of Science)
+maior ou igual a 50 no momento da submissão.
+III - A pontuação de cada produção será determinada segundo os critérios estabelecidos na Tabela 1.
+
+Tabela 1 - Critérios de pontuação da produção científica.
+Percentil Scopus
+ou WoS ≥
+Google Scholar
+H5 index ≥
+Estimativa do
+estrato Qualis
+Pontuação
+87,5
+35
+A1
+1
+75,0
+25
+A2
+0,875
+62,5
+20
+A3
+0,75
+50,0
+15
+A4
+0,625
+
+
+Prof. Dr. Eduardo Nunes Borges
+Coordenador do Programa de Pós-graduação em Computação
+Documento assinado eletronicamente por Eduardo Nunes Borges, Coordenador de Curso, em
+10/04/2025, às 11:20, conforme horário oficial de Brasília, com fundamento no art. 6º, § 1º, do Decreto
+nº 8.539, de 8 de outubro de 2015.
+A autenticidade do documento pode ser conferida no site https://sei.furg.br/sei/controlador_externo.php?
+acao=documento_conferir&acao_origem=documento_conferir&lang=pt_BR&id_orgao_acesso_externo=0
+informando o código verificador 0379082 e o código CRC E61C0115.
+Referência: Caso responda este documento Ato, indicar o Processo nº 23116.016984/2024-24
+SEI nº 0379082
+Ato 1 (0379082)         SEI 23116.016984/2024-24 / pg. 2

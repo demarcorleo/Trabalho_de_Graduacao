@@ -1,0 +1,335 @@
+MANUAL DE
+PROCEDIMENTOS DA
+PÓS-GRADUAÇÃO
+Programa de Pós-Graduação em Computação
+Última atualização 09/02/2024
+
+
+Índice
+Onde solicitar? Acúmulo de
+rendimentos para bolsistas
+Aproveitamento de disciplinas
+Auxílio ao Estudante - PROAP
+Bolsista DS - Parecer semestral
+Cadastro de Coorientador
+Emissão de Diploma
+Entrega de Atas e Certificados
+Matrícula
+Pedido de Agendamento de Qualif./Defesa
+Pedido de Cancelamento de Matrícula
+Pedido de Prorrogação
+Pedido de Trancamento Sugestões/Pedido
+de Informações Bônus: AVA
+Informações úteis
+
+
+Onde solicitar?
+Acesse o Sistema pelo endereço:
+https://sistemas.furg.br/
+Aluno, indique o seu número de
+matrícula no campo “Usuário”.
+Quando for o primeiro acesso, a
+senha  de  acesso  será  o  seu
+número de CPF.
+Depois  de  realizado  o  primeiro
+acesso, será indicado que efetue a
+troca da senha.
+
+
+Onde solicitar?
+Depois de logado, vá até o campo
+“Solicitações”, no canto superior
+esquerdo do site.
+No  campo  Unidade,  selecione
+“Coord  Cur  de  Mestrado  em
+Engenharia de Computação”.
+
+
+Onde solicitar?
+Por fim, no campo “Tipo de Solicitação” selecione o
+assunto do que se trata a solicitação.
+Se ALUNO: Agendamento de qualificação e defesa,
+Auxílio ao Estudante - PROAP, Cadastro de
+Coorientador,
+Desligamento,
+Depósito de
+documentos,
+Emissão
+de
+Diploma,
+Parecer
+Bolsista   DS,   Prorrogação   do   prazo   para
+qualificação e defesa, Trancamento geral ou de
+disciplina, Troca de Orientação.
+Se PROFESSOR: Criar ou excluir disciplina, Oferta
+de disciplina.
+GERAL: Texto Livre.
+
+
+Onde solicitar?
+SOLICITAÇÕES
+Processo - Protocolo digital da FURG
+E-mail
+Mas atenção, nem todas as solicitações são realizadas via Sistemas FURG.
+Por isso, busque aqui no Manual qual a instrução para a realização do pedido.
+Se também não constar aqui, entre em contato com a Secretaria (por e-mail ou pela opção
+“Sugestões/Pedidos de Informações” no Sistemas FURG).
+Sistemas FURG
+
+
+Acúmulo de rendimentos para bolsistas
+
+Estudantes já contemplados com bolsa, tendo a possibilidade de um novo rendimento,
+devem encaminhar solicitação para análise.
+
+
+Aproveitamento de disciplinas
+Trata-se  da  solicitação  de  aproveitamento  de  disciplinas  cursadas  no  PPGComp  ou  em  outro programa de
+pós-graduação, seja da FURG ou de outra Instituição de Ensino Superior (IES). Este pedido deve  ser  feito
+exclusivamente  pelo  Protocolo Digital  da FURG.  Confira o  passo-a-passo:
+1. Acesse     https://www.gov.br/pt-br/servicos/protocolar-documentos-junto-a-universidade-federal-do-rio-grande-furg;
+2. Clique no botão “Iniciar”;
+3. Faça login com sua conta gov.br;
+4. Na Etapa 1 de 3 do formulário, no campo “Tipo de Solicitação”, selecionar “Protocolar documentos juntos a FURG”;
+5. Clique em “Prosseguir para o passo 2”;
+6. Na Etapa 2 de 3 do formulário, no campo “Tipo de Documento”, selecionar “Documento”;
+7. Se foram cursadas disciplinas na FURG, anexar (importar) o histórico;
+8. Se foram cursadas disciplinas em outra IES, anexar (importar) o histórico e a(s) ementa(s) da(s) disciplina(s);
+9. Depois de importar, clique em “Adicionar dados na tabela”;
+10.
+Em “Complementação do Protocolo Anterior”, selecione a opção “Não”;
+11.
+No campo “Informações Complementares”, preencha o seguinte texto: Eu, Nome Completo, Matrícula 00000, aluno regular do curso de Mestrado em
+Engenharia de Computação, solicito o aproveitamento das disciplinas a seguir relacionadas: 1234 - Disciplina 1; 5678 - Disciplina 2; etc.
+12.
+Clique em “Prosseguir para o passo 3”;
+13.
+Confira os dados e assinale a caixa de seleção “Concordo com o termo”;
+14.
+Clique em “Enviar solicitação e baixar recibo ”.
+Pronto, seu pedido foi realizado e será tramitado para análise da Coordenação do PPGComp.
+
+
+Auxílio ao Estudante PROAP
+Regras específicas: é responsabilidade do solicitante a leitura das normas a seguir, as quais apresentam as informações necessárias
+sobre formulários, prazos e prestação de contas.
+ Portaria 156 de 2014 da CAPES        Manual de Procedimentos do PROAP           Normas Internas do PPGComp
+Solicitação de Auxílio ao Estudante (leia com atenção o item 6 do Manual disponibilizado acima)
+O valor deve ser utilizado apenas para pagamento de hospedagem, alimentação e transporte urbano para que o aluno participe de
+saídas de campo, eventos científicos e mobilidade nacional ou internacional. Será concedido o valor de até R$ 320,00 (trezentos e
+vinte reais) por dia de afastamento. O pagamento será feito na conta-corrente do aluno. A entrega do pedido deve ser realizada com
+antecedência mínima de 30 dias da data do evento. No pedido, anexar o formulário, a programação do evento e o comprovante de
+submissão ou aceite do trabalho, se houver. Além disso, o discente deverá preencher o Cadastro de Pessoa Física solicitado pela
+FAURG.
+O auxílio financeiro ao estudante não prevê o pagamento de inscrição. Caso deseje solicitar, o aluno deve encaminhar o comprovante
+de aceite, o valor e a data limite para pagamento ao e-mail secretaria.ppgcomp@furg.br. Maiores instruções serão encaminhadas ao
+solicitante. Todos os pedidos dependem de autorização da Coordenação.
+Entrega de Relatório
+O estudante contemplado com o auxílio deverá, no prazo de até 5 (cinco) dias úteis após a conclusão das atividades, encaminhar o
+Relatório de Atividades e os comprovantes (certificado de participação, comprovantes de transporte, hospedagem, alimentação e o
+que mais houver). Os comprovantes deverão estar em nome do aluno.
+
+
+Bolsista DS
+A Norma Interna para Distribuição de Bolsa do PPGComp, exige que o bolsista CAPES DS possua parecer
+favorável do Orientador referente ao período que recebeu bolsa.
+No formulário disponível no Sistemas FURG, o aluno deverá informar o nome do Orientador e do
+Coorientador (se houver) e o período analisado no parecer (por exemplo: de março a julho de 2021, ou
+seja, 1º semestre de 2021). Além disso, o aluno deverá descrever as atividades realizadas no Mestrado
+durante esse período.
+Depois de registrar a solicitação, a Secretaria receberá o pedido e encaminhará para análise do Orientador.
+O  docente,  então,  indicará  se  é  Favorável  ou  Desfavorável  e  apresentará  a justificativa da decisão.
+Por fim, a solicitação é encaminhada para a Comissão de Bolsas que, em reunião, irá analisar o parecer.
+
+
+Cadastro de Coorientador
+O PPGComp não exige coorientação. No entanto, é comum que Aluno e Orientador entendam que a
+participação de um Coorientador se faça necessária no desenvolvimento da Dissertação.
+A coorientação pode ser realizada por um Docente e/ou Pesquisador da FURG ou de outra IES, do Brasil ou
+do Exterior.
+Para  cadastrá-lo,  basta  informar  o  Nome  Completo  e  a  Instituição  a  que  se  vincula. Quando for
+realizado o cadastro, tanto Orientador quanto Coorientador já devem estar cientes e de acordo.
+Apenas DOUTORES podem atuar como coorientador.
+
+
+Emissão de Diploma
+Para que seja feita a solicitação do diploma de Mestre em Engenharia de Computação, basta preencher
+a solicitação e o anexar os seguintes documentos digitalizados:
+●
+Ata da Defesa, indicado aprovação;
+●
+Versão final da dissertação (com a ficha catalográfica e folha de assinaturas);
+●
+Certificado/comprovante de proficiência em língua inglesa.
+Outros requisitos:
+Mínimo de créditos integralizados (24 CR); Aprovação nas disciplinas obrigatórias do curso;
+Depósito da Dissertação na BDTD, conforme Manual de Autoarquivamento.
+
+
+Atas e Certiﬁcados
+No decorrer do curso, o aluno deve apresentar alguns documentos, tais como:
+●
+Ata de Participação em banca (ouvinte);
+●
+Ata de Qualificação;
+●
+Ata de Defesa;
+●
+Comprovante de Proficiência em Língua Inglesa;
+●
+Conceito em Estágio Docente.
+Necessários para Emissão do diploma
+Necessário para apresentação Comissão Bolsas DS
+Necessário para Agendamento da Defesa
+Portanto, o aluno pode efetuar o depósito de tais documentos no transcorrer do curso.
+Quem fizer, estará desabonado da obrigação de apresentá-los no momento das solicitações acima descritas.
+
+
+Matrícula
+Aluno regular é aquele que possui vínculo com o
+Programa, apto a realizar todas as atividades
+referentes  ao  Mestrado  em  Engenharia  de
+Computação.
+A    matrícula    deverá    ser    requerida
+semestralmente, dentro do prazo estabelecido pela
+Coordenação do PPGComp via Sistemas FURG
+(imagem  ao  lado).  O  orientador  deve estar ciente
+das disciplinas a serem cursadas pelo
+aluno.
+
+
+Matrícula
+Matrícula complementar: ocorre quando um aluno do
+PPGComp  deseja  cursar  disciplina  de  outro  PPG  e
+vice-versa,  dentro  da  FURG.  O  pedido  deve  ser  via
+Sistemas FURG, conforme imagem ao lado. Nesse caso, o
+interessado  não  precisa  participar  de  edital  de seleção de
+alunos especiais.
+O  Aluno  especial  é  aquele  matriculado  apenas  em
+disciplina(s) isolada(s) do Programa de Pós-Graduação, não
+possuindo,  portanto,  vínculo  com  qualquer programa  de
+pós-graduação  da  FURG.  O  edital  de seleção  dispõe  sobre
+o  prazo  para  matrícula  dos aprovados.
+
+
+Pedido de agendamento de
+Qualif./Defesa
+O agendamento deve ser realizado com antecedência mínima de 15 dias da data da defesa ou qualificação.
+Na solicitação, deverá constar a banca examinadora, a ser composta por, no mínimo, três membros, sendo
+eles:
+a) o orientador (que preside a banca);
+b) um docente da FURG;
+c) um examinador externo à FURG.
+A aprovação na Qualificação é um dos requisitos para a Defesa.
+Quando presencial, a reserva de sala é feita pela Secretaria. Quando virtual, fica a cargo do Aluno e de seu
+Orientador informar o link da webconferência.
+A Coordenação do PPGComp recomenda que a apresentação seja de 30 a 45 minutos. No entanto, fica a cargo do
+Orientador definir o tempo de apresentação. Exige-se que as perguntas da banca sejam realizadas em tempo igual
+ou maior ao tempo da apresentação.
+
+
+Pedido de Cancelamento de
+matrícula
+É a solicitação cabível quando o aluno deseja
+cancelar a matrícula, ou seja, não ter mais
+vínculo com o PPGComp.
+Depois de cancelada a matrícula, só passa a  ser
+aluno  se  fizer  o  processo  seletivo novamente
+e for aprovado.
+Pedido de
+trancamento
+É
+permitido ao
+trancamento,
+estudante
+desde
+solicitar
+que:
+-  o aluno não esteja no primeiro ou no último
+do
+curso;
+pelo Orientadore
+pela
+semestre
+-
+seja
+autorizado
+Coordenação.
+Pode  ser  GERAL  (aplicável  a  todas  as disciplinas
+do  semestre)  ou  DE  DISCIPLINA (aplicável a uma
+disciplina específica).
+Não suspende o prazo para conclusão do curso.
+
+
+Pedido de Prorrogação de
+Prazo
+Se o aluno NÃO defendeu no prazo de 24 meses
+a
+contar
+também
+do
+mês de
+ingresso
+no
+curso,
+deverá
+solicitar
+prorrogação do prazo.
+O pedido deve ser feito com antecedência
+mínima  de  1  mês  do  mês-fim  e  poderá
+prorrogar  o  prazo  por  até  3  meses  (as
+opções são de 1, 2 ou 3 meses).
+São admitidas, no máximo, 2 prorrogações de
+até 3 meses cada. O pedido deve ser justificado
+e  contar  com  a  anuência  do orientador.
+Segundo o Novo Regimento
+Possui alguma sugestão?
+Deseja solicitar algo que não está listado e também
+não é realizado via Processo?
+Aqui é o lugar!
+Sugestões e Pedidos de
+informações
+
+
+Bônus: AVA
+AVA FURG é o Ambiente Virtual de
+Aprendizagem da FURG.
+Acesse o Sistema pelo endereço:
+https://ava.furg.br/
+Aluno, indique o seu número de
+matrícula no campo “Usuário”.
+Quando for o primeiro acesso, a
+senha  de  acesso  será  o  seu
+número de CPF.
+
+
+Bônus: AVA
+Depois de logar, é apresentada a
+relação  dos  Cursos  aos  quais você
+está vinculado.
+Importante: o aluno só constará
+como   vinculado   à   disciplina
+depois que estiver matriculado e
+realizar  o  primeiro  acesso  na
+plataforma.
+●
+Manual do AVA
+●
+FAQ
+
+
+Informações Úteis
+Solicitações que dependem de Abertura
+de Processo no Protocolo Geral da
+FURG:
+Aproveitamento de estudos
+RED - Regime de Exercícios Domiciliares
+Revisão de Prova
+Segunda chamada
+Documentos importantes: PROPESP
+PPGCOMP
+Canais de comunicação da
+Secretaria do PPGCOMP
+E-mail: secretaria.ppgcomp@furg.br
+Telefone: (53) 3293-5105
+Facebook: /ppgcomp.furg

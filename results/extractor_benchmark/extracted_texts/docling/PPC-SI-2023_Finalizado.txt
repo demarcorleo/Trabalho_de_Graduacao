@@ -1,0 +1,2619 @@
+SISTEMAS DE INFORMAÇÃO 2023
+
+
+
+
+
+1. Histórico do Processo
+
+O Curso de Sistemas de Informação segue naturalmente a ampliação das atividades do Curso de Engenharia de Computação, que foi instituído na FURG em 1993.
+
+Desde essa época, tem crescido o número de trabalhos realizados na FURG no âmbito da Computação, incluindo muitas atividades na área do software corporativo. A incorporação ao corpo docente de professores mais especificamente relacionados com esta área levou ao pensamento de se aproveitar tais competências de modo mais efetivo e focalizado.
+
+O Programa REUNI demandou da FURG esforço visando aumentar a oferta de ensino superior. O grupo de docentes envolvido com a área de Computação na Universidade decidiu diversificar sua atuação, em vez de simplesmente aumentar o número de vagas no curso existente.
+
+1.1 Justificativa de Criação do Curso
+
+A aplicação da Computação nas atividades corporativas vem de longa data, tendo sido, mesmo, a própria impulsionadora, há mais de cinquenta anos, dos primeiros grandes investimentos na popularização do uso do computador. Através de iniciativas ligadas à gerência empresarial, é que se abriu um mercado consumidor de computação e de equipamentos para computação que viabilizou também a transição da indústria relacionada para o porte da economia de escala.
+
+O desenvolvimento de sistemas de apoio ao trabalho administrativo e organizacional é um dos principais requisitos para o desenvolvimento econômico do país. A necessidade de formar profissionais com a visão interdisciplinar indispensável ao processo de informatização da indústria, do comércio e dos serviços e com a capacidade de utilizar adequadamente, neste processo, as novas tecnologias computacionais, exige um engajamento das instituições de ensino superior.
+
+O Brasil ainda é muito carente nessa área. Grande importador de sistemas computacionais, o país carece de um conjunto de soluções próprias, adequadas à sua realidade cultural, econômica e industrial-tecnológica. Devido a vários fatores históricos e econômicos, mas, também, graças a uma resposta positiva dada justamente pela Universidade brasileira na busca de uma capacitação no setor, hoje o Brasil já passa a ser visto como um mercado maduro para a alta tecnologia e, mais que isso, um polo disseminador no hemisfério sul. Daí que, pela sua posição estratégica em relação ao continente e relativa qualidade da infraestrutura, vêm se instalar no Rio Grande do Sul, por exemplo, montadoras como a Dell Computers e projetos-piloto de plantas de silício (fábricas de microprocessadores) de corporações como a Motorola e a Hewllet-Packard, em convênios com universidades da região metropolitana do Estado. A premissa básica para tais investimentos só pode ser o crescimento das possibilidades de reinvestimento, de fortalecimento da estrutura socioeconômica circundante e do potencial de inter-relações produtivas existentes ou a serem criadas.
+
+
+
+
+
+De um ponto de vista mais regional e local, um fator evidentemente influente nesse processo é a instalação na região de grandes empreendimentos industriais na área naval, petroleira e madeireira, em função de que a própria Universidade tem se movimentado buscando espaços de inserção e intervenção científica, educacional e tecnológica, cujos aspectos já foram considerados em diversas ocasiões e documentos institucionais.
+
+Outra dimensão relevante para esta análise é a característica que deverá vir a assumir a participação econômica do segmento industrial de maior complexidade, aquele de maior valor agregado. Independente de haver ou não uma indústria de base em informática na região, aqui se incorporará, cada vez mais, elementos de automação, de modo a fazer frente à concorrência também aparelhada. Isto há de exigir competência em Computação associada às mais diversas áreas, da mecânica às telecomunicações, da construção civil à biotecnologia. Este é um espaço de expansão autônoma.
+
+Já em maio de 2007, Greg Astfalk, cientista chefe da HP, numa participação no 4o. HP Brazil International Tech Symposium , em Porto Alegre (RS), afirmava que 'a demanda por profissionais [de TI] cresce cerca de duas vezes mais que o Produto Interno Bruto (PIB) dos países'. A própria HP enfrenta um crescimento da demanda de profissionais da área da ordem de 30% ao ano.
+
+Conforme Sérgio Amad, coordenador do Núcleo de Recursos Humanos da FGV Projetos, braço de consultoria da Fundação Getúlio Vargas, 'com o crescimento econômico que se consolida no Brasil, ficaremos vulneráveis e sentiremos muita falta de programadores, arquitetos de software, gerentes de TI' ( O Liberal , 08/10/2007). Estudo feito pela consultoria International Data Corporation (IDC) aponta que, de 2006 até 2009, pelo menos 630 mil profissionais em tecnologia da informação serão contratados na América Latina - a maior parte no Brasil, que já emprega 892 mil pessoas na área. (idem). Também o Ministério da Ciência e Tecnologia (MCT) estima o crescimento da área de tecnologia da informação no país em 10% ao ano na próxima década, contra 3% no resto do mundo (segundo o site IDG Now!, 20/12/2007). A Federação Nacional das Empresas de Informática afirma que 'o maior problema do mercado de software brasileiro é a mão-de-obra escassa' (segundo o site IDG Now!, 17/12/2007). Lê-se no site Computerworld (02/05/2008) que há um crescimento, nos EUA, na demanda por pessoal na área de tecnologia da informação, mas o número de candidatos tem diminuído, em função da capacidade de absorção do mercado e da especificidade das vagas. O mesmo site informa que, segundo a consultoria norte-americana Gartner , uma solução encontrada para desafogar essa carência é a contratação dita offshore outsourcing , ou seja, de profissionais do estrangeiro para trabalhar à distância na consecução de projetos de informática, e o Brasil é um dos sete maiores fornecedores desse tipo de mão-de-obra nas Américas (apud IDG Now!, 12/12/2007). Tal mercado, pelas estimativas, já em 2010 deve montar a 110 bilhões de dólares anuais ( Revista Amanhã , 01/02/2007).
+
+
+
+
+
+Adicionalmente, segundo a consultoria de pessoal Catho ( Carreira & Sucesso Newsletter , 347ª edição), as aferições da oferta de emprego no segundo semestre de 2007 indicam que a área de Informática foi, no Brasil, a terceira maior geradora de vagas. Na Região Sul, 8,2% das ofertas foram nessa área, sendo que em Santa Catarina, nada menos que 20,4%.
+
+Com base nas breves constatações feitas acima, pode-se prever um crescimento das oportunidades de inserção dos egressos do curso de bacharelado em Sistemas de Informação nesses espaços de desenvolvimento que estão se anunciando. Salienta-se que não se trata apenas de atender uma demanda contemporânea, mas alicerçar, na área de influência da FURG, a evolução futura técnica e científica do setor. Com base na experiência vivida até o momento, do ponto de vista acadêmico, técnico e pedagógico, e tendo como cenário possível a evolução esboçada acima, o Curso deve dar uma resposta de intervenção positiva e alavancadora dessa evolução.
+
+O campo profissional é amplo e diversificado e, nos últimos anos, as ocupações tradicionais como projeto, desenvolvimento e manutenção de sistemas computacionais na indústria, comércio, empresas de serviço ou instituições governamentais, somou-se a alternativa de atuar nas áreas de marketing e vendas de empresas. Toda uma gama de novas ocupações ou profissões está se formatando envolvendo o aproveitamento de profissionais de TI: mediador de mídias sociais, analista de mídia online , arquiteto da informação, programadores visuais multimídia, administradores de comunidades virtuais, engenheiros de redes, gerente de redes sociais, 'blogueiro' corporativo, wikinomista etc.
+
+2 Objetivos do Curso
+
+O currículo do curso busca formar profissionais empreendedores, capazes de analisar, projetar, desenvolver, implantar e gerenciar sistemas de informação com visão crítica, ética e em concordância com a evolução da informática e suas aplicações. Busca-se formar o profissional que vai se valer de conceitos e técnicas de computação e teoria de sistemas para contribuir na solução de problemas de tratamento da informação nas organizações por meio da construção de modelos de automação corporativa. Intenta-se incutir o espírito empreendedor que permita ao profissional conceber, criar e concretizar projetos de tratamento da informação, consciente da sua função na sociedade e de acordo com valores éticos.
+
+
+
+
+
+3 Perfil desejável do ingressante
+
+IMPRESCINDÍVEL
+
+- gosto pelo estudo de ciências exatas, particularmente matemática;
+- interesse pela solução de problemas de um modo geral, com habilidade de raciocínio abstrato e criatividade para abordagens alternativas, envolvendo múltiplos aspectos de um mesmo assunto;
+- capacidade de concentração e de trabalho metódico e persistente, com disponibilidade para a pesquisa e o estudo individual;
+- interesse no envolvimento de projetos que visem de soluções para a comunidade em geral, seja empresas, organizações não-governamentais ou entidades governamentais;
+- capacidade de trabalho disciplinado, em equipe;
+- desenvoltura na expressão oral e escrita;
+
+MUITO DESEJÁVEIS:
+
+- facilidade com a língua inglesa, particularmente para leitura de textos técnicos e científicos;
+- valorização da multi e da interdisciplinaridade;
+- sólida cultura geral.
+
+4 Perfil do Profissional (caracterização geral do egresso)
+
+O Bacharel em Sistemas de Informação é um profissional capaz de analisar problemas visando criar soluções em tecnologias da informação. Com formação ampla em computação e tecnologias afins, o curso habilita profissionais tanto no campo técnico como no científico, com capacidade de estabelecer um elo entre as tendências da informática e suas aplicações na solução de problemas organizacionais. Além disso, demonstra postura humanística e visão empreendedora, desenvolvendo habilidades interpessoais e profissionais que levam a uma melhor compreensão do mundo e da sociedade, estando também apto para o aprofundamento de estudos e o constante desenvolvimento profissional.
+
+
+
+
+
+4.1 Competências e habilidades
+
+O Bacharel em Sistemas de Informação deve ter competência e habilidade para abordar de forma sistêmica os problemas organizacionais e propor soluções tecnológicas alinhadas às necessidades das organizações, aliando o domínio das ferramentas tecnológicas e o instrumental para produzi-las ao conhecimento das dimensões organizacionais, gerenciais, econômicas e sociais; interagir com as diversas áreas das organizações concebendo, desenvolvendo, gerenciando e aprimorando sistemas de tratamento automatizado de informação; elaborar, executar, supervisionar e avaliar planos, projetos e programas de tratamento automatizado da informação, incluindo coleta, pré-processamento, transformação e modelagem de grandes volumes de dados; interpretar informações complexas de forma a gerar conhecimento; ter capacidade de interagir tanto com profissionais que dão suporte ao desenvolvimento de sistemas de informação quanto com profissionais que se utilizam desses sistemas na execução de suas atribuições dentro das organizações; identificar fontes, seja a nível nacional quanto internacional, de desenvolvimento científico e tecnológico na área de sistemas de informação e ter capacidade de se comunicar com elas; desenvolver uma postura ética no tratamento de informações.
+
+5 Princípios norteadores (fundamentos teóricos e metodológicos que orientam as opções pedagógicas e estruturais adotadas)
+
+A formação em Computação, em qualquer de suas áreas, exige uma fundamentação teórica que ultrapasse a mera aquisição de habilidades operacionais em relação às ferramentas de uso intensivo num certo momento, as quais se possa identificar pela demanda explícita quando da oferta de postos de trabalho ou de serviços a serem executados. É já lugar comum dizer-se, embora não tenha deixado de ser verdadeiro, que a evolução tecnológica nessa área é muito rápida. Assim, mesmo antes de se completar uma geração de egressos de um curso de nível superior, poderá ter-se tornado inadequado um treinamento dado em relação a certos produtos. Por isso a premissa fundamental na formação, especialmente em nível superior, em Computação, é de que se deve prover os fundamentos da área do ponto de vista científico, e não apenas uma bateria de treinamentos. Daí, nosso
+
+Primeiro preceito. A formação em Computação deve primar pelo ensino da Ciência, mais do que da técnica.
+
+
+
+
+
+A formação em nível superior deve atender não só uma necessária capacitação para exercício de uma profissão, de modo a se encaminhar o educando para uma inserção na vida econômica, mas, também, deve propiciar vivências significativas que só o meio acadêmico consegue engendrar.
+
+Constituem-se, nesse contexto, três dimensões da formação que chamamos bases: cognitiva, técnico- profissional e afetiva.
+
+A base cognitiva relaciona-se com o acervo de conhecimentos, principalmente teórico, fundado nas informações comunicadas por outrem ou descobertas através da experiência. A base técnico-profissional é construída pelo treinamento, na aplicação do conhecimento teórico à identificação e à solução de problemas, a par de uma conscientização da identidade assumida pela pessoa assim formada. A base afetiva se constitui no conjunto de relações humanas de trabalho através das quais podem se construir as bases cognitiva e técnicoprofissional, e que devem ser interiorizadas por todos como um patrimônio pessoal.
+
+O conhecimento formal acumulado pela Humanidade é um patrimônio a ser compartilhado de modo a tornar-se o ponto de partida para o crescimento de cada um. Tal conhecimento, extenso e sujeito a interpretação, pode ser ministrado (e aprendido) em variados graus de qualidade, a qual pode e deve ser crescente. Por outro lado, há limites, materiais e humanos, que se impõem à tarefa de ensinar. Daí, nosso
+
+Segundo preceito. Os estudantes devem receber um conjunto de informações visando uma base crítica para a evolução permanente, um conjunto conexo e significativo (denso, mas não desnecessariamente extenso), atualizado e prospectivo, abordado segundo a nossa competência, a qual deve evoluir permanentemente.
+
+Temos uma preocupação com uma formação integral. No entanto, o maior objetivo visado por nossos alunos ao escolherem nossos cursos é o de terem uma formação profissional. Só estaremos atendendo esta expectativa se os prepararmos para serem profissionais competentes no nível de exigência do mercado de trabalho onde se lançarão. Além de uma competência regular, é importante dar à sua formação um diferencial de qualidade que os destaque neste mercado e que destaque o Curso e a FURG como centro de formação profissional. Este diferencial inclui não só a especialização, mas também um senso ético e de responsabilidade. Daí, nosso
+
+Terceiro preceito. Os estudantes devem haurir do Curso fundamentação teórica e treinamento adequado com vistas a se qualificarem para o exercício de atividades de compreensão, uso e desenvolvimento da Computação em nosso país, de modo a terem uma inserção competitiva no mercado de trabalho; um potencial de crescimento também na pesquisa e na pós-graduação; uma visão consciente, ética e responsável de seu trabalho.
+
+A vida não se esgota no sucesso acadêmico ou profissional, tendo dimensões maiores onde isto se insere. Nenhuma atividade humana em sociedade se justifica se não se fundar num envolvimento pessoa a pessoa e a atividade docente, em particular, adquire qualidade quando consegue ser "educação com" os alunos, ao invés de "educação para". Somente a integração de todos num grupo consciente de si mesmo e do próprio trabalho em realização é que nos dará a segurança para continuar e a vontade de evoluir. O tempo na Universidade deve ser, para todos, um tempo de interação, e esse tempo deve ser sempre presente e não uma mera transição ou um passado que urge ultrapassar. O próprio PPP da FURG, ao fixar a Missão da Instituição, preconiza 'promover a educação plena, enfatizando uma formação geral que contemple a técnica e as humanidades, que seja capaz de despertar a criatividade e o espírito crítico, fomentando as ciências, as artes e as letras e propiciando os conhecimentos necessários para o desenvolvimento humano e para a vida em sociedade.' e que 'A FURG deve servir com elevada qualidade, orientada por princípios éticos e democráticos, de modo que o resultado de sua ação educativa tenha impacto na comunidade e contribua para a melhoria da qualidade de vida dos indivíduos e para o desenvolvimento regional.' Também assevera que 'Um currículo se produz a partir das ações de todos os participantes nos processos educativos da Instituição, em que os critérios de seleção e organização dos referenciais de conhecimentos, metodologias, atitudes e valores produzem, estruturam, constituem todos os envolvidos.' Daí, nosso Quarto preceito. Os alunos devem ter a oportunidade de constituir, juntamente com os professores, um verdadeiro grupo de trabalho, cujo objetivo maior é sua formação, não só técnico-profissional, como também humana e de cidadania.
+
+
+
+
+
+5.1 Opções estruturais e pedagógicas
+
+Pelo primeiro preceito, uma preocupação dominante na formulação do curso foi a busca de uma forte formação básica, científica (e não apenas técnica), visando-se, precisamente, dar um diferencial aos egressos no sentido de não se prenderem a métodos ou técnicas de uso momentâneo, mas, pelo contrário, a darem valor aos princípios fundamentais da Ciência, de modo a poderem se adaptar às novas tecnologias, enquadrando-as em sua própria matriz de conhecimentos, a despeito das inovações que ocorrem com rapidez nesta área.
+
+Pelo segundo preceito, optamos por um número equilibrado de atividades ao longo do tempo, de modo a não se instalar para os estudantes um ambiente congestionado e neurotizante e, por consequência, ineficaz em seus efeitos acadêmicos e deletério do ponto de vista afetivo. Busca-se também a instauração de núcleos de consolidação através de itens estruturais como os projetos de extensão curricular.
+
+
+
+
+
+Pelo terceiro preceito, o Curso reforça a intenção de prover formação de alto nível, nunca esgotando a expectativa do conhecimento, evidenciando-se como início de um processo que deve continuar por toda a vida do egresso, através da pós-graduação ou do compromisso de permanente aperfeiçoamento em qualquer ambiente de inserção profissional ou acadêmica, onde só terá sentido se fizer uma diferença contributiva e responsável. Assim, as escolhas e o peso do conteúdo suportam o rigor acadêmico e a credibilidade institucional, negando o 'aligeiramento' e a facilidade inócua.
+
+Pelo quarto preceito, adotamos o regime anual seriado, pela coesão que proporciona no estabelecimento de um Curso como um grupo de trabalho que visa o desenvolvimento de um projeto de formação coletiva. Igualmente, se valoriza o engajamento na pesquisa e na extensão, através da pontuação de atividades complementares.
+
+6 Organização curricular consolidada
+
+6.1 Estrutura Curricular:
+
+Concepção e princípios gerais (ideias básicas da organização curricular, incluindo o enquadramento no regime adequado -seriado ou de matrícula por disciplina ou outro regulamentado)
+
+Linhas gerais
+
+As tecnologias digitais de informação e comunicação vêm reestruturar os processos de negócios e vêm revolucionando a maneira como as empresas se estruturam. A tecnologia da informação nas organizações oferece suporte para geração de valor, economia de recursos e incremento de produtividade. O profissional de Sistemas de Informação deve dominar a tecnologia em si e perceber a dinâmica social e organizacional das transformações induzidas pela tecnologia. Ele deve, portanto, ser capaz de criar produtos tecnológicos, mas, além disso, remodelar os próprios processos empresariais. Sistemas de informação são objetos complexos, de componentes em diversas dimensões: hardware , software , dados, pessoas e procedimentos, com o que seu entendimento, projeto, otimização e a resolução de problemas envolvidos exigem uma segura visão multidisciplinar. O especialista deve ter habilidades gerenciais a serem adquiridas no âmbito da Computação em conjunto com o da Administração. O curso de Bacharelado em Sistemas de Informação busca oferecer uma significativa formação em Computação, integrando conhecimentos das áreas de Ciências Exatas e Ciências Sociais Aplicadas, para construção do perfil esboçado acima.
+
+
+
+
+
+Regime acadêmico
+
+O regime acadêmico adotado é o anual seriado.
+
+Recorte curricular
+
+A estrutura do Curso organiza-se em torno de três espaços: formação básica, formação tecnológica e formação complementar. A formação básica reúne da área de ciências exatas aquilo que é contributivo para o perfil proposto. No caso, disciplinas de introdução à Computação e Matemática. A formação tecnológica reúne os aspectos específicos da profissionalização pretendida, tendo o foco maior na Computação como atividade meio e na Ciência da Informação, além de Administração e Economia. A formação complementar contempla aspectos diversos de educação em nível superior.
+
+Flexibilização
+
+Adota-se um mecanismo de flexibilidade curricular baseado no conceito de disciplina eletiva , um conjunto de disciplinas optativas do qual o aluno é livre para escolher quais deseja fazer, desde que cumpra uma carga horária mínima nessa composição. No nosso caso, especifica-se que o aluno deve cursar no mínimo 120 horas.
+
+Adota-se ao longo do curso a obrigatoriedade da extensão curricular através da inserção de projetos de extensão como um componente curricular. Os estudantes poderão escolher participar de projetos que atendam a comunidade e ajudem a desenvolver suas habilidades necessárias à profissão. Os projetos oferecem maior flexibilização, porque além de escolher dentre diversos projetos oferecidos, o estudante poderá exercer diferentes tarefas, personalizando sua formação. Além disso, a participação em projetos promove o exercício prático de modo interdisciplinar, na forma de resolução de problemas complexos.
+
+O aluno deve cursar pelo menos 315 hs de extensão para integralizar o curso, podendo cursar até 50% (157hs) em programas e projetos de outras unidades e/ou instituições. É de responsabilidade do aluno procurar os professores para a vinculação aos programas/projetos.
+
+O componente de projetos de extensão também atende a Resolução no 07/2018 do CNE/CES e a Resolução COEPEA/FURG No 29, de 25 de março de 2022, que estabelece as normas da curricularização da extensão.
+
+
+
+
+
+6.2 Quadro de Sequência Lógica
+
+| Resumo da Carga Horária  Disciplinas Obrigatórias (em azul)  2625 hs  Disciplinas Optativas (em amarelo)  mínimo 120hs  Projetos de extensão  315hs  Atividades complementares  45hs  Disciplinas EaD  (com nome em negrito)  540hs   |
+|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+
+
+
+
+
+
+
+
+
+6.3 São CRIADAS e INCLUÍDAS NO QUADRO DO CURSO as seguintes disciplinas:
+
+Nome:
+
+Matemática Discreta
+
+Código:
+
+1252
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+90hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 6
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Discreto vs. contínuo. Papel das estruturas discretas em computação. Funções. Relações. Conjuntos. Provas e mecanismos de provas formais: construção, contradição, indução. Definições recursivas. Lógica proposicional. Lógica de predicados. Álgebra booleana. Análise combinatória básica. Grafos e árvores.
+
+Nome:
+
+Algoritmos e Estruturas de Dados I
+
+Código:
+
+23084
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+180hs
+
+Carga Horária Semanal:
+
+6hs
+
+Créditos
+
+12
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Hardware e software. Noções básicas de arquitetura e organização de computadores. Formas de representação de algoritmos: pseudocódigo e fluxogramas. Constantes, variáveis e expressões. Tipos de dados: primitivos e do usuário. Estruturas de dados básicas: arranjos e registros. Entrada e saída. Estruturas de controle de fluxo. Operadores lógicos, relacionais e aritméticos. Modularização. Funções e procedimentos. Passagem de parâmetros. Manipulação de cadeias de caracteres. Recursão. Arquivos de registros e de texto. Ponteiros e alocação dinâmica de memória. Noções de tipos abstratos de dados.
+
+Nome:
+
+Inglês Instrumental: Leitura
+
+Código:
+
+6387
+
+Unidade:
+
+ILA
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+
+
+
+
+Ementa:
+
+Estudo de textos, conteúdo, estruturas fundamentais da língua. Redação. Interpretação de textos. Textos. Exercícios estruturais. Elementos de gramática.
+
+Nome:
+
+LIBRAS I
+
+Código:
+
+6497
+
+Unidade:
+
+ILA
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Fundamentos linguísticos e culturais da Língua Brasileira de Sinais - Libras. Desenvolvimento de habilidades básicas expressivas e receptivas em Libras para promover a comunicação entre seus usuários. Introdução aos Estudos Surdos.
+
+Nome:
+
+Inglês Instrumental: Expressão Oral
+
+Código:
+
+6388
+
+Unidade:
+
+ILA
+
+Localização QSL:
+
+2o Semestre da 1a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+
+
+
+
+Estudos de textos técnicos-científicos. Redação. Interpretação de textos. Tradução. Resumos. Précis. Elementos de gramática.
+
+Nome:
+
+LIBRAS II Código:
+
+6498
+
+Unidade:
+
+ILA
+
+Localização QSL:
+
+2o Semestre da 1a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+A Língua Brasileira de Sinais - Libras: características básicas da fonologia. Emprego das Libras em situações discursivas formais:vocabulário, morfologia, sintaxe e semântica. Prática do uso de Libras em situações discursivas mais formais.
+
+Nome:
+
+Algoritmos e Estruturas de Dados II
+
+Código:
+
+23085
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 2a Série
+
+Carga Horária Total:
+
+180hs
+
+Carga Horária Semanal:
+
+6hs
+
+Créditos 12
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Abstração. Tipos abstratos de dados. Recursão. Listas. Pilhas. Filas. Tabelas de dispersão. Árvores. Noções formais de algoritmos. Notação assintótica. Análise de custo: tempo e espaço. Solução de recorrências. Teorema Mestre. Árvores Binárias de Pesquisa. Grafos: representação, busca, árvore geradora mínima e menores caminhos. Pesquisa e ordenação. Técnicas para construção de algoritmos: divisão e conquista, algoritmos gulosos, programação dinâmica, backtracking. Algoritmos de busca de aproximação. Teoria da complexidade: classes de problemas.
+
+Nome:
+
+Arquitetura e Organização de Computadores
+
+Código:
+
+23152
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 2a Série
+
+Carga Horária Total:
+
+120hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 8
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+
+
+
+
+Representação de Dados, Sistemas de Numeração e Aritmética Computacional. Organização Básica da CPU, Memórias, Hierarquia de Memórias, Sistemas de Barramentos e E/S. Caminho de Dados e Unidade de Controle, Controles Monociclo, Multiciclo e Microprogramado. Métodos para Desempenho, Cache, Pipeline, Superescalaridade e Noções de Organizações Paralelas. Arquitetura de Computadores, Conjunto e Formato de Instruções e Modos de Endereçamento. Arquiteturas RISC e CISC e Arquiteturas Híbridas. Linguagens de Máquina e Programação em Linguagem de Montagem.
+
+Nome:
+
+Economia
+
+Código:
+
+7067
+
+Unidade:
+
+ICEAC
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Noções de economia. Elasticidade. Teoria da produção. Custos de produção. Engenharia Econômica. Equivalência. Comparação entre alternativas de investimento. Substituição de equipamentos.
+
+Nome:
+
+Sistemas Operacionais
+
+Código:
+
+23088
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 3a Série
+
+Carga Horária Total:
+
+120hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 8
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+
+
+
+
+Fundamentos e estrutura dos sistemas operacionais. Gerenciamento de processos: processos, threads, sincronização, escalonamento e impasses. Gerenciamento de memória: memória principal e virtual. Gerenciamento do armazenamento: sistemas de arquivos e sistemas de entrada e saída. Segurança de sistemas operacionais.
+
+Nome:
+
+Linguagens de Programação
+
+Código:
+
+23090
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 2a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Classes e gerações de linguagens. Compilação, interpretação e montagem. Qualidades de linguagens e o desenvolvimento de software. Alcance e amarração. Passagem de parâmetros. Ponteiros. Classes de memória. Sistemas de Tipos. Paradigmas de programação: imperativo, funcional, lógico e orientado a objeto.
+
+Nome:
+
+Projeto e Desenvolvimento de Software I
+
+Código:
+
+23096
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 3a Série
+
+Carga Horária Total:
+
+120hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 8
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Interfaces e arquiteturas de SGBD. Independência de dados. Modelagem de dados. Integridade. Linguagens de manipulação e consulta. Projeto de banco de dados. Modelagem de sistemas de informação. Conectividade com banco de dados.
+
+Nome:
+
+Redes de Computadores
+
+Código:
+
+23089
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 3a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+
+
+
+
+Fundamentos de redes de computadores. Modelos de referência e suas camadas. Protocolos. Segurança de redes. Gerenciamento de redes.
+
+Nome:
+
+Gerenciamento de Empresas
+
+Código:
+
+7167
+
+Unidade:
+
+ICEAC
+
+Localização QSL:
+
+1o Semestre da 3a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária Semanal:
+
+2hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Princípios de planejamento estratégico. Noções de organização e métodos. Fundamentos de marketing. Filosofia da qualidade total. Mecanismos e procedimentos para criação de empresas. Gerência de empreendimentos em computação: aspectos específicos.
+
+Nome:
+
+Fundamentos de Administração
+
+Código:
+
+7355
+
+Unidade:
+
+ICEAC
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Administração como ciência. Contexto histórico e o surgimento da Teoria da Administração. As organizações como objeto da Administração. Enfoques teóricos da Administração. Funções de Administrador.
+
+Nome:
+
+Sistemas Inteligentes
+
+Código:
+
+23045
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+90hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 6
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Anual
+
+
+
+
+
+Ementa:
+
+Conceituação e histórico. Áreas de estudo da IA. Métodos de busca. Representação do conhecimento. Aplicações: jogos, sistemas especialistas. Planejamento. Redes neurais. Raciocínio e conhecimento sob incerteza. Inteligência artificial probabilística: inferência bayesiana, métodos estocásticos. Aprendizado de máquina. Computação evolutiva. Agentes inteligentes. Estado da arte e perspectivas. Aspectos filosóficos.
+
+Nome:
+
+Sistemas Distribuídos
+
+Código:
+
+23098
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+120hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 8
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Anual
+
+Ementa:
+
+Fundamentos de sistemas distribuídos. Modelos de computação distribuída. Comunicação. Nomeação. Sincronização. Replicação. Consistência. Transações. Tolerância a falhas em sistemas distribuídos. Segurança de sistemas distribuídos.
+
+Nome:
+
+Sistemas para Internet II
+
+Código:
+
+23039
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 3a Série
+
+Carga Horária Total:
+
+90hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 6
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+
+
+
+
+Ementa:
+
+Programação PHP. Programação Javascript. Técnicas de desenvolvimento de aplicativos em rede:carga assíncrona, modelagem de documentos. Portabilidade entre navegadores. Abordagem de ferramentas conceituais como AJAX, DOM, XML, CSS e outros.
+
+Nome:
+
+Transformação Digital - EAD
+
+Código:
+
+23159
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos:
+
+3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Escopo da inovação tecnológica. Cenários futuros e novos modelos de negócio. O papel da Tecnologia da Informação (TI) na transformação digital. Reengenharia de processos de negócios. O uso da TI como arma competitiva e de alavancagem de negócios. Alinhamento estratégico de TI. Estruturação da área de TI.
+
+Nome:
+
+Visualização de Informação - EAD
+
+Código:
+
+23160
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos:
+
+3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Introdução à visualização de informação e suas aplicações. Representações gráficas e interativas de dados multidimensionais. Aspectos de interação humano-computador. Visualização científica. Programação de sistemas baseados em visualização de informação.
+
+Nome:
+
+Métodos de Autenticação e Segurança em Redes - EaD
+
+Código:
+
+23161
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos:
+
+3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+
+
+
+
+Ementa:
+
+Mecanismos e terminologia de métodos de autenticação em sistemas e redes de computadores. Métodos de autenticação: senhas, tecnologias de senhas descartáveis (one-time password), smart cards, biometria. Processo de autenticação e suas falhas. Deteção de intrusão baseada em assinaturas e em anomalias. Implementação de um caso real baseado em dataset offline.
+
+Nome:
+
+Sistemas Corporativos I
+
+Código:
+
+23092
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 2a Série
+
+Carga Horária Total:
+
+120hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos:
+
+8
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Gestão de Tecnologia da Informação. Portais corporativos. Sistemas colaborativos. Comércio eletrônico. Serviços e tecnologias móveis.
+
+Nome:
+
+Sistemas Corporativos II
+
+Código:
+
+23093
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 3a Série
+
+Carga Horária Total:
+
+120hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos:
+
+8
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+
+
+
+
+Sistemas integrados de gestão e interorganizacionais. Modelagem de workflows. Simulação e otimização de processos. Gestão do conhecimento. Inteligência de Negócio. Planejamento de TI.
+
+Nome:
+
+Projeto e Desenvolvimento de Software 2 - EAD
+
+Código:
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+90hs
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos:
+
+6
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Gerenciamento de projetos de software. Engenharia de requisitos. Metodologias de desenvolvimento de software. Projeto de software: princípios, paradigmas e padrões. Validação e verificação de sistemas: métodos formais e teste de software.
+
+Nome:
+
+Interfaces Humano-Computador
+
+Código:
+
+23043
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 1a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos:
+
+3
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Princípios de interação homem-máquina. Fatores humanos na comunicação. Estilos interativos. Modelagem do usuário. Modelagem da interação. Projeto de diálogos. Usabilidade. Interfaces: padronização, metodologias de projeto, técnicas de avaliação.
+
+Nome:
+
+Sistemas Gerenciadores de Banco de Dados
+
+Código:
+
+23094
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 3a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos:
+
+3
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+
+
+
+
+Ementa:
+
+Implementação de SGBDs. Projeto físico de BD. Mecanismos de indexação e busca. Processamento e otimização de consultas. Processamento de transações. Controle de concorrência. Recuperação. Distribuição de dados.
+
+Nome:
+
+Tópicos em Sistemas para Internet - EAD
+
+Código:
+
+23156
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Tecnologias em sistemas para Internet e suas aplicações.
+
+Nome:
+
+Tópicos em Sistemas de Informação I - EAD
+
+Código:
+
+23171
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Seminários ou preleções, oficinas ou programas de estudo ou pesquisa, enquadramento de atividades diversas de valor acadêmico e didático em Computação ou aplicações, relacionados com: inovações tecnológicas, resultados de pesquisas de vanguarda; aplicações específicas ou aprofundamento na área de Sistemas de Informação.
+
+Nome:
+
+Descoberta de Conhecimento em Bancos de Dados
+
+Código:
+
+23155
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+
+
+
+
+Ementa:
+
+Fases do processo de descoberta de conhecimento em bancos de dados. Técnicas de pré-processamento e transformação de dados. Tarefas de mineração de dados: associação, classificação, regressão e agrupamento. Validação de modelos e interpretação de resultados.
+
+Nome:
+
+Projeto de Graduação em Sistemas de Informação - EAD
+
+Código:
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+90hs
+
+Carga Horária de Ensino a Distância:
+
+90hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Desenvolvimento de trabalho acadêmico: ênfase em abordagem científica. Atividades de pesquisa e desenvolvimento de projetos em Sistemas de Informação. Exercício e fixação de conteúdos de modo integrado. Estudo e aplicação de metodologias de pesquisa e normas de redação de trabalho científico. Preparativos gerais para realização do trabalho proposto. Implementação do projeto proposto (quando possível). Produção e apresentação de monografia (e relatório técnico, quando couber). Avaliação em sessão de apresentação frente a banca.
+
+Nome:
+
+Propriedade Intelectual e Empreendedorismo em Tecnologia da Informação
+
+Código:
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância: 45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+
+
+
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Propriedade Intelectual. Lei Geral de Proteção de Dados. Ética em Tecnologia da Informação. Empreendedorismo Tecnológico. Ambientes de Inovação. Negociação e Transferência de Tecnologia
+
+Nome:
+
+Tópicos em Sistemas de Informação II - EAD
+
+Código:
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+45hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Tecnologias, modelos e aplicações avançadas em sistemas de informação.
+
+Disciplina:
+
+Linguagens Formais e Autômatos
+
+Unidade
+
+: Centro de Ciências Computacionais - C3
+
+Código:
+
+Duração:
+
+Anual
+
+Tipo:
+
+Obrigatória
+
+Localização no QSL:
+
+2 a série
+
+Carga horária total:
+
+90h
+
+Carga horária semanal:
+
+3h
+
+Créditos:
+
+6
+
+Sistema de avaliação: I
+
+Ementa:
+
+
+
+
+
+Linguagens regulares. Gramáticas lineares. Gramáticas regulares. Autômatos finitos determinísticos e não determinísticos. Linguagens livres de contexto. Gramáticas livres de contexto. Árvores de derivação. Autômatos com pilha. Máquina de Turing. Linguagens recursivas e recursivamente enumeráveis. Gramáticas irrestritas. Hierarquia de Chomsky e hierarquia de Chomsky estendida.
+
+Nome:
+
+Sistemas para Internet I
+
+Código:
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+90hs
+
+Carga Horária Semanal:
+
+3hs
+
+Créditos:
+
+6
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+Ementa:
+
+Modelos conceituais de redes de computadores. Aspectos históricos e tendências da Internet. A Web. Navegadores. Construção e disponibilização de conteúdo para a Internet: hipertexto, script. Sistemas interativos em rede. Linguagens de programação para a Internet. Projeto gráfico para Internet.
+
+Nome:
+
+Teoria Geral da Administração
+
+Código:
+
+07239
+
+Unidade:
+
+ICEAC
+
+Localização QSL:
+
+2o Semestre da 1a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Evolução da teoria da administração. Eficiência organizacional como variável dependente. Princípios administrativos. Administração da produção. Administração mercadológica. Administração do pessoal. Administração financeira. Controle de desempenho total do planejamento global. Relatórios. Demonstrativos quantitativos. Testes por comparação. Análise de dados. Bases estruturais.
+
+Nome:
+
+Gestão da Informação nas Organizações
+
+Código:
+
+07313
+
+Unidade:
+
+ICEAC
+
+Localização QSL:
+
+1o Semestre da 2a Série
+
+Carga Horária Total:
+
+90hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 6
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Anual
+
+
+
+
+
+Ementa:
+
+Dado, informação e conhecimento. Tipos de Sistemas de Informação (SI): Sistema de Informação Gerencial (SIG), Sistemas de Apoio à Decisão (SAD e SADG Grupos), Sistemas de Informação para Executivos (EIS), Sistemas Especialistas (SE), Inteligência Artificial (IA) e Sistemas Transacionais. Vantagens competitivas dos SI. Colaboração e cooperação num ambiente em rede. Sistemas de Informação de Marketing (SIM). Inteligência em negócios. Sistemas Integrados (ERP) - SAP, Baan e outros. Comércio eletrônico. Projetos em SI. A organização na Era da Informação. Informação e tecnologia: política, administração, estratégia, gerenciamento e gestão, análise e avaliação.
+
+Nome:
+
+Elementos de Custo
+
+Código:
+
+07114
+
+Unidade:
+
+ICEAC
+
+Localização QSL:
+
+2o Semestre da 2a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Introdução ao estudo dos elementos de custos; Custos de Produção; Sistemas de Custeio; Gestão estratégica de custos; Custos de Qualidade.
+
+Disciplina:
+
+Governança de TI
+
+Unidade
+
+: ICEAC
+
+Código:
+
+07373
+
+Duração:
+
+Semestral
+
+Caráter:
+
+Optativa
+
+Localização no QSL:
+
+4 a série / 2º semestre
+
+Carga horária total: 45h
+
+Carga horária semanal: 3h
+
+Créditos: 3
+
+Sistema de avaliação: I
+
+Pré-requisito:
+
+Nenhum
+
+Ementa :
+
+
+
+
+
+Teorias de base. Governança corporativa. Governança de TI: conceitos e definições. Principais mecanismos e práticas: comitês e frameworks. Qualidade e modelos de maturidade. TI verde.
+
+Nome:
+
+Matemática I
+
+Código:
+
+01460
+
+Unidade:
+
+IMEF
+
+Localização QSL:
+
+2o Semestre da 1a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Matrizes. Determinantes. Sistemas de Equações Lineares. Espaço vetorial. Transformações lineares. Autovalores e autovetores.
+
+Nome:
+
+EDUC. FISICA - ALONGAMENTO
+
+Código:
+
+09354
+
+Unidade:
+
+IE
+
+Localização QSL:
+
+1o Semestre da 2a Série
+
+Carga Horária Total:
+
+30hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+2hs
+
+Créditos 2
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+
+
+
+
+Ementa:
+
+Desenvolvimento da flexibilidade e fortalecimento muscular. Beneficiamento da coluna vertebral. Aumento da propriocepção (conhecimento do próprio corpo). Melhoria da consciência corporal, coordenação motora e alongamento muscular. Aumento da qualidade de vida. Aumento da vitalidade, energia e condição geral do organismo. Relaxamento muscular.
+
+Nome:
+
+EDUC. FISICA - MUSCULAÇÃO
+
+Código:
+
+09360
+
+Unidade:
+
+IE
+
+Localização QSL:
+
+2o Semestre da 2a Série
+
+Carga Horária Total:
+
+30hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+2hs
+
+Créditos 2
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Vivenciar e experimentar a prática da musculação com ênfase na autonomia na saúde e nas relações interpessoais.
+
+Nome:
+
+História da Cultura Afro-Brasileira e Indígena
+
+Código:
+
+10653
+
+Unidade:
+
+ICHI
+
+Localização QSL:
+
+1o Semestre da 1a Série
+
+Carga Horária Total:
+
+30hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+2hs
+
+Créditos 2
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+
+
+
+
+As matrizes africanas e indígenas da cultura brasileira. História e memória da população afro-brasileira. A diversidade cultural presente nas línguas, religiões, artes e literatura. O legado cultural dos povos guaranis e quilombolas: sincretismo e miscigenação.
+
+Nome:
+
+Análise Exploratória de Dados
+
+Código:
+
+01374
+
+Unidade:
+
+IMEF
+
+Localização QSL:
+
+2o Semestre da 2a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Fases de um trabalho estatístico. Estudos experimentais e observacionais. Noções sobre métodos de amostragem. Dados qualitativos e quantitativos. Distribuição de frequência. Medidas de tendência central. Medidas de dispersão. Medidas de assimetria e curtose. Medidas separatrizes. Representação gráfica de dados unidimensionais e bidimensionais.
+
+Nome:
+
+Teoria da Probabilidade
+
+Código:
+
+01375
+
+Unidade:
+
+IMEF
+
+Localização QSL:
+
+1o Semestre da 3a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+
+
+
+
+Conceituação clássica, frequentista e como lógica dedutiva. Propriedades fundamentais. Probabilidades condicionais e o conceito de independência. Variáveis aleatórias discretas e contínuas. Cálculo dos momentos de variáveis aleatórias. Modelos probabilísticos discretos: binomial, geométrico, hipergeométrico, Poisson e binomial-negativo. Modelos probabilísticos contínuos: uniforme, normal, exponencial, beta e gama. Noções de confiabilidade.
+
+Nome
+
+: Inferência Estatística
+
+Código:
+
+01219
+
+Unidade:
+
+IMEF
+
+Localização QSL:
+
+2o Semestre da 3a Série
+
+Carga Horária Total:
+
+60hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+4hs
+
+Créditos 4
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Tipo:
+
+Obrigatória
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Distribuições amostrais para proporção, média e desvio padrão. Características de estimadores: vício, consistência e eficiência. Noções sobre estimação de máxima verossimilhança. Intervalos de Confiança. Testes de Hipóteses. Comparação entre proporções, médias e variâncias de duas populações. Análise de Variância de um e de dois fatores. Correlação e Regressão linear simples. Noções de controle estatístico de qualidade.
+
+Nome:
+
+Tópicos Avançados em Sistemas de Informação I
+
+Código:
+
+23125
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+2hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+
+
+
+
+Estudo de temas do estado da arte em sistemas de informação.
+
+Nome:
+
+Tópicos Avançados em Sistemas de Informação II
+
+Código:
+
+23126
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+Carga Horária Semanal:
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Estudo de temas do estado da arte em sistemas de informação.
+
+Nome:
+
+Tópicos Avançados em Sistemas de Informação III
+
+Código:
+
+23127
+
+Unidade:
+
+C3
+
+Localização QSL:
+
+2o Semestre da 4a Série
+
+Carga Horária Total:
+
+45hs
+
+Carga Horária de Ensino a Distância:
+
+0s
+
+Carga Horária Semanal:
+
+2hs
+
+Créditos 3
+
+Tipo:
+
+Optativa
+
+Duração:
+
+Semestral
+
+Ementa:
+
+Estudo de temas do estado da arte em sistemas de informação.
+
+6.4 Disciplinas Eletivas
+
+São entendidas como eletivas as disciplinas que perfazem um conjunto de formação complementar relacionadas ao curso e à sua formação. Deve ser cursada de modo a cumprir a carga horária mínima de 120 horas preconizada para o Curso.
+
+6.5 Atividades Complementares
+
+2hs
+
+0s Os alunos, para integralização do Curso, deverão alcançar um mínimo de 45 pontos em atividades complementares, a seguir descritas:
+
+
+
+
+
+- Participação como bolsista em projeto de iniciação científica, desenvolvendo trabalho na área de Computação: 40 pontos /ano;
+- Monitoria de disciplina da área de Computação: 20 pontos/ano;
+- Trabalho como bolsista de trabalho da FURG, desde que desenvolvendo atividades na área de Computação: 20 pontos/ano;
+- Participação em evento científico da área de Computação, não local, como palestrante/apresentador de trabalho científico: 30 pontos/trabalho; como ouvinte/congressista: 10 pontos/evento;
+- Idem, local, comopalestrante/apresentador de trabalho científico: 15 pontos/trabalho; como ouvinte/congressista: 5 pontos/evento;
+- Trabalho publicado sem apresentação ou em co-autoria, não tendo sido o apresentador: 10 pontos/trabalho;
+- Participação por um ano letivo completo, pelo menos, como membro regular (inscrito e ativo) de um Grupo de Interesse no âmbito do Curso: 30 pontos/Grupo de Interesse, não acumulável no mesmo grupo;
+- Outras atividades: a critério da Coordenação de Curso poderão ser discriminadas atividades complementares adicionais a estas, bem como poderão ser reconhecidas outras atividades dos alunos.
+
+As participações como bolsista de IC ou de Grupo de Interesse serão comprovadas por declaração dos respectivos professores orientadores. Os demais itens serão comprovados pelos documentos emitidos pelas respectivas unidades acadêmicas ou administrativas ou entidades ou órgãos promotores.
+
+6.6 Estágio Curricular
+
+O Estágio Curricular Supervisionado visa dar condições ao aluno de desenvolver atividades na área em uma sede de estágio compatível com os objetivos gerais acima explicitados e permitir a verificação do grau de aproveitamento tido pelo aluno em relação ao currículo do Curso visto em termos globais, na medida em que tenha chance de aplicar seus conhecimentos, de forma integrada e em campo profissional real.
+
+O estágio deve se realizar através de acordos ou convênios firmados com empresas ou instituições caracterizadas como sedes de estágio, as quais devem atender as condições legais exigidas para o seu desenvolvimento, ou seja, que tenham condições de proporcionar experiência prática na linha de formação, além de celebrar acordo de cooperação com a Universidade e assinar termo de compromisso com o estagiário. O estágio pode acontecer inclusive com a cooperação dos ditos agentes de integração escola-empresa. Em nenhuma hipótese o estágio caracterizará vínculo empregatício, servindo o acordo de cooperação e o termo de compromisso como documentos comprobatórios da situação do estagiário diante da Justiça do Trabalho. Caso o estágio se realize em algum órgão ou setor da FURG, fica dispensado o Acordo de Cooperação.
+
+
+
+
+
+Sedes
+
+Entendem-se como sedes os locais de realização dos estágios: empresas públicas, privadas, mistas, autarquias; órgãos e setores da própria Universidade onde se possa desenvolver projetos de implementação viável e dentro do espírito do estágio curricular.
+
+Recursos humanos
+
+Para implementação da disciplina são necessários: a) Supervisor: um para cada estagiário; deve ser docente da FURG, com atuação na área de Computação; b) Orientador: um para cada estagiário; deve ser um técnico na empresa ou setor da Universidade onde se dará o estágio, aprovado pela Comissão de Curso. c) Recursos materiais: constituem-se nas instalações e equipamentos da sede do estágio.
+
+Supervisor
+
+São atribuições do supervisor: auxiliar o aluno na elaboração do plano de estágio, aprovar ou propor alterações necessárias no mesmo, supervisionar e orientar as atividades de estágio em todas as atividades envolvidas, conforme o plano de estágio estabelecido, atribuir o grau final, manter o coordenador informado sobre o andamento das atividades do estágio, auxiliar o coordenador no cadastramento e avaliação das sedes de estágio.
+
+Orientador
+
+São atribuições do orientador: participar da elaboração do plano de estágio, assistir o estagiário no desenvolvimento efetivo das atividades previstas, informar o supervisor sobre a situação do estagiário (quando solicitado), opinar sobre o desempenho do estagiário, prover o parecer final no formato definido pela Comissão de Curso.
+
+A seguinte programação deve ser cumprida durante a disciplina:
+
+- a) Planejamento : atividade preliminar da qual resultará o plano de estágio. O plano de estágio deve ser elaborado pelo estagiário, em acordo com o supervisor e o orientador, seguindo o formato estabelecido pela Comissão de Curso.
+- b) Estágio propriamente dito: no mínimo 180 horas para consecução de atividades
+
+
+
+
+
+diretamente relacionadas com a tarefa em desenvolvimento na sede do estágio.
+
+- c) Relatório : deve conter um registro da experiência pré-profissional, fundamentada em pressupostos técnicos e científicos. Deve incluir conclusões e sugestões refletindo o conhecimento que o estagiário possui na(s) área(s) objeto do estágio.
+
+Regime escolar
+
+- a) O Estágio Curricular se insere numa disciplina anual no 4º ano do Curso.
+- b) Adota-se como mínima a percentagem regimental (75%), mas submetida às exigências da sede do estágio.
+- c) As disciplinas são do Sistema II, e a nota será atribuída pelo supervisor a partir de: análise do desempenho do estagiário, com base em parecer do orientador (ficha de avaliação), no relatório apresentado e em visita de supervisão.
+
+6.7 Projeto de Graduação
+
+A disciplina de Projeto de Graduação fica sob a responsabilidade de um professor coordenador.
+
+O Projeto de Graduação tem como objetivo levar o estudante ao exercício e à fixação de conceitos hauridos ao longo do curso, oportunizando atividades de pesquisa e desenvolvimento de projetos em Sistemas de Informação. Pode envolver um projeto de sistema de computação ou um trabalho teórico, com o fito de exercitar e fixar conteúdos de modo integrado; conhecer e aplicar metodologias de pesquisa e normas de redação de trabalho formal; permitir a avaliação do desempenho do(s) aluno(s) a partir de uma tarefa de integração de conteúdos.
+
+Trabalhos teóricos devem possuir aplicabilidade imediata em alguma situação real do campo de trabalho do bacharel em Sistemas de Informação, isto é, apresentando uma solução concreta para um problema da sua alçada. As implementações de software seguirão os princípios e preceitos da Engenharia de Software .
+
+O Projeto pode ser desenvolvido individualmente ou em grupo de até 3 (três) alunos. Cada Projeto de Graduação tem um professor orientador, o qual deve pertencer ao corpo docente da FURG. Aceita-se (a critério da Comissão de Curso) um co-orientador, que deverá ser um profissional de nível superior com formação adequada para acompanhar a realização do trabalho. O processo todo é documentado formalmente, como um trabalho científico, incluindo-se aí os fundamentos teóricos que embasaram a solução.
+
+
+
+
+
+A disciplina tem carga horária de 90 horas (3 horas-aulas por semana), a qual é preenchida pelas reuniões de orientação mais as reuniões especiais promovidas pela coordenação da disciplina, mais tempo de trabalho dedicado pelo estudante ao seu projeto. Do total exige-se 75% de frequência às reuniões de orientação, conforme o cronograma proposto (controle feito pelo Orientador), bem como às reuniões especiais convocadas pelo coordenador da disciplina.
+
+Ao final do trabalho, devem ser apresentados:
+
+- a) monografia, com revisão bibliográfica, fundamentação teórica necessária, relato das atividades de campo efetuadas, as técnicas e ferramentas adotadas, dificuldades encontradas e como foram resolvidas, descrição da solução em seus fundamentos lógicos e do sistema produzido, em linhas gerais, sugestões de continuidade e melhoria do trabalho, uma avaliação do trabalho quanto à contribuição para a formação do(s) aluno(s) e uma bibliografia adequadamente referida;
+- b) demais documentos, como diagramas analíticos diversos, listagens, formulários, telas e relatórios, Manual de Referência, Manual do Programador;
+- c) cópia do sistema.
+- d) Há uma apresentação final pública do trabalho diante de uma banca examinadora, com a participação de todos os elementos do grupo. A banca é composta preferencialmente de professores da FURG, identificados com a área de Computação ou com a área de aplicação do trabalho, incluindo o orientador (presidente), um professor indicado pela Coordenação da disciplina e um professor indicado pelo estudante (ou grupo). Será aceito no máximo um membro da banca examinadora de fora da FURG.
+
+Casos omissos são resolvidos, sucessivamente, em níveis de competência, pelo orientador, pelo coordenador da disciplina, pelo coordenador do Curso, pela direção da Unidade, por conselhos superiores da Universidade.
+
+6.8 Extensão Curricular
+
+Atividades de extensão são ações que têm como objetivo levar o conhecimento acadêmico produzido para a sociedade em geral, por meio de projetos, programas e cursos de extensão.
+
+Essas atividades têm como propósito a promoção da interação entre a instituição de ensino e a comunidade, buscando soluções para problemas sociais, culturais e econômicos. As atividades de extensão podem ser realizadas de diversas formas, como cursos, palestras, consultorias, projetos, entre outros.
+
+
+
+
+
+Essas atividades são importantes porque permitem que a comunidade tenha acesso ao conhecimento produzido na universidade e que esse conhecimento possa ser aplicado em benefício da sociedade. Além disso, a participação dos estudantes nesses projetos permite que eles adquiram experiência prática e desenvolvam habilidades importantes para sua formação acadêmica e profissional, como liderança, trabalho em equipe e capacidade de resolução de problemas.
+
+As atividades de extensão universitária são importantes para a sociedade em diversos aspectos. Algumas das principais contribuições são:
+
+- Promoção do conhecimento: As atividades de extensão universitária permitem que o conhecimento produzido nas universidades seja divulgado e aplicado em benefício da sociedade, contribuindo para a promoção do desenvolvimento social, cultural e econômico.
+- Formação cidadã: As atividades de extensão permitem que os estudantes participem de ações que visam resolver problemas sociais, desenvolvendo um senso crítico e contribuindo para a formação de cidadãos mais conscientes e atuantes na sociedade.
+- Desenvolvimento regional: As atividades de extensão podem ser direcionadas para as necessidades locais, contribuindo para o desenvolvimento regional e para a promoção do bem-estar da população.
+- Fortalecimento da universidade: As atividades de extensão podem ser uma forma de aproximar a universidade da sociedade, contribuindo para sua legitimidade e para o fortalecimento de sua missão institucional.
+- Capacitação profissional: As atividades de extensão podem oferecer cursos e treinamentos para a capacitação profissional de estudantes e profissionais, contribuindo para sua formação e para sua inserção no mercado de trabalho.
+
+As atividades de extensão são desenvolvidas por professores, estudantes e técnicos administrativos, envolvendo a participação ativa da comunidade.
+
+De acordo com a Resolução no 07/2018 do CNE/CES e a Resolução COEPEA/FURG No 29, de 25 de março de 2022, que estabelece as normas da curricularização da extensão, o curso deve oferecer pelos 10% da sua carga horária total como atividades de extensão.
+
+A curricularização da extensão é uma prática que busca integrar as atividades de extensão ao currículo acadêmico dos cursos de graduação. Isso significa que as atividades de extensão são reconhecidas como componentes curriculares, sendo consideradas como parte integrante da formação acadêmica dos estudantes.
+
+Com a curricularização da extensão, as atividades de extensão passam a ser obrigatórias para a formação dos estudantes.
+
+
+
+
+
+A curricularização da extensão é importante porque permite que os estudantes tenham uma formação mais ampla e integrada, que considera não apenas o conhecimento teórico, mas também as experiências práticas. Isso contribui para a formação de profissionais mais capacitados e conscientes de seu papel social.
+
+Além disso, a curricularização da extensão contribui para a valorização das atividades de extensão dentro das instituições de ensino, fortalecendo sua importância para a sociedade e para a formação dos estudantes.
+
+O estudante do curso de Sistemas de Informação da Universidade Federal do Rio Grande deve cursar pelo menos 315 horas de extensão para integralizar o curso. A unidade acadêmica é responsável por oferecer programas e projetos de extensão para que o estudante possa cumprir todas as horas necessárias. Além disso, o estudante pode cursar até 50% (157 hs) em programas e projetos de outras unidades e/ou instituições. É de responsabilidade do estudante procurar os professores para a vinculação aos programas/projetos. No entanto, professores, coordenação e unidade irão divulgar os projetos de extensão por mural, email, EDE - Espaço de Diálogos com o Estudante, redes sociais e qualquer outro meio que seja entendido que o estudante possa ter acesso.
+
+Os projetos serão de fluxo contínuo e poderão ser divulgados em qualquer momento, permitindo assim que os estudantes se inscrevam nos projetos que acharem mais adequados a sua formação também a qualquer momento.
+
+6.9 Educação a Distância
+
+Com o propósito de permitir que os estudantes do 4º ano do curso possam realizar estágios em outros locais, fora de Rio Grande, o curso de Sistemas de Informação oferece algumas disciplinas no último ano no formato de Educação à Distância (EaD).
+
+A EaD é uma modalidade de ensino que utiliza tecnologias de informação e comunicação (TICs) para permitir que o estudante tenha acesso ao conteúdo do curso, interaja com os professores e outros estudantes e realize atividades avaliativas, tudo isso de forma remota, sem a necessidade de estar presente fisicamente em uma sala de aula.
+
+Educação à Distância pode ser realizada por meio de diferentes plataformas digitais, como vídeos, chats, fóruns de discussão, e-mails, entre outras. O estudante pode acessar o conteúdo do curso no horário que for mais conveniente para ele, desde que respeite os prazos estabelecidos para as atividades.
+
+Algumas das principais vantagens do ensino a distância são:
+
+- Flexibilidade: O estudante pode acessar o conteúdo do curso no horário que for mais conveniente para ele, conciliando seus estudos com outras atividades, como trabalho e família.
+- Acessibilidade: O ensino a distância pode ser realizado de qualquer lugar do mundo, desde que se tenha acesso à internet.
+- Autonomia: O estudante pode ter um maior controle sobre seu próprio processo de aprendizagem, tendo que assumir a responsabilidade por seu próprio ritmo e evolução.
+
+
+
+
+
+A deliberação No 111/2019 do Conselho de Ensino, Pesquisa e Extensão e Administração (COEPEA) da FURG estabelece a regulamentação da oferta de disciplinas na modalidade a distância nos cursos presenciais de graduação da FURG. Nessa deliberação fica instituído que a carga horária em Educação a distância pode compor em até 20% (vinte por cento) da carga horária total do curso.
+
+Um aspecto importante dentro da EaD é a tutoria, já que ela é uma prática fundamental para o sucesso do aprendizado do estudante. O tutor é responsável por acompanhar o estudante em seu processo de aprendizagem, esclarecer dúvidas, orientar sobre as atividades e avaliações, e motivar para que o estudante atinja seus objetivos educacionais.
+
+De acordo com o Artigo 8, parágrafo 2 da deliberação No 111/2019 do COEPEA, '.. a tutoria será exercida exclusivamente pelo(s) docente(s) que ministra(m) a disciplina' . O processo de tutoria pode trabalhar de forma síncrona, ou seja, em tempo real, através de chats e videoconferências, ou de forma assíncrona, através de e-mails e fóruns de discussão. Algumas das principais funções do tutor no EaD são:
+
+- Acompanhar o progresso do estudante e dar retorno sobre seu desempenho;
+- Estimular a participação do estudante em atividades de aprendizagem;
+- Orientar sobre as metodologias e recursos utilizados no curso;
+- Estimular a autonomia e a responsabilidade do estudante em seu próprio processo de aprendizagem;
+- Promover a interação entre os estudantes e estimular o trabalho em grupo.
+
+É importante ressaltar que o corpo docente do curso já possui experiência em cursos na modalidade de EaD, porque a Universidade e a Unidade oferecem diversos cursos nesse formato via Universidade Aberta (UAB), como especialização em Aplicações para Web, Tecnologias da Informação e Comunicação na Educação e outros. A lista completa pode ser encontrada em: http://www.uab.furg.br.
+
+Além disso, a Universidade dá suporte a EaD através da SEaD (https://sead.furg.br), Secretaria de Educação à Distância, que tem como missão:
+
+'... promover políticas integradoras de inovação de metodologias e de cultura tecnológica digital para o fomento de cursos, projetos e ações, tendo como princípio a garantia da qualidade do ensino, pesquisa e extensão na convergência das diferentes modalidades de educação' .
+
+
+
+
+
+A Universidade também oferece um Ambiente Virtual de Aprendizagem, denominado hoje como AVA FURG, disponível em https://ava.furg.br. Os ambientes virtuais de aprendizagem (AVAs) são plataformas online que permitem a criação e o gerenciamento de cursos e atividades educacionais a distância. O AVA FURG oferece uma série de recursos que permitem a interação entre os estudantes e professores, bem como o acesso a materiais de ensino e a avaliações.
+
+Entre os principais recursos do AVA FURG, podemos citar:
+
+- Acesso a materiais de ensino: os estudantes podem acessar textos, vídeos, áudios e outros recursos educacionais que forem disponibilizados pelos professores;
+- Fóruns de discussão: os estudantes podem participar de discussões online com outros estudantes e professores sobre os temas abordados no curso;
+- Chat e mensagens instantâneas: os estudantes podem se comunicar em tempo real com os professores e outros estudantes;
+- Atividades avaliativas: os estudantes podem realizar atividades online, como questionários, wikis dentre outros para serem avaliados;
+- Feedback e acompanhamento: os professores podem acompanhar o desempenho dos estudantes e fornecer feedbacks individuais para cada um deles.
+
+É importante destacar também que a Universidade oferece aos docentes e discentes o MConf da RNP como ferramenta para videoconferências. Essa solução de webconferência permite interações a distância com suporte a vídeo, áudio, chat, compartilhamento de tela, treinamentos ao vivo, tutoria e/ou colaboração (https://sead.furg.br/web-conferencia/mconf-rnp).
+
+7. Infraestrutura Física
+
+O Curso de Sistemas de Informação utiliza de 4 salas de aula (com 40 lugares em cada sala) para a realização das suas atividades de ensino. As disciplinas do curso têm, em sua maioria, uma efetiva parcela experimental que consolida fundamentos teóricos, sendo assim constituídas de aulas expositivas e práticas em laboratório. As aulas práticas do curso de Sistemas de Informação estão distribuídas em laboratórios do Centro de Ciências Computacionais (C3). Uma descrição desses laboratórios é apresentada a seguir.
+
+Laboratórios do Centro de Ciências Computacionais
+
+O Centro de Ciências Computacionais conta com nove laboratórios de ensino. Destes, sete são laboratórios de informática, totalizando uma quantidade de 220 computadores com recursos de software livre colocados à disposição dos alunos.
+
+
+
+
+
+- Laboratório de Automação e Computação: este laboratório atua em PD&I nas áreas de robótica e automação inteligentes e suas aplicações voltadas principalmente à indústria naval e offshore, energia, educação e ao meio ambiente. Com área total de aproximadamente 166 m2, o laboratório apresenta diversas estruturas e plataformas robóticas e de simulação, incluindo uma frota de robôs, câmeras ópticas, térmicas, e de alta velocidade.
+
+- Laboratório de Computação Científica: dispõe de equipamentos principalmente voltados a pesquisas que envolvem Computação de Alto Desempenho. Em uma área de 34 m2, podem ser encontrados Cluster de Alto Desempenho do tipo Beowulf com 32 núcleos de processamento, 500 Gb de armazenamento ligados por uma rede Gigabit, Cluster Gráfico NVIDIA.
+- -Laboratório de Física Ambiental: Com foco na computação científica para análise de fenômenos ambientais, conta atualmente com diversas estações de trabalho, em uma área de cerca de 34 m2.
+- -Laboratório de Sistemas Multiagentes: voltado para a investigação do paradigma de sistemas de agentes e seu uso na modelagem e simulação social e ambiental. Conta com uma área de aproximadamente 34 m2, com 20 computadores, onde alunos de pós-graduação e graduação trabalham em conjunto.
+- Laboratório de Biologia Computacional: visa desenvolver e aplicar métodos estatísticos e computacionais a problemas oriundos da área de Biologia Computacional. Conta com uma dezena de computadores multiprocessados com processadores quad-core em uma área de 34 m2.
+- Laboratório de Tecnologia de Geoinformação: realiza atividades como a medida precisa de grandezas que caracterizam a superfície da Terra e os objetos que nela se apresentam, a execução de operações descritivas, lógicas, matemáticas e estatísticas envolvendo essas grandezas tendo como referencial o espaço geográfico e a representação gráfica desses espaços reais com capacidade estendida de visualização, especialmente de caráter cartográfico. O laboratório tem área aproximada de 83 m2. Conta com 14 computadores, sistemas estereoscópicos ativos, 7 Notebooks, dispositivos inerciais, mesa digitalizadora A0,
+
+
+
+
+
+câmaras fotográficas de médio formato, receptores GPS de dupla frequência e 2 viaturas.
+
+- Laboratório de Computação Flexível / Laboratório de Gerenciamento de Informações: tem como meta o desenvolvimento de teorias, modelos, técnicas, métodos e software que oferecem soluções tolerantes à subjetividade, imprecisão, incerteza, informação incompleta, parcial ou conflitante, parcialidade da verdade e parcialidade da possibilidade, que aparecem na modelagem de sistemas complexos e/ou de informação imperfeita. Desenvolve atividades de pesquisa relacionadas à coleta, extração, visualização, recuperação e recomendação de informações. Estes laboratórios compartilham o espaço físico de 45 m2, onde contam com 20 computadores, servidores, no-breaks, televisão de 55', equipamento de videoconferência profissional, impressa e tablet.
+
+- Laboratório de Tecnologias Educacionais : concentra-se em uma abordagem interdisciplinar no ensino, pesquisa e extensão, com o objetivo em aplicar e desenvolver Tecnologias de Interação e Comunicação na Educação Especial, para pessoas cegas e surdas, dentre outras áreas como, Inteligência Artificial aplicada na Educaçāo. Possui área física disponível de 34 m2, onde se encontram equipamentos instalados: 15 computadores, cinco notebooks, quatro workstations, duas servidores para armazenamento dos datasets, duas Impressoras e uma TV smart de 55' para reuniões e demais interações por videoconferência.
+
+O Bacharelado em Sistemas de Informação ainda conta com a infraestrutura do Parque Científico e Tecnológico OCEANTEC: ambiente de cooperação entre a comunidade acadêmica e iniciativas empreendedoras, visando o fortalecimento da capacidade competitiva e de inovação, gerando valor e bem-estar para a sociedade. O Parque possui uma equipe especializada na promoção do empreendedorismo e interação entre empresas e startups da Incubadora de Empresas de Base Tecnológica -INNOVATIO. O Parque acompanha a gestão de pequenas e médias empresas instaladas e realiza atividades que estimulam o network/relacionamento entre as empresas residentes e setores comerciais e industriais da cidade e região. A proximidade com a academia, pesquisa de ponta e o acesso à mão de obra altamente qualificada promove ao OCEANTEC um ambiente de inovação adequado e completo para receber empresas de todos os setores e portes.
+
+Os recursos de informática atendem plenamente às necessidades atuais do Curso. Alunos e professores têm acesso local à internet e remoto via banda larga. A rede acadêmica interconecta todos os equipamentos em alta velocidade. Todas as salas de aula possuem conexão à internet cabeada e WiFi, além de projetor multimídia.
+
+
+
+
+
+Em termos de software, os laboratórios possuem as versões mais recentes de aplicativos de uso geral, de ferramentas de acesso a informações via rede e de ambientes de desenvolvimento para as mais diversas linguagens, de softwares comerciais e industriais (por meio de licenças acadêmicas) e de softwares de origem acadêmica.
+
+A infraestrutura da Unidade Acadêmica é nova, propiciando um ambiente acolhedor aos estudantes. Salas de permanência com mobiliário novo e moderno são outro componente motivador. São diversos ambientes para laboratórios, salas de aula e salas para reuniões. Existem salas de permanência exclusivas para todos os professores, com ocupação máxima de 2 docentes por sala. O Curso ainda conta com amplo e equipado auditório para conferências e eventos presenciais ou híbridos. Estes ambientes são equipados com computador com acesso à Internet (a cabo e WiFi), projetor de alta resolução, quadros brancos, aparelho de TV de plasma/led e uma lousa eletrônica. O auditório possui climatização, equipamentos de projeção e áudio de alta qualidade e equipamentos de videoconferência, permitindo a realização de reuniões e defesas remotas sem perda da qualidade.
+
+8. Acompanhamento e avaliação
+
+Previsto em seu projeto inicial, o projeto pedagógico do curso de Sistemas de Informação, deve passar por um processo de revisão e atualização constante. Os procedimentos de avaliação do PPC do curso, e de todos os demais aspectos relacionados a sua execução, encontram respaldo institucional no PPI da FURG, onde se estabelece entre seus princípios norteadores:
+
+'...um currículo entendido como processo formativo, dinâmico e em permanente movimento, permitindo que a ação educativa da Universidade incorpore outras formas de aprendizagem e de produção do conhecimento presentes na realidade social. Essa perspectiva requer a avaliação contínua dos projetos pedagógicos dos cursos de graduação e pós-graduação e das ações de pesquisa e extensão, identificando diferentes desafios na formação de pessoas e na produção de conhecimento e novas tecnologias.'
+
+Atualmente, a sistemática de avaliação do curso está pautada por três momentos distintos, e com dimensões próprias.
+
+O primeiro momento dá-se dentro do Núcleo Docente Estruturante (NDE) do curso, instituído em 2022 pela Portaria 108/2022 da Pró-Reitoria de Graduação da Universidade Federal do Rio Grande - FURG. Dada suas atribuições, o NDE é um espaço para iniciação e instalação de processos de concepção, consolidação e contínua atualização do projeto pedagógico do curso. O NDE do curso de Sistemas de Informação reúne-se a cada 2 meses com o objetivo de discutir primordialmente assuntos de caráter pedagógico.
+
+
+
+
+
+O segundo momento de avaliação está numa dimensão externa ao curso, em um fórum que reúne a direção do Centro de Ciências Computacionais, coordenadores e coordenadores adjuntos dos cursos de graduação e pós-graduação da unidade. Estas reuniões, também mensais, visam discutir assuntos inter e intra cursos, a partir de diretrizes e estratégias próprias da unidade.
+
+Um último fórum de discussão e avaliação relacionado a execução e acompanhamento do curso de Sistemas de Informação são os seminários de Ensino, realizados anualmente, com a participação dos professores do curso. Com estes fóruns espera-se integrar os mais variados atores do processo de avaliação do curso de modo a delinear estratégias no sentido da excelência da sua execução.
+
+9. Articulação do PPC com o PPP institucional da FURG
+
+9.1. O papel da universidade na sociedade contemporânea
+
+A área da tecnologia propicia espaço para uma educação crítica e dialética (pelos problemas que permite levantar e discutir), possibilitando intervenções junto a vários setores da sociedade (pela sua multidisciplinaridade e potencial de interação com qualquer ramo de atividade), incrementando o potencial de ação num contexto local (melhoria da capacidade técnica instalada), sem deixar de estar incluído na problemática nacional (demanda nacional por mão-de-obra qualificada), contribuindo, assim, para o desenvolvimento tecnológico e servindo a uma concepção radical e universal de cidadania.
+
+9.2. Concepção filosófica da furg
+
+A FURG se define como uma Universidade voltada para o ecossistema costeiro, o que se traduz nas mais diversas atividades promovidas pela Instituição, de ensino, pesquisa e extensão. Todos somos parte constituidora do meio ambiente. O desenvolvimento de competências na área de Sistemas de Informação é importante para se interpretar e conhecer a realidade, de modo à atividade da Universidade e de seus egressos poderem se inserir responsavelmente na região, nas soluções dos problemas que a afetam no presente e contribuir para o planejamento e execução de ações futuras.
+
+9.2.1 Missão
+
+
+
+
+
+O Curso se enquadra na missão da Universidade quando contribui para provimento de formação geral que contemple a técnica e as humanidades, com criatividade e espírito crítico, das ciências, artes e letras visando o desenvolvimento humano e a vida em sociedade.
+
+Como foi colocado no segundo preceito norteador do currículo, espera-se imbuir os estudantes de uma visão consciente, ética e responsável de seu trabalho, o que se fará, igualmente, orientado por princípios éticos e democráticos, levando a um impacto na comunidade que contribua para a melhoria da qualidade de vida dos indivíduos e para o desenvolvimento regional.
+
+9.2.2 Objetivos Institucionais
+
+Dessa forma, o Curso também respeita os objetivos da Universidade (buscar a educação em sua plenitude, com criatividade e espírito crítico com vistas à transformação social; formação cultural, social e tecnicamente capaz; integração harmônica entre o ser humano e o meio ambiente), e do seu PPP (guiar ações político-educacionais de convergência de ações de todos os envolvidos com a formação nos diferentes níveis de ensino; instalar um processo contínuo de reflexão sobre o espaço universitário e a diversidade de ações desenvolvidas; analisar os processos de ensinar, aprender, pesquisar e avaliar a fim de compreender o fenômeno educativo e a sua prática).
+
+9.3. Formação profissional de nível superior
+
+Acreditamos que as soluções adotadas contemplam a afirmativa de que, nesta sociedade, em que 'a comunicação e a informação não se apresentam de forma linear, mas de forma plural, múltipla e complexa, inscritas em redes e conexões, [a formação de nossos egressos] tem sua responsabilidade e compromisso social ampliados, [conduzindo a] interferências efetivas, críticas e responsáveis no mundo do trabalho e na sociedade de forma mais ampla'.
+
+9.4. Currículo: concepção e princípios
+
+9.4.1 Princípios curriculares
+
+Em relação às dimensões preconizadas pelo PPP Institucional, o Curso responde adequadamente:
+
+- Indissociabilidade entre ensino, pesquisa e extensão: a área de tecnologia já comprovou, pelo seu envolvimento com os mais diversos projetos na Universidade e fora dela, que facilmente responde a esta integração, sendo que o curso deve realizá-la, de forma efetiva, em espaços até agora não atendidos, nomeadamente o setor
+
+
+
+
+
+industrial produtivo.
+
+- Flexibilidade: assumimos, com o PPP Institucional, que 'o currículo configura-se como processo formativo dinâmico e em permanente movimento, orientador da ação educativa em sua totalidade' e que os 'professores tenham condições de determinar dimensões e prioridades específicas'. Itens curriculares como reconhecimento e ênfase de determinadas atividades complementares e projetos de ensino, pesquisa e extensão é que vão garantir a necessária adequação temporal dos focos de formação, mais do que uma intrincada engrenagem de opções ou 'caminhos' alternativos, que tendem a estar em contradição com a proposta de curso como um projeto de trabalho coletivo.
+- Formação profissional para a cidadania: nosso egresso deve adquirir a consciência de que participa de uma sociedade e a ela deve satisfações pelo investimento que representa sua passagem por uma universidade pública. Nosso segundo preceito busca imprimir isto na personalidade do Curso.
+- Interdisciplinaridade: aqui também a estrutura curricular visa evidenciar os elos interdisciplinares, através dos elementos de integração, além de reconhecer, pela própria natureza da formação pretendida, que todo tipo de conhecimento se interpenetra.
+- Contextualização: como se procurou mostrar nas justificativas para instituição do Curso, o País demanda formação na área de tecnologia e o Rio Grande do Sul da mesma forma. O tipo de atividade esperada no âmbito do Curso e, posteriormente, dos egressos, induz, ao natural, o Curso para apresentação de soluções aos problemas locais e regionais na área, inclusive para uma significativa inserção na vida institucional e comunitária.
+
+10. Articulação do PPC com o PDI da FURG
+
+Como toda expansão de oferta de ensino superior, o Curso se consolida juntamente a Universidade e está em sintonia com a Missão institucional:
+
+'Promover o avanço do conhecimento e a educação plena com excelência, formando profissionais capazes de contribuir para o desenvolvimento humano e a melhoria da qualidade socioambiental.'
+
+Em relação às dimensões do PDI, citamos as seguintes correspondências:
+
+PDI I - Ensino de Graduação
+
+Objetivo 1 : Buscar a qualificação contínua nos processos educativos dos cursos de Graduação, em consonância com seus Projetos Pedagógicos.
+
+O Curso pretende melhorar a integração interdisciplinar pela introdução de inovações didáticas como as participações dos alunos em projetos de ensino, pesquisa e extensão. O
+
+
+
+
+
+Curso incorpora também a ideia de pontuar atividades
+
+engajamento na Iniciação Científica, por exemplo.
+
+PDI III - Pesquisa
+
+Objetivo 1
+
+: Consolidar a pesquisa nas diferentes áreas do conhecimento.
+
+O Curso, na medida que inclui dentre as áreas de atividade da instituição contribui para a expansão das oportunidades de pesquisa e desenvolvimento nessa área.
+
+PDI IV - Inovação Tecnológica
+
+Objetivo 1
+
+: Promover a Inovação Tecnológica
+
+O curso incentiva e viabiliza a realização de projetos de inovação tecnológica e de
+
+tecnologia social.
+
+PDI V - Extensão
+
+Objetivo 1
+
+: Consolidar a Política de Extensão Universitária.
+
+O Curso, pelo ambiente que há de desenvolver, deve potencializar a capacidade da
+
+área de Computação de realizar mais eficazmente a interação com a sociedade, podendo
+
+haver
+
+o
+
+engajamento dos corpos docente
+
+e
+
+discente na produção de sistemas de
+
+computação de interesse para os mais diversos espaços de aplicação, conforme definição
+
+dos objetivos do Curso.
+
+Objetivo 3
+
+: Ampliar a integração entre a Universidade e os demais setores da sociedade.
+
+Aqui,
+
+o
+
+Curso pode ser criar programas de fomento à realização de projetos de
+
+extensão multidisciplinares articulados com o ensino e a pesquisa., conforme explanado no
+
+comentário sobre o Objetivo 1, acima.
+
+Oferta
+
+Funcionamento do Curso (local, turno, número de vagas por ingresso, regime de oferta das
+
+disciplinas e atividades - anual ou semestral);
+
+Local:
+
+Campus Carreiros
+
+Turno
+
+: Diurno
+
+Número de vagas por ingresso
+
+: 40 vagas
+
+Regime de oferta de disciplinas e atividades: anual
+
+Regime de ingresso - anual.
+
+complementares, que incluem o
