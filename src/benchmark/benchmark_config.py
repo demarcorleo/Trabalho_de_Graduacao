@@ -2,21 +2,8 @@ from pathlib import Path
 
 
 # ============================================================
-# CAMINHOS
+# CAMINHOS GERAIS
 # ============================================================
-
-# Estrutura esperada:
-#
-# projeto/
-# ├── data/
-# │   └── documents/
-# └── src/
-#     └── benchmark/
-#         ├── benchmark_config.py
-#         ├── base_extractor.py
-#         ├── extractor_factory.py
-#         ├── extractors.py
-#         └── main.py
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
@@ -32,6 +19,8 @@ SUMMARY_CSV_PATH = RESULTS_DIR / "benchmark_summary.csv"
 
 ERROR_LOG_PATH = RESULTS_DIR / "benchmark_errors.txt"
 
+MINERU_SERVER_LOG_PATH = RESULTS_DIR / "mineru_server.log"
+
 
 # ============================================================
 # DATASET
@@ -39,35 +28,24 @@ ERROR_LOG_PATH = RESULTS_DIR / "benchmark_errors.txt"
 
 PDF_PATTERN = "*.pdf"
 
-# Caso existam PDFs dentro de subpastas:
 SEARCH_RECURSIVELY = False
 
 
 # ============================================================
-# BIBLIOTECAS DO BENCHMARK PRINCIPAL
+# BIBLIOTECAS HABILITADAS
 # ============================================================
-
-# Apenas ferramentas que podem participar do protocolo:
-#
-# PDF pesquisável -> extração textual -> TXT UTF-8
-#
-# Você pode comentar uma biblioteca temporariamente sem alterar
-# nenhuma outra parte do benchmark.
 
 ENABLED_EXTRACTORS = [
     "pymupdf",
+    "pypdf",
+    "pdfminer",
+    "pdfplumber",
+    "pymupdf4llm",
     "docling",
-]
-
-
-# Ferramentas registradas, mas não incluídas no benchmark textual
-# principal porque utilizam OCR ou dependem de uma implementação
-# externa ainda não especificada.
-
-EXCLUDED_FROM_TEXT_BENCHMARK = [
-    "ocrmypdf",
-    "pytesseract",
-    "test.sh",
+    "marker",
+    "markitdown",
+    "mineru",
+    "unstructured",
 ]
 
 
@@ -79,15 +57,10 @@ OUTPUT_EXTENSION = ".txt"
 
 OUTPUT_ENCODING = "utf-8"
 
-PAGE_SEPARATOR = "\n\n"
-
-# Normalização mínima aplicada igualmente a todas as bibliotecas.
 NORMALIZE_LINE_ENDINGS = True
 
 REMOVE_TRAILING_SPACES = True
 
-# Não remove cabeçalhos, rodapés, listas, tabelas ou marcadores.
-# Isso faz parte do resultado produzido por cada biblioteca.
 COLLAPSE_EXCESSIVE_BLANK_LINES = False
 
 
@@ -95,57 +68,56 @@ COLLAPSE_EXCESSIVE_BLANK_LINES = False
 # EXECUÇÃO DO BENCHMARK
 # ============================================================
 
-# Execuções realizadas antes da medição.
-# Servem para aquecer caches e inicializações internas.
 WARMUP_RUNS = 1
 
-# Execuções que serão realmente registradas.
 MEASURED_RUNS = 5
 
-# Continua o benchmark mesmo se uma biblioteca falhar.
 FAIL_FAST = False
 
-# Salva o texto extraído por cada biblioteca.
 SAVE_EXTRACTED_TEXT = True
 
-# Salva somente o texto da primeira repetição medida.
-# Evita criar cinco cópias idênticas.
 SAVE_ONLY_FIRST_MEASURED_RUN = True
 
 
 # ============================================================
-# PARÂMETROS COMUNS
-# ============================================================
-
-# Nenhum extrator do benchmark principal deve realizar OCR.
-ENABLE_OCR = False
-
-# Nenhum extrator deve usar LLM.
-ENABLE_LLM = False
-
-# Nenhum extrator deve executar uma rotina exclusiva de tabelas.
-ENABLE_TABLE_EXTRACTION = False
-
-# Nenhum extrator deve salvar imagens.
-ENABLE_IMAGE_EXTRACTION = False
-
-
-# ============================================================
-# PYMUPDF
+# PyMuPDF
 # ============================================================
 
 PYMUPDF_SORT_TEXT = False
 
 
 # ============================================================
-# PYPDF
+# pypdf
 # ============================================================
 
+# "plain" = comportamento padrão de page.extract_text()
 PYPDF_EXTRACTION_MODE = "plain"
 
 
 # ============================================================
-# DOCLING
+# PDFMiner
+# ============================================================
+
+PDFMINER_LINE_MARGIN = 0.5
+
+PDFMINER_WORD_MARGIN = 0.1
+
+PDFMINER_CHAR_MARGIN = 2.0
+
+
+# ============================================================
+# pdfplumber
+# ============================================================
+
+PDFPLUMBER_X_TOLERANCE = 3
+
+PDFPLUMBER_Y_TOLERANCE = 3
+
+PDFPLUMBER_USE_TEXT_FLOW = False
+
+
+# ============================================================
+# Docling
 # ============================================================
 
 DOCLING_ENABLE_OCR = False
@@ -154,7 +126,7 @@ DOCLING_ENABLE_TABLE_STRUCTURE = False
 
 
 # ============================================================
-# MARKER
+# Marker
 # ============================================================
 
 MARKER_MODE = "fast"
@@ -169,49 +141,40 @@ MARKER_OUTPUT_FORMAT = "markdown"
 
 
 # ============================================================
-# MARKITDOWN
+# MarkItDown
 # ============================================================
 
 MARKITDOWN_ENABLE_PLUGINS = False
 
 
 # ============================================================
-# PDFPLUMBER
+# Unstructured
 # ============================================================
 
-PDFPLUMBER_X_TOLERANCE = 3
-
-PDFPLUMBER_Y_TOLERANCE = 3
-
-PDFPLUMBER_USE_TEXT_FLOW = False
-
-
-# ============================================================
-# PDFMINER
-# ============================================================
-
-PDFMINER_LINE_MARGIN = 0.5
-
-PDFMINER_WORD_MARGIN = 0.1
-
-PDFMINER_CHAR_MARGIN = 2.0
-
-
-# ============================================================
-# UNSTRUCTURED
-# ============================================================
-
-# "fast" utiliza a camada textual existente no PDF.
 UNSTRUCTURED_STRATEGY = "fast"
 
+# Idioma predominante do dataset.
+# "por" corresponde ao português no Unstructured.
+UNSTRUCTURED_LANGUAGES = ["por"]
 
 # ============================================================
-# TEST.SH
+# MinerU
 # ============================================================
 
-# O script deverá imprimir o texto extraído em stdout.
-# Deixe como None enquanto ele não estiver definido.
+MINERU_METHOD = "txt"
 
-TEST_SHELL_SCRIPT_PATH = None
+MINERU_BACKEND = "pipeline"
 
-TEST_SHELL_TIMEOUT_SECONDS = 300
+MINERU_ENABLE_FORMULA = False
+
+MINERU_ENABLE_TABLE = False
+
+MINERU_ENABLE_IMAGE_ANALYSIS = False
+
+MINERU_API_HOST = "127.0.0.1"
+
+MINERU_API_PORT = 8765
+
+MINERU_API_STARTUP_TIMEOUT_SECONDS = 300
+
+MINERU_PROCESS_TIMEOUT_SECONDS = 3600

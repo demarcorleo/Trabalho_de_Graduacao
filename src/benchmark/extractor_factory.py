@@ -2,15 +2,12 @@ from extractors import (
     DoclingExtractor,
     MarkerExtractor,
     MarkItDownExtractor,
-    MinecartExtractor,
-    OCRmyPDFExtractor,
+    MinerUExtractor,
     PDFMinerExtractor,
     PDFPlumberExtractor,
     PyMuPDF4LLMExtractor,
     PyMuPDFExtractor,
-    PyPDF2Extractor,
-    PyTesseractExtractor,
-    TestShellExtractor,
+    PyPDFExtractor,
     UnstructuredExtractor,
 )
 
@@ -19,38 +16,42 @@ class ExtractorFactory:
 
     _extractors = {
         "pymupdf": PyMuPDFExtractor,
-        "pypdf2": PyPDF2Extractor,
-        "pypdf": PyPDF2Extractor,
+        "pypdf": PyPDFExtractor,
+        "pdfminer": PDFMinerExtractor,
+        "pdfplumber": PDFPlumberExtractor,
+        "pymupdf4llm": PyMuPDF4LLMExtractor,
         "docling": DoclingExtractor,
         "marker": MarkerExtractor,
         "markitdown": MarkItDownExtractor,
-        "minecart": MinecartExtractor,
-        "ocrmypdf": OCRmyPDFExtractor,
-        "pdfminer": PDFMinerExtractor,
-        "pdfminer.six": PDFMinerExtractor,
-        "pdfplumber": PDFPlumberExtractor,
-        "pymupdf4llm": PyMuPDF4LLMExtractor,
-        "pytesseract": PyTesseractExtractor,
-        "test.sh": TestShellExtractor,
+        "mineru": MinerUExtractor,
         "unstructured": UnstructuredExtractor,
     }
 
     @classmethod
     def create(cls, name: str):
+
         normalized_name = name.strip().lower()
 
-        extractor_class = cls._extractors.get(normalized_name)
+        extractor_class = cls._extractors.get(
+            normalized_name
+        )
 
         if extractor_class is None:
-            available = ", ".join(sorted(cls._extractors))
+
+            available = ", ".join(
+                sorted(cls._extractors.keys())
+            )
 
             raise ValueError(
                 f"Extractor '{name}' não encontrado. "
-                f"Opções disponíveis: {available}"
+                f"Disponíveis: {available}"
             )
 
         return extractor_class()
 
     @classmethod
-    def available_extractors(cls) -> list[str]:
-        return sorted(cls._extractors)
+    def available_extractors(cls):
+
+        return sorted(
+            cls._extractors.keys()
+        )
