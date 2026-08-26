@@ -1,5 +1,6 @@
 from importlib.util import find_spec
 from pathlib import Path
+import shutil
 import subprocess
 import tempfile
 import time
@@ -40,13 +41,13 @@ from benchmark_config import (
 
     PYMUPDF_SORT_TEXT,
 
-    UNSTRUCTURED_STRATEGY,
     UNSTRUCTURED_LANGUAGES,
+    UNSTRUCTURED_STRATEGY,
 )
 
 
 # ============================================================
-# AUXILIAR
+# AUXILIARES
 # ============================================================
 
 def verificar_modulo(
@@ -69,20 +70,92 @@ def verificar_modulo(
 
 
 # ============================================================
+# PDFTOTEXT
+# ============================================================
+
+class PDFToTextExtractor(
+    BaseExtractor
+):
+
+    name = "pdftotext"
+
+    def setup(self) -> None:
+
+        executable = shutil.which(
+            "pdftotext"
+        )
+
+        if executable is None:
+
+            raise RuntimeError(
+                "O comando 'pdftotext' não foi "
+                "encontrado no sistema.\n\n"
+                "Instale com:\n"
+                "sudo apt install poppler-utils"
+            )
+
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
+
+        process = subprocess.run(
+            [
+                "pdftotext",
+                "-layout",
+                "-enc",
+                "UTF-8",
+                "-nopgbrk",
+                file_path,
+                "-",
+            ],
+            capture_output=True,
+            text=True,
+            encoding="utf-8",
+            errors="replace",
+        )
+
+        if process.returncode != 0:
+
+            stderr = (
+                process.stderr.strip()
+            )
+
+            raise RuntimeError(
+                "pdftotext retornou código "
+                f"{process.returncode}."
+                + (
+                    f"\n{stderr}"
+                    if stderr
+                    else ""
+                )
+            )
+
+        return process.stdout
+
+
+# ============================================================
 # PyMuPDF
 # ============================================================
 
-class PyMuPDFExtractor(BaseExtractor):
+class PyMuPDFExtractor(
+    BaseExtractor
+):
 
     name = "pymupdf"
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         import pymupdf
 
         pages_text = []
 
-        with pymupdf.open(file_path) as document:
+        with pymupdf.open(
+            file_path
+        ) as document:
 
             for page in document:
 
@@ -104,7 +177,9 @@ class PyMuPDFExtractor(BaseExtractor):
 # pypdf
 # ============================================================
 
-class PyPDFExtractor(BaseExtractor):
+class PyPDFExtractor(
+    BaseExtractor
+):
 
     name = "pypdf"
 
@@ -115,20 +190,28 @@ class PyPDFExtractor(BaseExtractor):
             "pypdf",
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         from pypdf import PdfReader
 
-        reader = PdfReader(file_path)
+        reader = PdfReader(
+            file_path
+        )
 
         pages_text = []
 
         for page in reader.pages:
 
-            page_text = page.extract_text()
+            page_text = (
+                page.extract_text()
+                or ""
+            )
 
             pages_text.append(
-                page_text or ""
+                page_text
             )
 
         return "\n\n".join(
@@ -140,7 +223,9 @@ class PyPDFExtractor(BaseExtractor):
 # PDFMiner
 # ============================================================
 
-class PDFMinerExtractor(BaseExtractor):
+class PDFMinerExtractor(
+    BaseExtractor
+):
 
     name = "pdfminer"
 
@@ -151,10 +236,18 @@ class PDFMinerExtractor(BaseExtractor):
             "pdfminer.six",
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
-        from pdfminer.high_level import extract_text
-        from pdfminer.layout import LAParams
+        from pdfminer.high_level import (
+            extract_text
+        )
+
+        from pdfminer.layout import (
+            LAParams
+        )
 
         laparams = LAParams(
             line_margin=PDFMINER_LINE_MARGIN,
@@ -162,17 +255,22 @@ class PDFMinerExtractor(BaseExtractor):
             char_margin=PDFMINER_CHAR_MARGIN,
         )
 
-        return extract_text(
-            file_path,
-            laparams=laparams,
-        ) or ""
+        return (
+            extract_text(
+                file_path,
+                laparams=laparams,
+            )
+            or ""
+        )
 
 
 # ============================================================
 # pdfplumber
 # ============================================================
 
-class PDFPlumberExtractor(BaseExtractor):
+class PDFPlumberExtractor(
+    BaseExtractor
+):
 
     name = "pdfplumber"
 
@@ -182,7 +280,10 @@ class PDFPlumberExtractor(BaseExtractor):
             "pdfplumber",
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         import pdfplumber
 
@@ -223,7 +324,9 @@ class PDFPlumberExtractor(BaseExtractor):
 # PyMuPDF4LLM
 # ============================================================
 
-class PyMuPDF4LLMExtractor(BaseExtractor):
+class PyMuPDF4LLMExtractor(
+    BaseExtractor
+):
 
     name = "pymupdf4llm"
 
@@ -233,7 +336,23 @@ class PyMuPDF4LLMExtractor(BaseExtractor):
             "pymupdf4llm",
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
+
+        import pymupdf
+
+        # Compatibilidade para versões em que
+        # a constante não está exposta no módulo.
+        if not hasattr(
+            pymupdf,
+            "TEXT_COLLECT_STYLES",
+        ):
+
+            pymupdf.TEXT_COLLECT_STYLES = (
+                32768
+            )
 
         import pymupdf4llm
 
@@ -249,7 +368,9 @@ class PyMuPDF4LLMExtractor(BaseExtractor):
 # Docling
 # ============================================================
 
-class DoclingExtractor(BaseExtractor):
+class DoclingExtractor(
+    BaseExtractor
+):
 
     name = "docling"
 
@@ -260,11 +381,11 @@ class DoclingExtractor(BaseExtractor):
     def setup(self) -> None:
 
         from docling.datamodel.base_models import (
-            InputFormat,
+            InputFormat
         )
 
         from docling.datamodel.pipeline_options import (
-            PdfPipelineOptions,
+            PdfPipelineOptions
         )
 
         from docling.document_converter import (
@@ -284,18 +405,23 @@ class DoclingExtractor(BaseExtractor):
             DOCLING_ENABLE_TABLE_STRUCTURE
         )
 
-        self.converter = DocumentConverter(
-            format_options={
-                InputFormat.PDF:
-                    PdfFormatOption(
-                        pipeline_options=(
-                            pipeline_options
+        self.converter = (
+            DocumentConverter(
+                format_options={
+                    InputFormat.PDF:
+                        PdfFormatOption(
+                            pipeline_options=(
+                                pipeline_options
+                            )
                         )
-                    )
-            }
+                }
+            )
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         if self.converter is None:
 
@@ -303,8 +429,10 @@ class DoclingExtractor(BaseExtractor):
                 "Docling não inicializado."
             )
 
-        result = self.converter.convert(
-            file_path
+        result = (
+            self.converter.convert(
+                file_path
+            )
         )
 
         return (
@@ -316,10 +444,11 @@ class DoclingExtractor(BaseExtractor):
 
 # ============================================================
 # Marker
-# marker-pdf 2.0.0
 # ============================================================
 
-class MarkerExtractor(BaseExtractor):
+class MarkerExtractor(
+    BaseExtractor
+):
 
     name = "marker"
 
@@ -332,22 +461,23 @@ class MarkerExtractor(BaseExtractor):
     def setup(self) -> None:
 
         from marker.config.parser import (
-            ConfigParser,
+            ConfigParser
         )
 
         from marker.converters.pdf import (
-            PdfConverter,
+            PdfConverter
         )
 
         from marker.models import (
-            create_model_dict,
+            create_model_dict
         )
 
         from marker.output import (
-            text_from_rendered,
+            text_from_rendered
         )
 
         config = {
+
             "output_format":
                 MARKER_OUTPUT_FORMAT,
 
@@ -364,22 +494,28 @@ class MarkerExtractor(BaseExtractor):
                 MARKER_USE_LLM,
         }
 
-        config_parser = ConfigParser(
-            config
+        config_parser = (
+            ConfigParser(
+                config
+            )
         )
 
         converter_kwargs = {
+
             "config":
-                config_parser.generate_config_dict(),
+                config_parser
+                .generate_config_dict(),
 
             "artifact_dict":
                 create_model_dict(),
 
             "processor_list":
-                config_parser.get_processors(),
+                config_parser
+                .get_processors(),
 
             "renderer":
-                config_parser.get_renderer(),
+                config_parser
+                .get_renderer(),
         }
 
         if MARKER_USE_LLM:
@@ -391,15 +527,20 @@ class MarkerExtractor(BaseExtractor):
                 .get_llm_service()
             )
 
-        self.converter = PdfConverter(
-            **converter_kwargs
+        self.converter = (
+            PdfConverter(
+                **converter_kwargs
+            )
         )
 
         self.text_from_rendered = (
             text_from_rendered
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         if self.converter is None:
 
@@ -407,8 +548,10 @@ class MarkerExtractor(BaseExtractor):
                 "Marker não inicializado."
             )
 
-        rendered = self.converter(
-            file_path
+        rendered = (
+            self.converter(
+                file_path
+            )
         )
 
         text, _, _ = (
@@ -424,7 +567,9 @@ class MarkerExtractor(BaseExtractor):
 # MarkItDown
 # ============================================================
 
-class MarkItDownExtractor(BaseExtractor):
+class MarkItDownExtractor(
+    BaseExtractor
+):
 
     name = "markitdown"
 
@@ -434,15 +579,22 @@ class MarkItDownExtractor(BaseExtractor):
 
     def setup(self) -> None:
 
-        from markitdown import MarkItDown
+        from markitdown import (
+            MarkItDown
+        )
 
-        self.converter = MarkItDown(
-            enable_plugins=(
-                MARKITDOWN_ENABLE_PLUGINS
+        self.converter = (
+            MarkItDown(
+                enable_plugins=(
+                    MARKITDOWN_ENABLE_PLUGINS
+                )
             )
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         if self.converter is None:
 
@@ -450,8 +602,10 @@ class MarkItDownExtractor(BaseExtractor):
                 "MarkItDown não inicializado."
             )
 
-        result = self.converter.convert(
-            file_path
+        result = (
+            self.converter.convert(
+                file_path
+            )
         )
 
         return (
@@ -464,7 +618,9 @@ class MarkItDownExtractor(BaseExtractor):
 # Unstructured
 # ============================================================
 
-class UnstructuredExtractor(BaseExtractor):
+class UnstructuredExtractor(
+    BaseExtractor
+):
 
     name = "unstructured"
 
@@ -475,16 +631,25 @@ class UnstructuredExtractor(BaseExtractor):
             "unstructured",
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         from unstructured.partition.pdf import (
-            partition_pdf,
+            partition_pdf
         )
 
-        elements = partition_pdf(
-            filename=file_path,
-            strategy=UNSTRUCTURED_STRATEGY,
-            languages=UNSTRUCTURED_LANGUAGES,
+        elements = (
+            partition_pdf(
+                filename=file_path,
+                strategy=(
+                    UNSTRUCTURED_STRATEGY
+                ),
+                languages=(
+                    UNSTRUCTURED_LANGUAGES
+                ),
+            )
         )
 
         text_elements = []
@@ -510,7 +675,9 @@ class UnstructuredExtractor(BaseExtractor):
 # MinerU
 # ============================================================
 
-class MinerUExtractor(BaseExtractor):
+class MinerUExtractor(
+    BaseExtractor
+):
 
     name = "mineru"
 
@@ -536,6 +703,15 @@ class MinerUExtractor(BaseExtractor):
             "mineru",
         )
 
+        if shutil.which(
+            "mineru-api"
+        ) is None:
+
+            raise RuntimeError(
+                "O comando 'mineru-api' não foi "
+                "encontrado no ambiente virtual."
+            )
+
         MINERU_SERVER_LOG_PATH.parent.mkdir(
             parents=True,
             exist_ok=True,
@@ -552,13 +728,17 @@ class MinerUExtractor(BaseExtractor):
             "--host",
             MINERU_API_HOST,
             "--port",
-            str(MINERU_API_PORT),
+            str(
+                MINERU_API_PORT
+            ),
         ]
 
-        self.api_process = subprocess.Popen(
-            command,
-            stdout=self.log_file,
-            stderr=self.log_file,
+        self.api_process = (
+            subprocess.Popen(
+                command,
+                stdout=self.log_file,
+                stderr=self.log_file,
+            )
         )
 
         deadline = (
@@ -577,6 +757,7 @@ class MinerUExtractor(BaseExtractor):
                 self.api_process.poll()
                 is not None
             ):
+
                 raise RuntimeError(
                     "MinerU API encerrou durante "
                     "a inicialização. Consulte: "
@@ -591,9 +772,11 @@ class MinerUExtractor(BaseExtractor):
                 ) as response:
 
                     if response.status == 200:
+
                         return
 
             except Exception:
+
                 pass
 
             time.sleep(1)
@@ -604,7 +787,10 @@ class MinerUExtractor(BaseExtractor):
             f"{MINERU_SERVER_LOG_PATH}"
         )
 
-    def extract(self, file_path: str) -> str:
+    def extract(
+        self,
+        file_path: str,
+    ) -> str:
 
         with tempfile.TemporaryDirectory(
             prefix="mineru_benchmark_"
@@ -657,8 +843,10 @@ class MinerUExtractor(BaseExtractor):
 
                 raise RuntimeError(
                     "MinerU falhou.\n"
-                    f"STDOUT:\n{process.stdout}\n\n"
-                    f"STDERR:\n{process.stderr}"
+                    f"STDOUT:\n"
+                    f"{process.stdout}\n\n"
+                    f"STDERR:\n"
+                    f"{process.stderr}"
                 )
 
             temp_path = Path(
@@ -666,7 +854,9 @@ class MinerUExtractor(BaseExtractor):
             )
 
             markdown_files = list(
-                temp_path.rglob("*.md")
+                temp_path.rglob(
+                    "*.md"
+                )
             )
 
             if not markdown_files:
@@ -674,8 +864,7 @@ class MinerUExtractor(BaseExtractor):
                 raise RuntimeError(
                     "MinerU concluiu a execução, "
                     "mas nenhum arquivo Markdown "
-                    "foi encontrado no diretório "
-                    "de saída."
+                    "foi encontrado."
                 )
 
             main_markdown = max(
@@ -684,9 +873,11 @@ class MinerUExtractor(BaseExtractor):
                     path.stat().st_size,
             )
 
-            return main_markdown.read_text(
-                encoding="utf-8",
-                errors="replace",
+            return (
+                main_markdown.read_text(
+                    encoding="utf-8",
+                    errors="replace",
+                )
             )
 
     def teardown(self) -> None:
@@ -715,3 +906,5 @@ class MinerUExtractor(BaseExtractor):
         if self.log_file is not None:
 
             self.log_file.close()
+
+            self.log_file = None

@@ -14,8 +14,8 @@ class BaseExtractor(ABC):
 
     def setup(self) -> None:
         """
-        Inicialização executada uma única vez antes do benchmark
-        da biblioteca.
+        Inicialização realizada uma vez antes
+        das execuções do benchmark.
         """
         pass
 
@@ -31,7 +31,9 @@ class BaseExtractor(ABC):
 
     def run(self, file_path: str) -> str:
 
-        text = self.extract(file_path)
+        text = self.extract(
+            file_path
+        )
 
         if text is None:
             text = ""
@@ -39,12 +41,17 @@ class BaseExtractor(ABC):
         if not isinstance(text, str):
             text = str(text)
 
-        return self.normalize_text(text)
+        return self.normalize_text(
+            text
+        )
 
     @staticmethod
-    def normalize_text(text: str) -> str:
+    def normalize_text(
+        text: str
+    ) -> str:
 
         if NORMALIZE_LINE_ENDINGS:
+
             text = (
                 text
                 .replace("\r\n", "\n")
@@ -52,14 +59,19 @@ class BaseExtractor(ABC):
             )
 
         if REMOVE_TRAILING_SPACES:
+
             lines = [
                 line.rstrip()
-                for line in text.split("\n")
+                for line
+                in text.split("\n")
             ]
 
-            text = "\n".join(lines)
+            text = "\n".join(
+                lines
+            )
 
         if COLLAPSE_EXCESSIVE_BLANK_LINES:
+
             text = re.sub(
                 r"\n{3,}",
                 "\n\n",

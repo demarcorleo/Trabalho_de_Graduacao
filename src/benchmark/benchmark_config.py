@@ -2,24 +2,43 @@ from pathlib import Path
 
 
 # ============================================================
-# CAMINHOS GERAIS
+# CAMINHOS
 # ============================================================
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 DATASET_DIR = PROJECT_ROOT / "data" / "documents"
 
-RESULTS_DIR = PROJECT_ROOT / "results" / "extractor_benchmark"
+RESULTS_DIR = (
+    PROJECT_ROOT
+    / "results"
+    / "extractor_benchmark"
+)
 
-EXTRACTED_TEXT_DIR = RESULTS_DIR / "extracted_texts"
+EXTRACTED_TEXT_DIR = (
+    RESULTS_DIR
+    / "extracted_texts"
+)
 
-RESULTS_CSV_PATH = RESULTS_DIR / "benchmark_results.csv"
+RESULTS_CSV_PATH = (
+    RESULTS_DIR
+    / "benchmark_results.csv"
+)
 
-SUMMARY_CSV_PATH = RESULTS_DIR / "benchmark_summary.csv"
+SUMMARY_CSV_PATH = (
+    RESULTS_DIR
+    / "benchmark_summary.csv"
+)
 
-ERROR_LOG_PATH = RESULTS_DIR / "benchmark_errors.txt"
+ERROR_LOG_PATH = (
+    RESULTS_DIR
+    / "benchmark_errors.txt"
+)
 
-MINERU_SERVER_LOG_PATH = RESULTS_DIR / "mineru_server.log"
+MINERU_SERVER_LOG_PATH = (
+    RESULTS_DIR
+    / "mineru_server.log"
+)
 
 
 # ============================================================
@@ -32,25 +51,40 @@ SEARCH_RECURSIVELY = False
 
 
 # ============================================================
-# BIBLIOTECAS HABILITADAS
+# DOCUMENTOS
+# ============================================================
+
+# None = todos os documentos do dataset.
+
+INCLUDED_DOCUMENTS = None
+
+
+# ============================================================
+# PÁGINAS
+# ============================================================
+
+# Numeração iniciando em 1.
+#
+# Exemplo:
+#
+# PAGE_SELECTION = {
+#     "manual_vpn_c3.pdf": [2, 5, 8],
+# }
+
+PAGE_SELECTION = {}
+
+
+# ============================================================
+# EXTRATORES
 # ============================================================
 
 ENABLED_EXTRACTORS = [
-    "pymupdf",
-    "pypdf",
-    "pdfminer",
-    "pdfplumber",
-    "pymupdf4llm",
-    "docling",
-    "marker",
-    "markitdown",
     "mineru",
-    "unstructured",
 ]
 
 
 # ============================================================
-# FORMATO COMUM DE SAÍDA
+# SAÍDA
 # ============================================================
 
 OUTPUT_EXTENSION = ".txt"
@@ -65,7 +99,7 @@ COLLAPSE_EXCESSIVE_BLANK_LINES = False
 
 
 # ============================================================
-# EXECUÇÃO DO BENCHMARK
+# EXECUÇÃO
 # ============================================================
 
 WARMUP_RUNS = 1
@@ -90,7 +124,6 @@ PYMUPDF_SORT_TEXT = False
 # pypdf
 # ============================================================
 
-# "plain" = comportamento padrão de page.extract_text()
 PYPDF_EXTRACTION_MODE = "plain"
 
 
@@ -129,6 +162,12 @@ DOCLING_ENABLE_TABLE_STRUCTURE = False
 # Marker
 # ============================================================
 
+# Marker 2.x
+#
+# O modo fast foi escolhido para o benchmark.
+# OCR e extração de imagens permanecem desativados
+# para manter o foco na extração textual.
+
 MARKER_MODE = "fast"
 
 MARKER_DISABLE_OCR = True
@@ -153,9 +192,8 @@ MARKITDOWN_ENABLE_PLUGINS = False
 
 UNSTRUCTURED_STRATEGY = "fast"
 
-# Idioma predominante do dataset.
-# "por" corresponde ao português no Unstructured.
 UNSTRUCTURED_LANGUAGES = ["por"]
+
 
 # ============================================================
 # MinerU
