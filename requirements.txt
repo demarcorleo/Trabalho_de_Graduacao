@@ -1,16 +1,19 @@
 faiss-cpu==1.14.3
 
-torch==2.x.x
-transformers==4.x.x
+torch==2.13.0
+transformers==5.12.1
 sentence_transformers==5.6.0
 
-langchain-core==0.x.x
-langchain_community==0.4.3
-langchain-text-splitters==0.x.x
+langchain-core==1.4.7
+langchain_community==0.4.2
+langchain-text-splitters==1.1.2
 
 llama-cpp-python==0.3.30
 
+llama-index==0.14.25
+llama-index-llms-ollama==0.11.0
+
 pymupdf4llm==1.27.2.3
 
-python-dotenv==1.x.x
-PyYAML==6.x.x
+python-dotenv==1.2.3
+PyYAML==6.0.3
