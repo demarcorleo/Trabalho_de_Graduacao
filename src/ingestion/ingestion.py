@@ -3,7 +3,7 @@ import re
 import unicodedata
 
 import pymupdf4llm
-from langchain_core.documents import Document
+from llama_index.core import Document
 
 
 def limpar_texto(texto: str) -> str:
@@ -36,13 +36,15 @@ def limpar_texto(texto: str) -> str:
 def carregar_documentos(pasta: str):
     """
     Carrega arquivos PDF e TXT de uma pasta, extrai o texto,
-    aplica limpeza e retorna uma lista de Documents.
+    aplica limpeza e retorna uma lista de Documents do LlamaIndex.
     """
 
     documentos = []
 
     if not os.path.exists(pasta):
-        raise FileNotFoundError(f"Pasta '{pasta}' não encontrada.")
+        raise FileNotFoundError(
+            f"Pasta '{pasta}' não encontrada."
+        )
 
     for arquivo in os.listdir(pasta):
         caminho = os.path.join(pasta, arquivo)
@@ -61,12 +63,15 @@ def carregar_documentos(pasta: str):
         texto = limpar_texto(texto)
 
         documento = Document(
-            page_content=texto,
-            metadata={"source": arquivo}
+            text=texto,
+            metadata={"source": arquivo},
         )
 
         documentos.append(documento)
 
-    print(f"Total de documentos carregados: {len(documentos)}")
+    print(
+        f"Total de documentos carregados: "
+        f"{len(documentos)}"
+    )
 
     return documentos
