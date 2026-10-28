@@ -105,23 +105,13 @@ RERANKER_MIN_SCORE = float(
 # LLM
 # =========================
 
-LLM_MODEL_PATH = Path(
-    os.getenv(
-        "LLM_MODEL_PATH",
-        BASE_DIR / "models/Qwen3.5-4B-q5_k_m.gguf"
-    )
+LLM_MODEL_NAME = os.getenv(
+    "LLM_MODEL_NAME",
+    "qwen3.5"
 )
 
 N_CTX = int(
     os.getenv("N_CTX", 4096)
-)
-
-N_THREADS = int(
-    os.getenv("N_THREADS", 8)
-)
-
-N_GPU_LAYERS = int(
-    os.getenv("N_GPU_LAYERS", 40)
 )
 
 MAX_TOKENS = int(
@@ -134,8 +124,11 @@ TEMPERATURE = float(
 
 TOP_P = float(
     os.getenv("TOP_P", 0.9)
-)
 
+)
+OLLAMA_REQUEST_TIMEOUT = float(
+    os.getenv("OLLAMA_REQUEST_TIMEOUT", 120.0)
+)
 DOCUMENTS_PATH = Path(os.getenv("DOCUMENTS_PATH", BASE_DIR / "data/documents"))
 PROMPT_TEMPLATE = os.getenv(
     "PROMPT_TEMPLATE",

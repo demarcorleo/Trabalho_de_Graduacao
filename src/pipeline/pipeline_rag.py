@@ -1,14 +1,14 @@
 import yaml
-from langchain_community.llms import LlamaCpp
+
+from llama_index.llms.ollama import Ollama
 
 from config.settings import (
-    LLM_MODEL_PATH,
+    LLM_MODEL_NAME,
     N_CTX,
-    N_THREADS,
-    N_GPU_LAYERS,
     MAX_TOKENS,
     TEMPERATURE,
     TOP_P,
+    OLLAMA_REQUEST_TIMEOUT,
     TOP_K,
     PROMPTS_DIR,
     PROMPT_VERSION,
@@ -22,8 +22,6 @@ from src.retrieval.generate_embedding import (
 )
 from config.settings import PROMPT_TEMPLATE
 
-
-
 class PipelineRAG:
     def __init__(self):
         self.index, self.chunks = carregar_indice()
@@ -32,14 +30,15 @@ class PipelineRAG:
 
         self.reranker_model = carregar_reranker()
 
-        self.llm = LlamaCpp(
-            model_path=str(LLM_MODEL_PATH),
-            n_ctx=N_CTX,
-            n_threads=N_THREADS,
-            n_gpu_layers=N_GPU_LAYERS,
-            max_tokens=MAX_TOKENS,
+        self.llm = Ollama(
+            model=LLM_MODEL_NAME,
+            request_timeout=OLLAMA_REQUEST_TIMEOUT,
+            context_window=N_CTX,
             temperature=TEMPERATURE,
-            top_p=TOP_P,
+            additional_kwargs={
+                "num_predict": MAX_TOKENS,
+                "top_p": TOP_P,
+            },
         )
 
         self.prompts = self.carregar_prompts()
