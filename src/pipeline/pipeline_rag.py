@@ -12,6 +12,7 @@ from config.settings import (
     TOP_K,
     PROMPTS_DIR,
     PROMPT_VERSION,
+    PROMPT_TEMPLATE,
 )
 
 from src.retrieval.vector_store import carregar_indice, busca
@@ -20,7 +21,7 @@ from src.retrieval.generate_embedding import (
     carregar_modelo_embedding,
     gerar_embedding_query,
 )
-from config.settings import PROMPT_TEMPLATE
+
 
 class PipelineRAG:
     def __init__(self):
@@ -39,6 +40,7 @@ class PipelineRAG:
                 "num_predict": MAX_TOKENS,
                 "top_p": TOP_P,
             },
+            thinking = False,
         )
 
         self.prompts = self.carregar_prompts()
@@ -58,23 +60,26 @@ class PipelineRAG:
         query_vector = gerar_embedding_query(
             query,
             self.tokenizer,
-            self.embedding_model
+            self.embedding_model,
         )
 
         resultados = busca(
             query_vector=query_vector,
             index=self.index,
             chunks=self.chunks,
-            k=TOP_K
+            k=TOP_K,
         )
 
         resultados_rerankeados = rerankear(
             resultados=resultados,
             query=query,
-            reranker_model=self.reranker_model
+            reranker_model=self.reranker_model,
         )
 
-        return self.gerar_resposta(query, resultados_rerankeados)
+        return self.gerar_resposta(
+            query,
+            resultados_rerankeados,
+        )
 
     def gerar_resposta(self, query: str, resultados: list) -> str:
         if not resultados:
@@ -92,9 +97,11 @@ class PipelineRAG:
 
         prompt_usuario = prompt_template.format(
             context=contexto,
-            query=query
+            query=query,
         )
 
         prompt_final = f"{system_prompt}\n\n{prompt_usuario}"
 
-        return self.llm.invoke(prompt_final)
+        resposta = self.llm.complete(prompt_final)
+
+        return resposta.text
