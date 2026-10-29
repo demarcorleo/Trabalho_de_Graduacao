@@ -1,4 +1,4 @@
-from langchain_core.documents import Document as LangChainDocument
+from llama_index.core.schema import TextNode
 from langchain_text_splitters import MarkdownTextSplitter
 
 from config.settings import CHUNK_SIZE, CHUNK_OVERLAP
@@ -6,30 +6,47 @@ from config.settings import CHUNK_SIZE, CHUNK_OVERLAP
 
 def gerar_chunks(documentos):
     """
-    Gera chunks utilizando o MarkdownTextSplitter atual.
+    Gera os chunks utilizando o mesmo MarkdownTextSplitter
+    utilizado anteriormente.
 
-    Os documentos recebidos pelo pipeline são Documents do
-    LlamaIndex. Antes da divisão, eles são convertidos para
-    LangChain Documents para preservar o comportamento original
-    do chunking.
+    A diferença é que a saída passa a ser composta por
+    TextNode do LlamaIndex, eliminando a dependência de
+    LangChain Document como representação dos chunks.
     """
-
-    documentos_langchain = []
-
-    for documento in documentos:
-        documentos_langchain.append(
-            LangChainDocument(
-                page_content=documento.get_content(),
-                metadata=dict(documento.metadata),
-            )
-        )
 
     splitter = MarkdownTextSplitter(
         chunk_size=CHUNK_SIZE,
         chunk_overlap=CHUNK_OVERLAP,
     )
 
-    chunks = splitter.split_documents(documentos_langchain)
+    chunks = []
+
+    for documento in documentos:
+        texto = documento.get_content()
+        metadata = dict(documento.metadata)
+
+        # Mantém exatamente a lógica de divisão do
+        # MarkdownTextSplitter utilizada no baseline.
+        documento_temp = type(
+            "DocumentoTemporario",
+            (),
+            {
+                "page_content": texto,
+                "metadata": metadata,
+            },
+        )()
+
+        documentos_divididos = splitter.split_documents(
+            [documento_temp]
+        )
+
+        for chunk in documentos_divididos:
+            node = TextNode(
+                text=chunk.page_content,
+                metadata=dict(chunk.metadata),
+            )
+
+            chunks.append(node)
 
     print(f"Total de chunks gerados: {len(chunks)}")
 
