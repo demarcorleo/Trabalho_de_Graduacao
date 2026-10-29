@@ -1,8 +1,12 @@
 import os
 import pickle
+
 import faiss
 
-from config.settings import INDEX_PATH, CHUNKS_PATH
+from config.settings import (
+    INDEX_PATH,
+    CHUNKS_PATH,
+)
 
 
 def criar_indice(embeddings):
@@ -15,19 +19,33 @@ def criar_indice(embeddings):
 
 
 def salvar_indice(index, chunks):
-    os.makedirs(os.path.dirname(INDEX_PATH), exist_ok=True)
-    os.makedirs(os.path.dirname(CHUNKS_PATH), exist_ok=True)
+    os.makedirs(
+        os.path.dirname(INDEX_PATH),
+        exist_ok=True,
+    )
 
-    faiss.write_index(index, str(INDEX_PATH))
+    os.makedirs(
+        os.path.dirname(CHUNKS_PATH),
+        exist_ok=True,
+    )
+
+    faiss.write_index(
+        index,
+        str(INDEX_PATH),
+    )
 
     with open(CHUNKS_PATH, "wb") as f:
         pickle.dump(chunks, f)
 
-    print("Índice e chunks salvos com sucesso!")
+    print(
+        "Índice e chunks salvos com sucesso!"
+    )
 
 
 def carregar_indice():
-    index = faiss.read_index(str(INDEX_PATH))
+    index = faiss.read_index(
+        str(INDEX_PATH)
+    )
 
     with open(CHUNKS_PATH, "rb") as f:
         chunks = pickle.load(f)
@@ -35,8 +53,16 @@ def carregar_indice():
     return index, chunks
 
 
-def busca(query_vector, index, chunks, k):
-    scores, indices = index.search(query_vector, k)
+def busca(
+    query_vector,
+    index,
+    chunks,
+    k,
+):
+    scores, indices = index.search(
+        query_vector,
+        k,
+    )
 
     resultados = []
 
@@ -44,12 +70,20 @@ def busca(query_vector, index, chunks, k):
         if idx == -1 or idx >= len(chunks):
             continue
 
-        resultados.append({
-            "texto": chunks[idx].page_content,
-            "source": chunks[idx].metadata.get("source"),
-            "score": float(scores[0][pos]),
-            "indice": int(idx)
-        })
+        chunk = chunks[idx]
+
+        resultados.append(
+            {
+                "texto": chunk.get_content(),
+                "source": chunk.metadata.get(
+                    "source"
+                ),
+                "score": float(
+                    scores[0][pos]
+                ),
+                "indice": int(idx),
+            }
+        )
 
     return resultados
 
@@ -61,4 +95,6 @@ def reset():
     if os.path.exists(CHUNKS_PATH):
         os.remove(CHUNKS_PATH)
 
-    print("Índice resetado com sucesso!")
+    print(
+        "Índice resetado com sucesso!"
+    )
