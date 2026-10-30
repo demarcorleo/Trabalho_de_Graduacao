@@ -40,7 +40,7 @@ class PipelineRAG:
                 "num_predict": MAX_TOKENS,
                 "top_p": TOP_P,
             },
-            thinking = False,
+            thinking=False,
         )
 
         self.prompts = self.carregar_prompts()
@@ -56,7 +56,7 @@ class PipelineRAG:
         with open(prompt_path, "r", encoding="utf-8") as file:
             return yaml.safe_load(file)
 
-    def processar_query(self, query: str) -> str:
+    def recuperar_resultados(self, query: str) -> list:
         query_vector = gerar_embedding_query(
             query,
             self.tokenizer,
@@ -76,10 +76,41 @@ class PipelineRAG:
             reranker_model=self.reranker_model,
         )
 
+        return resultados_rerankeados
+
+    def processar_query(self, query: str) -> str:
+        resultados_rerankeados = self.recuperar_resultados(query)
+
         return self.gerar_resposta(
             query,
             resultados_rerankeados,
         )
+
+    def processar_query_detalhado(self, query: str) -> dict:
+        resultados_rerankeados = self.recuperar_resultados(query)
+
+        resposta = self.gerar_resposta(
+            query,
+            resultados_rerankeados,
+        )
+
+        fontes = []
+
+        for resultado in resultados_rerankeados:
+            fontes.append(
+                {
+                    "source": resultado.get("source"),
+                    "score": resultado.get("score"),
+                    "reranker_score": resultado.get("reranker_score"),
+                    "indice": resultado.get("indice"),
+                    "texto": resultado.get("texto"),
+                }
+            )
+
+        return {
+            "resposta": resposta,
+            "fontes": fontes,
+        }
 
     def gerar_resposta(self, query: str, resultados: list) -> str:
         if not resultados:
