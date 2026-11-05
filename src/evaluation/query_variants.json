@@ -1,0 +1,62 @@
+[
+  {
+    "id": "q01",
+    "english": "What is the pressure range of the AFRISO DS 01 differential pressure switch, part number 88104?"
+  },
+  {
+    "id": "q02",
+    "english": "What types of fluids can be used with the Danfoss KPI 35 and KPI 36 pressure switches?"
+  },
+  {
+    "id": "q03",
+    "english": "What is the body material of the Bürkert EV2650-2 ball valve?"
+  },
+  {
+    "id": "q04",
+    "english": "What analog output signals are available for the PDM80-2 differential pressure transmitter?"
+  },
+  {
+    "id": "q05",
+    "english": "Which measurement range code of the PDM80-2 corresponds to 0 to 2 bar?"
+  },
+  {
+    "id": "q06",
+    "english": "Which analytical parameters can be measured by the Mettler Toledo M200 transmitters?"
+  },
+  {
+    "id": "q07",
+    "english": "What is the pH display range of the Mettler Toledo M200 transmitter?"
+  },
+  {
+    "id": "q08",
+    "english": "What is the conductivity range for a two-electrode sensor with a cell constant of 0.1 in the M200 transmitter?"
+  },
+  {
+    "id": "q09",
+    "english": "What is the material difference between the MXH and MXHL versions of the Calpeda pump?"
+  },
+  {
+    "id": "q10",
+    "english": "What is the rated output power of the motor of the Calpeda MXH 206/C pump?"
+  },
+  {
+    "id": "q11",
+    "english": "What is the maximum pressure specified for the NieRuf SK01, SK02, and SK03 variable-area flowmeters?"
+  },
+  {
+    "id": "q12",
+    "english": "In which direction should the fluid flow through the NieRuf SK01, SK02, and SK03 variable-area flowmeters?"
+  },
+  {
+    "id": "q13",
+    "english": "What is the nominal filtration rating of the Filtrine spun polypropylene pre-filter element?"
+  },
+  {
+    "id": "q14",
+    "english": "What is the nominal flow rate of the Filtrine PFS4 particle filter?"
+  },
+  {
+    "id": "q15",
+    "english": "What is the nominal salt rejection of the Toray TMH10A reverse osmosis membrane?"
+  }
+]

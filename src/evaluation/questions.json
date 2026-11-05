@@ -1,0 +1,152 @@
+[
+  {
+    "id": "q01",
+    "question": "Qual é a faixa de pressão da chave de pressão diferencial AFRISO DS 01, número de peça 88104?",
+    "gold": "0/1 bar",
+    "gold_source": "pressure range 0/1 bar",
+    "source": {
+      "doc": "AFRISO_DIFFERENTIAL-PRESSURE-SWITCH-DS-01-DIFFERENTIAL-PRESSURE-SWITCH_88104_ENG_GBR.pdf",
+      "pages": [1]
+    }
+  },
+  {
+    "id": "q02",
+    "question": "Quais tipos de fluidos podem ser utilizados com as chaves de pressão Danfoss KPI 35 e KPI 36?",
+    "gold": "Meios gasosos e líquidos.",
+    "gold_source": "Gaseous media and liquids",
+    "source": {
+      "doc": "AI000086439001en-001101.pdf",
+      "pages": [7]
+    }
+  },
+  {
+    "id": "q03",
+    "question": "Qual é o material do corpo da válvula de esfera Bürkert EV2650-2?",
+    "gold": "Aço inoxidável fundido por cera perdida CF8M.",
+    "gold_source": "Body material: Investment Cast Stainless steel CF8M",
+    "source": {
+      "doc": "Burkert catalog.pdf",
+      "pages": [16]
+    }
+  },
+  {
+    "id": "q04",
+    "question": "Quais sinais de saída analógica estão disponíveis para o transmissor de pressão diferencial PDM80-2?",
+    "gold": "4–20 mA, 0–10 V e 0–20 mA, todos com conexão de 3 fios.",
+    "gold_source": "Analog output 4…20 mA 3-wires 0…10 V 3-wires 0…20 mA 3-wires",
+    "source": {
+      "doc": "data_PDM80-2_en.pdf",
+      "pages": [2]
+    }
+  },
+  {
+    "id": "q05",
+    "question": "Qual código de faixa de medição do PDM80-2 corresponde a 0 a 2 bar?",
+    "gold": "B3.",
+    "gold_source": "0…2 bar / 0…200 kPa B3",
+    "source": {
+      "doc": "data_PDM80-2_en.pdf",
+      "pages": [3]
+    }
+  },
+  {
+    "id": "q06",
+    "question": "Quais parâmetros analíticos podem ser medidos pelos transmissores M200 da Mettler Toledo?",
+    "gold": "Condutividade/resistividade, pH/ORP, oxigênio dissolvido, ozônio dissolvido e vazão.",
+    "gold_source": "Conductivity/Resistivity pH/ORP Dissolved Oxygen Dissolved Ozone Flow",
+    "source": {
+      "doc": "DS_M200_Transmitters_58087056_Dec15.pdf",
+      "pages": [1]
+    }
+  },
+  {
+    "id": "q07",
+    "question": "Qual é a faixa de exibição de pH do transmissor M200 da Mettler Toledo?",
+    "gold": "−2,00 a +16,00 pH.",
+    "gold_source": "pH display range|– 2.00 to +16.00 pH",
+    "source": {
+      "doc": "TD_M200_TransmitterSeries_en_30300228_Jun16.pdf",
+      "pages": [4]
+    }
+  },
+  {
+    "id": "q08",
+    "question": "Qual é a faixa de condutividade para um sensor de dois eletrodos com constante de célula 0,1 no transmissor M200?",
+    "gold": "0,02 a 2000 µS/cm.",
+    "gold_source": "C = 0.1 0.02 to 2000 µS/cm",
+    "source": {
+      "doc": "TD_M200_TransmitterSeries_en_30300228_Jun16.pdf",
+      "pages": [5]
+    }
+  },
+  {
+    "id": "q09",
+    "question": "Qual é a diferença de material entre as versões MXH e MXHL da Calpeda?",
+    "gold": "A MXH utiliza aço inoxidável AISI 304, enquanto a MXHL utiliza aço inoxidável AISI 316.",
+    "gold_source": "MXH: version in stainless steel (AISI 304). MXHL: version in stainless steel (AISI 316).",
+    "source": {
+      "doc": "IST MXH Rev 100000992_01.pdf",
+      "pages": [3]
+    }
+  },
+  {
+    "id": "q10",
+    "question": "Qual é a potência nominal de saída do motor da bomba Calpeda MXH 206/C?",
+    "gold": "1,5 kW.",
+    "gold_source": "MXH 206/C 4,7 2,7 MXHM 206 7,4 1,5 1,1 1,5",
+    "source": {
+      "doc": "MXH_EN_012023.pdf",
+      "pages": [3]
+    }
+  },
+  {
+    "id": "q11",
+    "question": "Qual é a pressão máxima especificada para os fluxômetros de área variável NieRuf SK01, SK02 e SK03?",
+    "gold": "10 bar.",
+    "gold_source": "pressure max. 10 bar",
+    "source": {
+      "doc": "Variable-area-flowmeter-SK01-SK02-SK03.pdf",
+      "pages": [1]
+    }
+  },
+  {
+    "id": "q12",
+    "question": "Em qual direção o fluido deve escoar através dos fluxômetros de área variável NieRuf SK01, SK02 e SK03?",
+    "gold": "Verticalmente para cima, do fundo para o topo.",
+    "gold_source": "flow from the bottom up",
+    "source": {
+      "doc": "Variable-area-flowmeter-SK01-SK02-SK03.pdf",
+      "pages": [1]
+    }
+  },
+  {
+    "id": "q13",
+    "question": "Qual é a classificação nominal de filtração do elemento de pré-filtro de polipropileno fiado da Filtrine?",
+    "gold": "5,0 micra.",
+    "gold_source": "5.0 MICRON SPUN POLY FILTER ELEMENT",
+    "source": {
+      "doc": "TMS-IW-EB.pdf",
+      "pages": [1]
+    }
+  },
+  {
+    "id": "q14",
+    "question": "Qual é a vazão nominal do filtro de partículas Filtrine PFS4?",
+    "gold": "4 GPM.",
+    "gold_source": "PFS4 4",
+    "source": {
+      "doc": "TMS-IW-EB.pdf",
+      "pages": [2]
+    }
+  },
+  {
+    "id": "q15",
+    "question": "Qual é a rejeição nominal de sais da membrana de osmose reversa Toray TMH10A?",
+    "gold": "99,3%.",
+    "gold_source": "Nominal Salt Rejection % 99.3",
+    "source": {
+      "doc": "TorayRO_TMHA.pdf",
+      "pages": [1]
+    }
+  }
+]
