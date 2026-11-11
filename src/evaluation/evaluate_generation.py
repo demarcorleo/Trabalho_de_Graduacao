@@ -4,6 +4,12 @@ from pathlib import Path
 
 import numpy as np
 
+from config.settings import (
+    LLM_MODEL_NAME, N_CTX, MAX_TOKENS, TEMPERATURE, TOP_P,
+    EMBEDDING_MODEL_NAME, TOP_K, RERANKER_MODEL_NAME,
+    CHUNK_SIZE, CHUNK_OVERLAP, RERANKER_TOP_N, RERANKER_MIN_SCORE,
+    PROMPT_TEMPLATE, PROMPT_VERSION,
+)
 from src.pipeline.pipeline_rag import PipelineRAG
 from src.retrieval.generate_embedding import (
     gerar_embedding_query,
@@ -330,34 +336,39 @@ def avaliar_generation():
                 len(questoes),
 
             "llm":
-                "qwen3.5:4b-bf16",
+                LLM_MODEL_NAME,
 
             "context_window":
-                4096,
+                N_CTX,
 
             "max_tokens":
-                1024,
+                MAX_TOKENS,
 
             "temperature":
-                0.2,
+                TEMPERATURE,
 
             "top_p":
-                0.9,
+                TOP_P,
 
             "embedding_for_evaluation":
-                "intfloat/multilingual-e5-base",
+                EMBEDDING_MODEL_NAME,
 
             "retrieval_top_k":
-                10,
+                TOP_K,
 
             "reranker":
-                "BAAI/bge-reranker-v2-m3",
+                RERANKER_MODEL_NAME,
 
             "chunk_size":
-                1500,
+                CHUNK_SIZE,
 
             "chunk_overlap":
-                300,
+                CHUNK_OVERLAP,
+
+            "reranker_top_n": RERANKER_TOP_N,
+            "reranker_min_score": RERANKER_MIN_SCORE,
+            "prompt_template": PROMPT_TEMPLATE,
+            "prompt_version": PROMPT_VERSION,
         },
 
         "metrics": {

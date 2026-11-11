@@ -1,5 +1,8 @@
 import os
 import pickle
+import json
+
+from config.settings import CHUNK_SIZE, CHUNK_OVERLAP, EMBEDDING_MODEL_NAME
 
 import faiss
 
@@ -7,6 +10,35 @@ from config.settings import (
     INDEX_PATH,
     CHUNKS_PATH,
 )
+
+
+def caminho_manifesto():
+    return os.path.join(os.path.dirname(str(INDEX_PATH)), "index_manifest.json")
+
+
+def configuracao_indice():
+    return {
+        "chunk_size": CHUNK_SIZE,
+        "chunk_overlap": CHUNK_OVERLAP,
+        "embedding_model": EMBEDDING_MODEL_NAME,
+    }
+
+
+def validar_manifesto():
+    caminho = caminho_manifesto()
+    if not os.path.exists(caminho):
+        raise RuntimeError(
+            "Índice sem manifesto de configuração (possivelmente criado antes do checkpoint). "
+            "Execute 'python -m src.pipeline.pipeline_indexing' para reconstruí-lo com a configuração ativa."
+        )
+    with open(caminho, "r", encoding="utf-8") as arquivo:
+        gravada = json.load(arquivo)
+    esperada = configuracao_indice()
+    if any(gravada.get(chave) != valor for chave, valor in esperada.items()):
+        raise RuntimeError(
+            f"Configuração do índice difere da atual. Índice={gravada}; atual={esperada}. "
+            "Reconstrua o índice antes de avaliar ou consultar."
+        )
 
 
 def criar_indice(embeddings):
@@ -37,12 +69,17 @@ def salvar_indice(index, chunks):
     with open(CHUNKS_PATH, "wb") as f:
         pickle.dump(chunks, f)
 
+    # Registrar a configuração associada ao índice para impedir reuso incompatível.
+    with open(caminho_manifesto(), "w", encoding="utf-8") as arquivo:
+        json.dump(configuracao_indice(), arquivo, indent=2, ensure_ascii=False)
+
     print(
-        "Índice e chunks salvos com sucesso!"
+        "Índice, chunks e manifesto salvos com sucesso!"
     )
 
 
 def carregar_indice():
+    validar_manifesto()
     index = faiss.read_index(
         str(INDEX_PATH)
     )
@@ -94,6 +131,9 @@ def reset():
 
     if os.path.exists(CHUNKS_PATH):
         os.remove(CHUNKS_PATH)
+
+    if os.path.exists(caminho_manifesto()):
+        os.remove(caminho_manifesto())
 
     print(
         "Índice resetado com sucesso!"

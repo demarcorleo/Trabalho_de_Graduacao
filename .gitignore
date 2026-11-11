@@ -221,3 +221,5 @@ __marimo__/
 data/documents/*
 #generated indexes
 data/indexes/*
+__pycache__/
+*.pyc

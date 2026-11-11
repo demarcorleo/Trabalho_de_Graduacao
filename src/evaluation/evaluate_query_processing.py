@@ -41,158 +41,21 @@ def carregar_json(path):
         return json.load(file)
 
 
-def normalizar_source(source):
-    if source is None:
-        return ""
+# Critério unificado e sem correspondência parcial.
+from src.evaluation.gold_matching import (
+    GOLD_MATCH_VERSION,
+    normalizar_source,
+    normalizar_texto,
+    localizar_gold_chunks,
+)
 
-    return Path(
-        str(source)
-    ).name
 
-
-def normalizar_texto(texto):
-    """
-    Normaliza o texto para facilitar a localização
-    do gold passage dentro dos chunks.
-    """
-
-    if texto is None:
-        return ""
-
-    return " ".join(
-        str(texto)
-        .lower()
-        .replace("\n", " ")
-        .split()
+def localizar_gold_passage(question, chunks):
+    return localizar_gold_chunks(
+        chunks,
+        question["source"]["doc"],
+        question.get("gold_source"),
     )
-
-
-def localizar_gold_passage(
-    question,
-    chunks,
-):
-    """
-    Localiza automaticamente os chunks que contêm
-    a resposta gold.
-
-    A busca é feita dentro do documento indicado
-    pela fonte da questão, utilizando gold_source.
-    """
-
-    gold_source = question.get(
-        "gold_source"
-    )
-
-    source_doc = question[
-        "source"
-    ]["doc"]
-
-    if not gold_source:
-        return []
-
-    gold_normalizado = normalizar_texto(
-        gold_source
-    )
-
-    source_doc_normalizado = (
-        normalizar_source(
-            source_doc
-        )
-    )
-
-    candidatos = []
-
-    for indice, chunk in enumerate(
-        chunks
-    ):
-        chunk_source = normalizar_source(
-            chunk.metadata.get(
-                "source"
-            )
-        )
-
-        if (
-            chunk_source
-            != source_doc_normalizado
-        ):
-            continue
-
-        texto_chunk = normalizar_texto(
-            chunk.get_content()
-        )
-
-        if (
-            gold_normalizado
-            in texto_chunk
-        ):
-            candidatos.append(indice)
-
-    # --------------------------------------------------------
-    # FALLBACK
-    # --------------------------------------------------------
-    #
-    # Em alguns casos o gold_source pode estar dividido
-    # entre chunks. Nesse caso procuramos por uma quantidade
-    # suficiente de palavras do gold.
-    #
-    # Isso não substitui a correspondência completa;
-    # serve apenas para localizar o conjunto de chunks
-    # candidatos.
-    #
-
-    if not candidatos:
-
-        palavras = [
-            palavra
-            for palavra in gold_normalizado.split()
-            if len(palavra) >= 4
-        ]
-
-        if palavras:
-
-            # Mantém palavras mais informativas
-            # para evitar buscas excessivamente genéricas.
-            palavras = palavras[:12]
-
-            for indice, chunk in enumerate(
-                chunks
-            ):
-                chunk_source = normalizar_source(
-                    chunk.metadata.get(
-                        "source"
-                    )
-                )
-
-                if (
-                    chunk_source
-                    != source_doc_normalizado
-                ):
-                    continue
-
-                texto_chunk = normalizar_texto(
-                    chunk.get_content()
-                )
-
-                palavras_encontradas = sum(
-                    1
-                    for palavra in palavras
-                    if palavra in texto_chunk
-                )
-
-                # Exige pelo menos metade das palavras
-                # selecionadas.
-                if (
-                    palavras_encontradas
-                    >= max(
-                        2,
-                        len(palavras) // 2,
-                    )
-                ):
-                    candidatos.append(
-                        indice
-                    )
-
-    return candidatos
 
 
 def encontrar_posicao_documento(
@@ -921,8 +784,7 @@ def main():
                 "FAISS IndexFlatIP",
 
             "gold_passage_method":
-                "Localização automática do gold_source "
-                "nos chunks C4",
+                GOLD_MATCH_VERSION,
         },
 
         "comparison":
@@ -942,7 +804,7 @@ def main():
 
     output_file = (
         OUTPUT_PATH
-        / "comparison.json"
+        / "comparison_checkpoint03.json"
     )
 
     with open(

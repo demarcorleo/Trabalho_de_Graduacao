@@ -46,7 +46,7 @@ def carregar_documentos(pasta: str):
             f"Pasta '{pasta}' não encontrada."
         )
 
-    for arquivo in os.listdir(pasta):
+    for arquivo in sorted(os.listdir(pasta)):
         caminho = os.path.join(pasta, arquivo)
 
         if not arquivo.lower().endswith((".pdf", ".txt")):

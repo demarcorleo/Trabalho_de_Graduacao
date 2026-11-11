@@ -56,109 +56,17 @@ def carregar_questoes():
         return json.load(file)
 
 
-def normalizar_source(source):
-    if source is None:
-        return ""
-
-    return Path(str(source)).name
-
-
-def normalizar_texto(texto):
-    """
-    Normaliza texto para comparação da evidência
-    com os chunks.
-
-    Remove diferenças de:
-    - maiúsculas/minúsculas;
-    - espaços;
-    - quebras de linha;
-    - formatação Markdown básica.
-    """
-    if texto is None:
-        return ""
-
-    texto = str(texto).lower()
-
-    texto = texto.replace(
-        "\u2212",
-        "-",
-    )
-
-    texto = texto.replace(
-        "\u00a0",
-        " ",
-    )
-
-    texto = re.sub(
-        r"[*_`#]",
-        "",
-        texto,
-    )
-
-    texto = re.sub(
-        r"\s+",
-        " ",
-        texto,
-    )
-
-    return texto.strip()
+# Critério unificado e sem correspondência parcial.
+from src.evaluation.gold_matching import (
+    normalizar_source,
+    normalizar_texto,
+    gold_esta_no_chunk,
+    localizar_gold_chunks,
+)
 
 
-def gold_esta_no_chunk(gold_source, texto):
-    """
-    Verifica se a evidência textual esperada
-    aparece no chunk após normalização.
-    """
-    gold_normalizado = normalizar_texto(
-        gold_source
-    )
-
-    texto_normalizado = normalizar_texto(
-        texto
-    )
-
-    if not gold_normalizado:
-        return False
-
-    return gold_normalizado in texto_normalizado
-
-
-def encontrar_gold_chunks(
-    chunks,
-    source,
-    gold_source,
-):
-    """
-    Localiza os chunks que representam o
-    passage-gold.
-
-    Critérios:
-    1. mesmo documento da fonte;
-    2. gold_source aparece no texto do chunk.
-    """
-    source_normalizado = normalizar_source(
-        source
-    )
-
-    gold_chunks = []
-
-    for indice, chunk in enumerate(chunks):
-        chunk_source = normalizar_source(
-            chunk.metadata.get("source")
-        )
-
-        if chunk_source != source_normalizado:
-            continue
-
-        texto = chunk.text
-
-        if gold_esta_no_chunk(
-            gold_source,
-            texto,
-        ):
-            gold_chunks.append(indice)
-
-    return gold_chunks
+def encontrar_gold_chunks(chunks, source, gold_source):
+    return localizar_gold_chunks(chunks, source, gold_source)
 
 
 def encontrar_posicao_documento(

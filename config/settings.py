@@ -38,11 +38,11 @@ DOCUMENTS_PATH = Path(
 # =========================
 
 CHUNK_SIZE = int(
-    os.getenv("CHUNK_SIZE", 1000)
+    os.getenv("CHUNK_SIZE", 1500)
 )
 
 CHUNK_OVERLAP = int(
-    os.getenv("CHUNK_OVERLAP", 200)
+    os.getenv("CHUNK_OVERLAP", 300)
 )
 
 # =========================
@@ -107,7 +107,7 @@ RERANKER_MIN_SCORE = float(
 
 LLM_MODEL_NAME = os.getenv(
     "LLM_MODEL_NAME",
-    "qwen3.5"
+    "qwen3.5:4b-bf16"
 )
 
 N_CTX = int(
@@ -132,5 +132,10 @@ OLLAMA_REQUEST_TIMEOUT = float(
 DOCUMENTS_PATH = Path(os.getenv("DOCUMENTS_PATH", BASE_DIR / "data/documents"))
 PROMPT_TEMPLATE = os.getenv(
     "PROMPT_TEMPLATE",
-    "qwen3.5-4B"
+    "qwen35-4B"
 )
+# Validação das configurações ativas (incluindo eventuais sobrescritas pelo .env).
+if CHUNK_SIZE <= 0 or not 0 <= CHUNK_OVERLAP < CHUNK_SIZE:
+    raise ValueError("CHUNK_SIZE deve ser positivo e CHUNK_OVERLAP deve estar entre 0 e CHUNK_SIZE-1")
+if TOP_K <= 0 or RERANKER_TOP_N <= 0:
+    raise ValueError("TOP_K e RERANKER_TOP_N devem ser positivos")
